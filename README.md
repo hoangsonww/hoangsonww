@@ -5,10 +5,10 @@ I'm a Computer Science & Economics double-major at the University of North Carol
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning.
 - 👯 I’m looking to collaborate on Open-Source Projects.
-- 💬 Ask me about [What You're an Expert In]
-- 📫 How to reach me: [Your Email or Twitter Handle or LinkedIn Profile]
-- 😄 Pronouns: [Your Pronouns]
-- ⚡ Fun fact: [A Fun Fact About You]
+- 💬 Ask me about PROGRAMMING.
+- 📫 How to reach me via email: shn21@case.edu
+- 😄 Pronouns: He/Him/His.
+- ⚡ Fun fact: I love Java (or I hate it).
 
 ## Skills and Experience
 * 🐍 Python
