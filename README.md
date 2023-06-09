@@ -8,7 +8,7 @@ I'm a Computer Science & Economics double-major at the University of North Carol
 - 💬 Ask me about PROGRAMMING.
 - 📫 How to reach me via email: shn21@case.edu
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I love Java (or I hate it).
+- ⚡ Fun fact: I have a love-hate relationship with Java.
 
 ## Skills and Experience
 * 🐍 Python
