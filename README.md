@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm David Nguyen!
 
-I'm a Computer Science & Economics double-major at the University of North Carolina at Chapel Hill (*formerly Case Western Reserve University*)
+I'm a Computer Science & Economics double-major at the University of North Carolina at Chapel Hill (*formerly Case Western Reserve University*). Currently, I'm a Software Engineering Intern at VNG Corporation - one of the largest tech companies in Vietnam and Asia.
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning.
@@ -8,12 +8,12 @@ I'm a Computer Science & Economics double-major at the University of North Carol
 - 💬 Ask me about PROGRAMMING.
 - 📫 How to reach me via email: shn21@case.edu
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I have a love-hate relationship with Java.
+- ⚡ Fun fact: I have a love-hate relationship with Java & Python.
 
 ## Skills and Experience
 * 🌐 HTML / CSS / JavaScript
 * 🐍 Java / C++ / C / Assembly / Verilog / Python / RestAPIs / Ruby / R / Swift
-* 💻 Node.js / React.js / Vue.js / Angular / PHP
+* 💻 Node.js / React.js / Vue.js / Angular / PHP / Redux / Web Assembly / Webpack
 * 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau
 
 ## Current projects
