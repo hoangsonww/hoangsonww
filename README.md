@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm David Nguyen!
 
-I'm a Computer Science & Economics double major at the University of North Carolina at Chapel Hill (*formerly Case Western Reserve University*). From May 2023 to August 2023, I worked as a Software Engineering Intern at VNG Corporation - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development.
+I'm a Computer Science & Economics double major at the University of North Carolina at Chapel Hill (*formerly Case Western Reserve University*), with a minor in Data Science. From May 2023 to August 2023, I worked as a Software Engineering Intern at VNG Corporation - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This is also my most recent work experience.
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning.
