@@ -20,9 +20,12 @@ I'm a Computer Science & Economics double major at the University of North Carol
 * VNG CORPORATION's vCloudcam Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * The MovieVerse Database:  (https://github.com/hoangsonww/The-MovieVerse-Database)
 * The RecipeGenie Database: (https://github.com/hoangsonww/RecipeGenie-App)
+* The EventHorizon App:     (https://hoangsonww.github.io/The-Event-Horizon-App)
+* The CommunitySphere:      (https://hoangsonww.github.io/Community-Sphere-Social-Media/)
+* The GitPeek App:          (https://hoangsonww.github.io/GitHub-Profile-Quickview-App/)
 * The WeatherMate App:      (https://github.com/hoangsonww/WeatherMate-App)
-* The CommunitySphere:      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 * The StickyNotes App:      (https://github.com/hoangsonww/The-StickyNotes-App)
+* 
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
