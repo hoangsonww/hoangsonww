@@ -17,7 +17,7 @@ I'm a Computer Science & Economics double major at the University of North Carol
 * 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB 
 
 ## Projects
-* VNG CORPORATION's vCloudcam Project: (V1: https://vcloudcam.vn) and (V2: https://vngcloud.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
+* VNG CORPORATION's vCloudcam Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * The MovieVerse Database:  (https://github.com/hoangsonww/The-MovieVerse-Database)
 * The RecipeGenie Database: (https://github.com/hoangsonww/RecipeGenie-App)
 * The WeatherMate App:      (https://github.com/hoangsonww/WeatherMate-App)
