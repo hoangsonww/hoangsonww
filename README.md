@@ -5,26 +5,26 @@ I'm a Computer Science and Economics double major at the University of North Car
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning.
 - 👯 I’m looking to collaborate on Open-Source Projects. I'm also working as a software engineering intern at VNG Corporation.
-- 💬 Ask me anything about Full-Stack Programming.
+- 💬 Ask me anything about Front-End Development.
 - 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com
 - 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I have a love-hate relationship with Java & Python.
+- ⚡ Fun fact: I have a love-hate relationship with Java & Python. I'm learning to master back-end development as well!
 
 ## Skills and Experiences
 * 🌐 HTML / CSS / TailwindCSS / Bootstrap
-* 🐍 Java / C++ / C / Assembly / Verilog / Python / C# / Web Assembly / Ruby / R / Swift / JavaScript
+* 🐍 Java / C++ / C / Assembly / Verilog / Python / C# / Web Assembly / Ruby / R / Swift / JavaScript / System Verilog
 * 💻 Node.js / React.js / Vue.js / Angular / PHP / Redux / Web Assembly / Webpack / RestAPIs / AWS / Ruby on Rails / Spring Boot Java
-* 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB / JUnit Testing
+* 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB / JUnit Testing / Micro-Frontend Architecture
 
 ## Projects
-* VNG CORPORATION's vCloudcam Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
+* VNG CORPORATION's vCloudcam Project (as a key developer and maintainer): (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * The MovieVerse Database:  (https://github.com/hoangsonww/The-MovieVerse-Database)
 * The RecipeGenie Database: (https://github.com/hoangsonww/RecipeGenie-App)
 * The EventHorizon App:     (https://github.com/hoangsonww/The-Event-Horizon-App)
-* The CommunitySphere:      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 * The GitPeek App:          (https://github.com/hoangsonww/GitHub-Profile-Quickview-App)
-* The WeatherMate App:      (https://github.com/hoangsonww/WeatherMate-App)
+* The CommunitySphere Social Media (In Progress):      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 * The StickyNotes App:      (https://github.com/hoangsonww/The-StickyNotes-App)
+* The WeatherMate App:      (https://github.com/hoangsonww/WeatherMate-App)
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
