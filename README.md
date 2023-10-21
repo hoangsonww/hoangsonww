@@ -14,7 +14,7 @@ I'm a Computer Science and Economics double major at the University of North Car
 * 🌐 HTML / CSS / TailwindCSS / Bootstrap
 * 🐍 Java / C++ / C / Assembly / Verilog / Python / C# / Web Assembly / Ruby / R / Swift / JavaScript
 * 💻 Node.js / React.js / Vue.js / Angular / PHP / Redux / Web Assembly / Webpack / RestAPIs / AWS / Ruby on Rails / Spring Boot Java
-* 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB
+* 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB / JUnit Testing
 
 ## Projects
 * VNG CORPORATION's vCloudcam Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
