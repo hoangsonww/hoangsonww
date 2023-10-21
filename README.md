@@ -3,7 +3,7 @@
 I'm a Computer Science and Economics double major at the University of North Carolina at Chapel Hill (*formerly Case Western Reserve University*), with a minor in Data Science. From May 2023 to August 2023, I worked as a Software Engineering Intern at VNG Corporation - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This is also my most recent work experience. Please visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
-- 🌱 I’m currently learning AI & Machine Learning.
+- 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
 - 👯 I’m looking to collaborate on Open-Source Projects. I'm also working as a software engineering intern at VNG Corporation.
 - 💬 Ask me anything about Front-End Development.
 - 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com
