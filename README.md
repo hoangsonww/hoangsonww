@@ -29,3 +29,5 @@ I'm a Computer Science and Economics double major at the University of North Car
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
+* [Portfolio](https://hoangsonww.github.io/My-Portfolio-Website)
+* [Instagram](https://www.instagram.com/hoangsonw_)
