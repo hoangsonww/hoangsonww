@@ -17,15 +17,16 @@ I'm a Computer Science and Economics double major at the University of North Car
 * 🔧 Git / GitHub / GitLab / MongoDB / MySQL / Django / Ubuntu / PowerBI / Tableau / Apache Cassandra / DynamoDB / JUnit Testing / Micro-Frontend Architecture
 
 ## Projects
-* VNG CORPORATION's vCloudcam Project (as a key developer and maintainer): (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
+* VNG CORPORATION's vCloudcam Project (as the key developer and maintainer): (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * My Portfolio Website:     (https://github.com/hoangsonww/My-Portfolio-Website)
 * The MovieVerse Database:  (https://github.com/hoangsonww/The-MovieVerse-Database)
 * The RecipeGenie Database: (https://github.com/hoangsonww/RecipeGenie-App)
 * The EventHorizon App:     (https://github.com/hoangsonww/The-Event-Horizon-App)
 * The GitPeek App:          (https://github.com/hoangsonww/GitHub-Profile-Quickview-App)
-* The CommunitySphere Social Media (In Progress):      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 * The StickyNotes App:      (https://github.com/hoangsonww/The-StickyNotes-App)
 * The WeatherMate App:      (https://github.com/hoangsonww/WeatherMate-App)
+* The ReadVoyage App:       (https://hoangsonww.github.io/Read-Voyage-Kindle)
+* The CommunitySphere Social Media (In Progress):      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
