@@ -1,6 +1,6 @@
 # Hello, World! 👋 I'm David Nguyen!
 
-I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The University of North Carolina at Chapel Hill** (*formerly Case Western Reserve University*), with a minor in **Data Science**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. Feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
+I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The University of North Carolina at Chapel Hill**, with a minor in **Data Science**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. Feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
@@ -32,10 +32,10 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 🍲 **The RecipeGenie Database:** (https://github.com/hoangsonww/RecipeGenie-App)
 * 📝 **The StickyNotes App:**      (https://github.com/hoangsonww/The-StickyNotes-App)
 * ☔ **The WeatherMate App:**      (https://github.com/hoangsonww/WeatherMate-App)
+* 📚 **The ToDo App:**             (https://github.com/hoangsonww/The-ToDo-App)
 * ⏰ **The EventHorizon App:**     (https://github.com/hoangsonww/The-Event-Horizon-App)
 * 🔍 **The GitPeek App:**          (https://github.com/hoangsonww/GitHub-Profile-Quickview-App)
 * 📖 **The ReadVoyage App:**       (https://hoangsonww.github.io/Read-Voyage-Kindle)
-* 📚 **The ToDo App:**             (https://github.com/hoangsonww/The-ToDo-App)
 * 🗣️ **The CommunitySphere Social Media (In Progress):**      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 
 ## Certificates
@@ -55,10 +55,10 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 📈 **Carolina Economics Club:** Member
 * 📊 **Carolina Data Challenge:** Member
 
-## My Locations:
+## Locations:
 * 🇻🇳 **Vietnam**
 * 🇺🇸 **United States**
-* 🇨🇦 **Canada**
+* 🇸🇬 **Singapore**
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
