@@ -5,7 +5,7 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
 - 👯 I’m looking to collaborate on Open-Source Projects. I'm also working as a software engineering intern at VNG Corporation.
-- 💬 Ask me anything about Front-End Development.
+- 💬 Ask me anything about Front-End Development. I'm also a huge fan of the React framework!
 - 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com. (The third email address is preferred.)
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I have a love-hate relationship with Java. I'm learning to master back-end and middleware development as well!
@@ -19,8 +19,11 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 🎨 **Design**: Figma / Adobe Illustrator / Blender
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontend / Micro-Services
-* 🔧 **Tools**: Git / GitHub / GitLab / Ubuntu / Unit Testing / Jenkins / DevOps / Agile Development
-* 👨‍💻 **Knowledge**: OOP / AI / Machine & Deep Learning / 
+* 🔧 **CI/CD**: Jenkins / GitLab CI / GitHub Actions
+* 🔧 **Tools**: Git / GitLab / Ubuntu / Unit Testing / Agile Development 
+* 👨‍💻 **Knowledge**: OOP / AI / Machine & Deep Learning
+* 📚 **Libraries**: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka
+* 📱 **Mobile Development**: React Native / Flutter / Android Studio / iOS
 
 ## Projects
 * 📹 **VNG CORPORATION**'s **vCloudcam** Camera Management Website Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
@@ -32,6 +35,7 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * ⏰ **The EventHorizon App:**     (https://github.com/hoangsonww/The-Event-Horizon-App)
 * 🔍 **The GitPeek App:**          (https://github.com/hoangsonww/GitHub-Profile-Quickview-App)
 * 📖 **The ReadVoyage App:**       (https://hoangsonww.github.io/Read-Voyage-Kindle)
+* 📚 **The ToDo App:**             (https://github.com/hoangsonww/The-ToDo-App)
 * 🗣️ **The CommunitySphere Social Media (In Progress):**      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 
 ## Certificates
@@ -49,10 +53,12 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 🏆**UNC-Chapel Hill Competitive Programming Club:** Key Member & Team II Lead
 * 🤖 **UNC-Chapel Hill Artificial Intelligence Club:** Member
 * 📈 **Carolina Economics Club:** Member
+* 📊 **Carolina Data Challenge:** Member
 
 ## My Locations:
 * 🇻🇳 **Vietnam**
 * 🇺🇸 **United States**
+* 🇨🇦 **Canada**
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
