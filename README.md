@@ -55,10 +55,11 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 📈 **Carolina Economics Club:** Member
 * 📊 **Carolina Data Challenge:** Member
 
-## Locations:
-* 🇻🇳 **Vietnam**
-* 🇺🇸 **United States**
-* 🇸🇬 **Singapore**
+## My GitHub Stats:
+[![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)](
+https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical)](https://github.com/hoangsonww/github-readme-stats)
+![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15)
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
