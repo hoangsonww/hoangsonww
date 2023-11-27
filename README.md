@@ -1,5 +1,12 @@
 # Hello, World! 👋 I'm David Nguyen!
 
+- [Skills and Knowledge](#skills-and-knowledge)
+- [Projects](#projects)
+- [Certificates](#certificates)
+- [Current Organizations](#current-organizations)
+- [My GitHub Stats](#my-github-stats)
+- [Connect with me](#connect-with-me)
+
 I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The University of North Carolina at Chapel Hill**, with a minor in **Data Science**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. Feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
@@ -58,9 +65,10 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 
 ![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)
 
+![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical)](https://github.com/hoangsonww/github-readme-stats)
 
-![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15)
 
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
