@@ -13,7 +13,7 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 - 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
 - 👯 I’m looking to collaborate on Open-Source Projects. I'm also working as a software engineering intern at VNG Corporation.
 - 💬 Ask me anything about Front-End Development. I'm also a huge fan of the React framework!
-- 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com. (The third email address is preferred.)
+- 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com. (The third email address is personal and preferred.)
 - 😄 Pronouns: He/Him/His.
 - ⚡ Fun fact: I have a love-hate relationship with Java. I'm learning to master back-end and middleware development as well!
 
@@ -73,6 +73,5 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 ## Connect with me
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
 * [Portfolio](https://hoangsonww.github.io/My-Portfolio-Website)
-* [Instagram](https://www.instagram.com/hoangsonw_)
 
 ---
