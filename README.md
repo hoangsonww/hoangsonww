@@ -11,8 +11,8 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 - ⚡ Fun fact: I have a love-hate relationship with Java. I'm learning to master back-end and middleware development as well!
 
 ## Skills and Knowledge
-* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly (WASM) / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / Ruby on Rails / AWS SQS / Computer Networking
-* 🎲 **Game Development**: Unity / Unreal Engine / DirectX / OpenGL / JavaFX / Godot
+* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / Ruby on Rails / AWS SQS
+* 🎲 **Game Development**: Unreal Engine / DirectX / OpenGL / JavaFX
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / C# / Ruby / R / Swift / JavaScript / System Verilog / PHP / Go
 * 💻 **Containerization:** Docker and Kubernetes
 * 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / DynamoDB / PostgreSQL
@@ -20,8 +20,7 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontend / Micro-Services
 * 🔧 **CI/CD**: Jenkins / GitLab CI / GitHub Actions
-* 🔧 **Tools**: Git / GitLab / Ubuntu / Unit Testing / Agile Development 
-* 👨‍💻 **Knowledge**: OOP / AI / Machine & Deep Learning
+* 🔧 **Tools**: Git / GitLab / Ubuntu / Unit Testing
 * 📚 **Libraries**: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka
 * 📱 **Mobile Development**: React Native / Flutter / Android Studio / iOS
 
@@ -56,9 +55,11 @@ I'm a **Computer Science (B.S.)** and **Economics (B.A.)** double major at **The
 * 📊 **Carolina Data Challenge:** Member
 
 ## My GitHub Stats:
-[![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)](
-https://git.io/streak-stats)
+
+![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical)](https://github.com/hoangsonww/github-readme-stats)
+
 ![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15)
 
 ## Connect with me
