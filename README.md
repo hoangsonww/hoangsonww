@@ -11,7 +11,7 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 
 - 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
 - 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
-- 👯 I’m looking to collaborate on Open-Source Projects. I'm also working as a software engineering intern at VNG Corporation.
+- 👯 I’m looking to collaborate on Open-Source Projects and find another Software Engineering Internship for Summer & Fall 2024.
 - 💬 Ask me anything about Front-End Development. I'm also a huge fan of the React framework!
 - 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com. (The third email address is personal and preferred.)
 - 😄 Pronouns: He/Him/His.
@@ -50,8 +50,11 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 * 💾 **PH125.1x: Data Science Certificates** by **Harvard University**
 * 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**
 * 🔗 **REST APIs** Certificate by **Codecademy**
+* 🗣️ **Leadership and Communication** Certificate by **Harvard University**
 * 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**
+* 📝 **Data Science Ethics Certificate** by the **University of Michigan**
 * 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**
+* 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**
 
 ## My GitHub Stats:
 
@@ -63,7 +66,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 
 
 ## Connect with me
-* [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
 * [Portfolio](https://hoangsonww.github.io/My-Portfolio-Website)
 
 ---
