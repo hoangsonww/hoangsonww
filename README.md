@@ -56,7 +56,7 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 ## Current Organizations:
 * 🧑‍💻 **Google Student Developer Clubs (at UNC-Chapel Hill):** Software Engineering Team I Leader
 * 🏅 **Microsoft Learn:** Student Ambassador
-* 🏆**UNC-Chapel Hill Competitive Programming Club:** Key Member & Team II Lead
+* 🏆 **UNC-Chapel Hill Competitive Programming Club:** Key Member & Team II Lead
 * 🤖 **UNC-Chapel Hill Artificial Intelligence Club:** Member
 * 📈 **Carolina Economics Club:** Member
 * 📊 **Carolina Data Challenge:** Member
