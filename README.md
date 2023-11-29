@@ -53,14 +53,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 * 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**
 * 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**
 
-## Current Organizations:
-* 🧑‍💻 **Google Student Developer Clubs (at UNC-Chapel Hill):** Software Engineering Team I Leader
-* 🏅 **Microsoft Learn:** Student Ambassador
-* 🏆 **UNC-Chapel Hill Competitive Programming Club:** Key Member & Team II Lead
-* 🤖 **UNC-Chapel Hill Artificial Intelligence Club:** Member
-* 📈 **Carolina Economics Club:** Member
-* 📊 **Carolina Data Challenge:** Member
-
 ## My GitHub Stats:
 
 ![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)
