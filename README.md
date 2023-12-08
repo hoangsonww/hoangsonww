@@ -33,14 +33,14 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 
 ## Projects
 * 📹 **VNG CORPORATION**'s **vCloudcam** Camera Management Website Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
-* 🌟 **My Portfolio Website:**     (https://github.com/hoangsonww/My-Portfolio-Website)
+* 🌟 **My Portfolio Website:**     (https://hoangsonww.github.io/My-Portfolio-Website/)
 * 🎥 **The MovieVerse Database:**  (https://hoangsonww.github.io/The-MovieVerse-Database/)
-* 🍲 **The RecipeGenie Database:** (https://github.com/hoangsonww/RecipeGenie-App)
-* 📝 **The StickyNotes App:**      (https://github.com/hoangsonww/The-StickyNotes-App)
-* ☔ **The WeatherMate App:**      (https://github.com/hoangsonww/WeatherMate-App)
-* 📚 **The ToDo App:**             (https://github.com/hoangsonww/The-ToDo-App)
-* ⏰ **The EventHorizon App:**     (https://github.com/hoangsonww/The-Event-Horizon-App)
-* 🔍 **The GitPeek App:**          (https://github.com/hoangsonww/GitHub-Profile-Quickview-App)
+* 🍲 **The RecipeGenie Database:** (https://hoangsonww.github.io/RecipeGenie-App/)
+* 📝 **The StickyNotes App:**      (https://hoangsonww.github.io/The-StickyNotes-App/)
+* ☔  **The WeatherMate App:**      (https://hoangsonww.github.io/WeatherMate-App/)
+* 📚 **The ToDo App:**             (https://hoangsonww.github.io/The-ToDo-App/)
+* ⏰ **The EventHorizon App:**     (https://hoangsonww.github.io/The-Event-Horizon-App/)
+* 🔍 **The GitPeek App:**          (https://hoangsonww.github.io/GitHub-Profile-Quickview-App/)
 * 📖 **The ReadVoyage App:**       (https://hoangsonww.github.io/Read-Voyage-Kindle)
 * 🗣️ **The CommunitySphere Social Media (In Progress):**      (https://github.com/hoangsonww/Community-Sphere-Social-Media)
 
