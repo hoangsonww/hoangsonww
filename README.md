@@ -1,7 +1,5 @@
 # Hello, World! 👋 I'm David Nguyen!
 
----
-
 ## Sections
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Projects](#projects)
@@ -10,9 +8,7 @@
 - [My GitHub Stats](#my-github-stats)
 - [Connect with me](#connect-with-me)
 
-I'm a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
-
----
+I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / Ruby on Rails / AWS SQS
@@ -28,8 +24,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 * 📚 **Libraries**: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka
 * 📱 **Mobile Development**: React Native / Flutter / Android Studio / iOS
 
----
-
 ## Projects
 * 📹 **VNG CORPORATION**'s **vCloudcam** Camera Management Website Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * 🌟 **My Portfolio Website:**     (https://hoangsonww.github.io/My-Portfolio-Website/)
@@ -41,8 +35,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 * ⏰ **The EventHorizon App:**     (https://hoangsonww.github.io/The-Event-Horizon-App/)
 * 🔍 **The GitPeek App:**          (https://hoangsonww.github.io/GitHub-Profile-Quickview-App/)
 * 📖 **The ReadVoyage App:**       (https://hoangsonww.github.io/Read-Voyage-Kindle)
-
----
 
 ## Certificates
 * 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**
@@ -56,8 +48,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 * 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**
 * 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**
 
----
-
 ## My GitHub Stats:
 
 ![Hoang Son's GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical)
@@ -65,8 +55,6 @@ I'm a student at **The University of North Carolina at Chapel Hill**. From May 2
 ![Hoang Son's GitHub Trophies](https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical)](https://github.com/hoangsonww/github-readme-stats)
-
----
 
 ## Connect with me
 * [Portfolio](https://hoangsonww.github.io/My-Portfolio-Website)
