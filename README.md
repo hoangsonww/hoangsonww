@@ -9,14 +9,6 @@
 
 I'm a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website at https://hoangsonww.github.io/My-Portfolio-Website/!
 
-- 🔭 I’m currently working on the RecipeGenie Database, the MovieVerse Database, the CommunitySphere social media, the WeatherMate App, and the StickyNotes App.
-- 🌱 I’m currently learning AI & Machine Learning, my goal is to implement a chatbot feature in all of my projects!
-- 👯 I’m looking to collaborate on Open-Source Projects and find another Software Engineering Internship for Summer & Fall 2024.
-- 💬 Ask me anything about Front-End Development. I'm also a huge fan of the React framework!
-- 📫 How to reach me via email: snghoang@unc.edu, shn21@case.edu, or hoangson091104@gmail.com. (The third email address is personal and preferred.)
-- 😄 Pronouns: He/Him/His.
-- ⚡ Fun fact: I have a love-hate relationship with Java. I'm learning to master back-end and middleware development as well!
-
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / Ruby on Rails / AWS SQS
 * 🎲 **Game Development**: Unreal Engine / DirectX / OpenGL / JavaFX
