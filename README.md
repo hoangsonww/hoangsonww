@@ -27,7 +27,7 @@ I'm currently a student at **The University of North Carolina at Chapel Hill**. 
 ## Projects
 * 📹 **VNG CORPORATION**'s **vCloudcam** Camera Management Website Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
 * 🌟 **My Portfolio Website:**     (https://sonnguyenhoang.com)
-* 🎥 **The MovieVerse Database:**  (https://hoangsonww.github.io/The-MovieVerse-Database/)
+* 🎥 **The MovieVerse Database:**  (https://movie-verse.com)
 * 📝 **The StickyNotes App:**      (https://hoangsonww.github.io/The-StickyNotes-App/)
 * 🍲 **The RecipeGenie Database:** (https://hoangsonww.github.io/RecipeGenie-App/)
 * ☔  **The WeatherMate App:**      (https://hoangsonww.github.io/WeatherMate-App/)
