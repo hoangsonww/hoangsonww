@@ -62,6 +62,6 @@ I'm currently a student at **The University of North Carolina at Chapel Hill**. 
 </p>
 
 ## Connect with me
-* [Portfolio](https:sonnguyenhoang.com)
+* [Portfolio](https://sonnguyenhoang.com)
 
 ---
