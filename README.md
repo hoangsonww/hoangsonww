@@ -1,49 +1,55 @@
 # Hello, World! 👋 I'm David Nguyen!
 
 ## Sections
+- [Introduction](#introduction)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Projects](#projects)
 - [Certificates](#certificates)
-- [Current Organizations](#current-organizations)
 - [My GitHub Stats](#my-github-stats)
 - [Connect with me](#connect-with-me)
 
-I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+## Introduction
+
+My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
-* 🎲 **Game Development**: Unreal Engine / DirectX / OpenGL / JavaFX
+* 🎲 **Game Development**: Unreal Engine / DirectX / JavaFX
+* 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / R / Swift / JavaScript / Verilog / PHP / Go
 * 💻 **Containerization:** Docker / Kubernetes
 * 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / DynamoDB / PostgreSQL
 * 🎨 **Design**: Figma / Adobe Illustrator / Blender
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
-* ⌨️ **Architectures:** Micro-Frontend / Micro-Services
-* 🔄 **CI/CD**: Jenkins / GitHub Actions
-* 🔧 **Tools**: Git / GitLab / Ubuntu / Unit Testing
+* ⌨️ **Architectures:** Micro-Frontends / Micro-Services
+* 🔧 **Tools**: Git / Ubuntu / Unit Testing
 * 📚 **Libraries**: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka
-* 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
 
 ## Projects
-* 📹 **VNG CORPORATION**'s **vCloudcam** Camera Management Website Project: (V1: https://v1.vcloudcam.vn) and (V2: https://vcloudcam.vn). V3 development is complete and is under review (https://beta.vcloudcam.vn).
-* 🌟 **My Portfolio Website:**     (https://sonnguyenhoang.com)
-* 🎥 **The MovieVerse Database:**  (https://movie-verse.com)
-* 📝 **The StickyNotes App:**      (https://hoangsonww.github.io/The-StickyNotes-App/)
-* 🍲 **The RecipeGenie Database:** (https://hoangsonww.github.io/RecipeGenie-App/)
-* ☔  **The WeatherMate App:**      (https://hoangsonww.github.io/WeatherMate-App/)
-* 📚 **The ToDo App:**             (https://hoangsonww.github.io/The-ToDo-App/)
-* ⏰ **The EventHorizon App:**     (https://hoangsonww.github.io/The-Event-Horizon-App/)
-* 🔍 **The GitPeek App:**          (https://hoangsonww.github.io/GitHub-Profile-Quickview-App/)
-* 📖 **The ReadVoyage App:**       (https://hoangsonww.github.io/Read-Voyage-Kindle)
-* 🌍 **Huong Hua Co., Ltd.'s Company Website:**   [Visit it here.](https://hoangsonww.github.io/Huong-Hua-Co-Ltd/)
+
+Here is a list of my notable professional and personal projects:
+
+* 🚀 **VNG CORPORATION**'s **vCloudcam** Websites Project: 
+  * Sales Website: [Visit it here](https://www.vngcloud.vn/product/vcloudcam).
+  * Version 1 of the Camera Management Website: [Visit it here](https://v1.vcloudcam.vn).
+  * Version 2 of the Camera Management Website: [Visit it here](https://vcloudcam.vn). 
+  * Version 3 of the Camera Management Website: [Visit it here](https://beta.vcloudcam.vn). (Development is complete and is under review)
+* 🌟 **My Portfolio Website:**     [Visit its **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
+* 🎥 **The MovieVerse Database:**  [Visit its **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
+* 📝 **The StickyNotes App:**      [Visit its **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
+* 🍲 **The RecipeGenie Database:** [Visit its **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
+* ☔  **The WeatherMate App:**      [Visit its **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
+* 📚 **The ToDo App:**             [Visit its **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
+* ⏰ **The EventHorizon App:**     [Visit its **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
+* 🌍 **Huong Hua Co., Ltd.'s Company Website:**   [Visit its **live** **website** here](https://hoangsonww.github.io/Huong-Hua-Co-Ltd/). (FYI, we are currently in the process of finding, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)
 
 ## Certificates
 * 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**
 * 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**
 * 💾 **PH125.1x: Data Science Certificates** by **Harvard University**
 * 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**
-* 🔗 **REST APIs** Certificate by **Codecademy**
-* 🗣️ **Leadership and Communication** Certificate by **Harvard University**
+* 🔗 **REST APIs Certificate** by **Codecademy**
+* 🗣️ **Leadership and Communication Certificate** by **Harvard University**
 * 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**
 * 📝 **Data Science Ethics Certificate** by the **University of Michigan**
 * 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**
@@ -58,10 +64,12 @@ I'm currently a student at **The University of North Carolina at Chapel Hill**. 
   <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical" alt="Hoang Son's Most Used Languages" />
 </p>
 
 ## Connect with me
 * [Portfolio](https://sonnguyenhoang.com)
+* [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
+* [Email](mailto:info@movie-verse.com)
 
 ---

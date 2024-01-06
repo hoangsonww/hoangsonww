@@ -18,6 +18,10 @@
     <title>About Son (David) Nguyen</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
     <style>
+        html {
+            scroll-behavior: smooth;
+            overflow-x: hidden;
+        }
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
@@ -25,6 +29,8 @@
             padding: 0;
             background-color: #f4f4f4;
             color: #333;
+            overflow-x: hidden;
+            scroll-behavior: smooth;
         }
         .container {
             max-width: 1100px;
@@ -41,6 +47,9 @@
         a {
             color: #333;
             text-decoration: none;
+        }
+        a:hover {
+             text-decoration: underline;
         }
         h1, h2 {
             color: #0056b3;
@@ -67,59 +76,68 @@
 </head>
 <body>
 <header class="header">
-    <h1>Hello, World! 👋 I'm David Nguyen!</h1>
+    <h1 style="color: whitesmoke">Hello, World! 👋 I'm David Nguyen!</h1>
 </header>
 
 <div class="container">
-    <nav>
-        <h3>Sections</h3>
-        <ul>
-            <li><a style="color: blue" href="#skills-and-knowledge">Skills and Knowledge</a></li>
-            <li><a style="color: blue" href="#projects">Projects</a></li>
-            <li><a style="color: blue" href="#certificates">Certificates</a></li>
-            <li><a style="color: blue" href="#my-github-stats">My GitHub Stats</a></li>
-            <li><a style="color: blue" href="#connect-with-me">Connect with me</a></li>
-        </ul>
-    </nav>
+    <section id="intro" class="card" style="margin-top: 15px">
+        <nav>
+            <h2>Sections</h2>
+            <ul>
+                <li><a style="color: blue" href="#intro">Introduction</a></li>
+                <li><a style="color: blue" href="#skills-and-knowledge">Skills and Knowledge</a></li>
+                <li><a style="color: blue" href="#projects">Projects</a></li>
+                <li><a style="color: blue" href="#certificates">Certificates</a></li>
+                <li><a style="color: blue" href="#my-github-stats">My GitHub Stats</a></li>
+                <li><a style="color: blue" href="#connect-with-me">Connect with me</a></li>
+            </ul>
+        </nav>
+    </section>
 
     <section id="intro" class="card">
         <h2>Introduction</h2>
-        <p>I'm a student at <strong>The University of North Carolina at Chapel Hill</strong>. From May 2023 to August 2023, I worked as a Software Engineering Intern at <strong>VNG Corporation</strong> - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. This was also my most recent work experience. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website at <a style="color: blue" href="https://hoangsonww.github.io/My-Portfolio-Website/">https://hoangsonww.github.io/My-Portfolio-Website/</a>!</p>
+        <p>My full name is <strong>Son Hoang Nguyen</strong>. I'm currently a student at <strong>The University of North Carolina at Chapel Hill</strong>. From May 2023 to August 2023, I worked as a Software Engineering Intern at <strong>VNG Corporation</strong>... For more information about me, continue reading this website, visit my GitHub repos, or feel free to visit my portfolio website using <a style="color: blue" href="https://sonnguyenhoang.com">this link</a>!</p>
+        <p>FYI, this is the webpage version of my GitHub profile README. It is designed to be a more interactive and visually appealing version of my GitHub profile README. If you want to see the original version, please visit my GitHub profile using <a style="color: blue" href="https://github.com/hoangsonww">this link</a>.</p>
     </section>
 
+    <!-- Skills and Knowledge Section -->
     <section id="skills-and-knowledge" class="card">
         <h2>Skills and Knowledge</h2>
         <ul>
-            <li>🌍 <strong>Web Development</strong>: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / Ruby on Rails / AWS SQS</li>
-            <li>🎲 <strong>Game Development</strong>: Unreal Engine / DirectX / OpenGL / JavaFX</li>
-            <li>🐍 <strong>Languages</strong>: Java / C++ / C / Assembly / Python / C# / Ruby / R / Swift / JavaScript / System Verilog / PHP / Go</li>
-            <li>💻 <strong>Containerization</strong>: Docker and Kubernetes</li>
+            <li>🌍 <strong>Web Development</strong>: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery</li>
+            <li>🎲 <strong>Game Development</strong>: Unreal Engine / DirectX / JavaFX</li>
+            <li>📱 <strong>Mobile Development</strong>: React Native / Flutter / Android (Kotlin) / iOS (Swift)</li>
+            <li>🐍 <strong>Languages</strong>: Java / C++ / C / Assembly / Python / R / Swift / JavaScript / Verilog / PHP / Go</li>
+            <li>💻 <strong>Containerization</strong>: Docker / Kubernetes</li>
             <li>🚀 <strong>Databases</strong>: MySQL / MongoDB / Apache Cassandra / DynamoDB / PostgreSQL</li>
             <li>🎨 <strong>Design</strong>: Figma / Adobe Illustrator / Blender</li>
             <li>📊 <strong>Data Analytics</strong>: PowerBI / Tableau / Stata / GraphQL</li>
-            <li>⌨️ <strong>Architectures</strong>: Micro-Frontend / Micro-Services</li>
-            <li>🔧 <strong>CI/CD</strong>: Jenkins / GitLab CI / GitHub Actions</li>
-            <li>🔧 <strong>Tools</strong>: Git / GitLab / Ubuntu / Unit Testing</li>
+            <li>⌨️ <strong>Architectures</strong>: Micro-Frontends / Micro-Services</li>
+            <li>🔧 <strong>Tools</strong>: Git / Ubuntu / Unit Testing</li>
             <li>📚 <strong>Libraries</strong>: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka</li>
-            <li>📱 <strong>Mobile Development</strong>: React Native / Flutter / Android Studio / iOS</li>
         </ul>
     </section>
 
+    <!-- Projects Section -->
     <section id="projects" class="card">
         <h2>Projects</h2>
         <ul>
-            <li>📹 <strong>VNG CORPORATION's vCloudcam Camera Management Website Project</strong>: <a href="https://v1.vcloudcam.vn" style="color: blue" target="_blank">V1</a>, <a href="https://vcloudcam.vn" style="color: blue" target="_blank">V2</a>, <a style="color: blue" href="https://beta.vcloudcam.vn" target="_blank">V3 (under review)</a></li>
-            <li>🌟 <strong>My Portfolio Website:</strong> <a href="https://github.com/hoangsonww/My-Portfolio-Website" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>🎥 <strong>The MovieVerse Database:</strong> <a href="https://github.com/hoangsonww/The-MovieVerse-Database" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>🍲 <strong>The RecipeGenie Database:</strong> <a href="https://github.com/hoangsonww/RecipeGenie-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>📝 <strong>The StickyNotes App:</strong> <a href="https://github.com/hoangsonww/The-StickyNotes-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>☔  <strong>The WeatherMate App:</strong> <a href="https://github.com/hoangsonww/WeatherMate-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>📚 <strong>The ToDo App:</strong> <a href="https://github.com/hoangsonww/The-ToDo-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>⏰ <strong>The EventHorizon App:</strong> <a href="https://github.com/hoangsonww/The-Event-Horizon-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>🔍 <strong>The GitPeek App:</strong> <a href="https://github.com/hoangsonww/GitHub-Profile-Quickview-App" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>📖 <strong>The ReadVoyage App:</strong> <a href="https://hoangsonww.github.io/Read-Voyage-Kindle" style="color: blue" target="_blank">Read Voyage Kindle</a></li>
-            <li>🗣️ <strong>The CommunitySphere Social Media (In Progress):</strong> <a href="https://github.com/hoangsonww/Community-Sphere-Social-Media" style="color: blue" target="_blank">GitHub Repo</a></li>
-            <li>📊 <strong>Huong Hua Co., Ltd.'s Company Website:</strong> <a href="https://hoangsonww.github.io/Huong-Hua-Co-Ltd/" style="color: blue" target="_blank">Webpage</a></li>
+            <li>🚀 <strong>VNG CORPORATION's vCloudcam</strong> Websites Project:
+                <ul style="list-style: disc; margin-left: 20px;">
+                    <li>Sales Website: <a href="https://www.vngcloud.vn/product/vcloudcam" style="color: blue">Visit it here</a>.</li>
+                    <li>Version 1 of the Camera Management Website: <a href="https://v1.vcloudcam.vn" style="color: blue">Visit it here</a>.</li>
+                    <li>Version 2 of the Camera Management Website: <a href="https://vcloudcam.vn" style="color: blue">Visit it here</a>.</li>
+                    <li>Version 3 of the Camera Management Website: <a href="https://beta.vcloudcam.vn" style="color: blue">Visit it here</a>. (Development is complete and is under review)</li>
+                </ul>
+            </li>
+            <li>🌟 <strong>My Portfolio Website:</strong> <a href="https://sonnguyenhoang.com" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/My-Portfolio-Website" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>🎥 <strong>The MovieVerse Database:</strong> <a href="https://movie-verse.com" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-MovieVerse-Database" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>📝 <strong>The StickyNotes App:</strong> <a href="https://hoangsonww.github.io/The-StickyNotes-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-StickyNotes-App" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>🍲 <strong>The RecipeGenie Database:</strong> <a href="https://hoangsonww.github.io/RecipeGenie-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/RecipeGenie-App" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>☔  <strong>The WeatherMate App:</strong> <a href="https://hoangsonww.github.io/WeatherMate-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/WeatherMate-App" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>📚 <strong>The ToDo App:</strong> <a href="https://hoangsonww.github.io/The-ToDo-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-ToDo-App" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>⏰ <strong>The EventHorizon App:</strong> <a href="https://hoangsonww.github.io/The-Event-Horizon-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-Event-Horizon-App" style="color: blue">visit its GitHub repo here</a>.</li>
+            <li>🌍 <strong>Huong Hua Co., Ltd.'s Company Website:</strong> <a href="https://hoangsonww.github.io/Huong-Hua-Co-Ltd/" style="color: blue">Visit its live website here</a>. (FYI, we are currently in the process of finding, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)</li>
         </ul>
     </section>
 
@@ -139,17 +157,6 @@
         </ul>
     </section>
 
-    <section id="current-organizations" class="card">
-        <h2>Current Organizations</h2>
-        <ul>
-            <li>🧑‍💻 <strong>Google Student Developer Clubs:</strong> Software Engineering Team II Lead</li>
-            <li>🏅 <strong>Microsoft Learn:</strong> Student Ambassador</li>
-            <li>🏆 <strong>UNC-Chapel Hill Competitive Programming Club:</strong> Member</li>
-            <li>🤖 <strong>UNC-Chapel Hill Artificial Intelligence Club:</strong> Member</li>
-            <li>📈 <strong>Carolina Economics Club:</strong> Member</li>
-        </ul>
-    </section>
-
     <section id="my-github-stats" class="card">
         <h2>My GitHub Stats:</h2>
         <div class="github-stats">
@@ -162,14 +169,16 @@
     <section id="connect-with-me" class="card">
         <h2>Connect with me</h2>
         <ul>
-            <li><a style="color: blue" href="https://hoangsonww.github.io/My-Portfolio-Website">Portfolio</a></li>
+            <li><a style="color: blue" href="https://sonnguyenhoang.com">Portfolio</a></li>
+            <li><a style="color: blue" href="https://www.linkedin.com/in/hoangsonww/">LinkedIn</a></li>
+            <li><a style="color: blue" href="mailto:info@movie-verse.com">Email</a></li>
         </ul>
     </section>
 
 </div>
 
 <footer class="header">
-    <p>&copy; 2023 David Nguyen. All rights reserved.</p>
+    <p>&copy; 2023 Son (David) Nguyen. All rights reserved.</p>
 </footer>
 
 </body>
