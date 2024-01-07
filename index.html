@@ -17,6 +17,8 @@
     <meta name="twitter:image:alt" content="David Nguyen">
     <title>About Son (David) Nguyen</title>
     <link rel="icon" type="image/x-icon" href="favicon.ico">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.2/css/all.min.css">
+    <link rel="manifest" href="manifest.json">
     <style>
         html {
             scroll-behavior: smooth;
@@ -72,11 +74,88 @@
             max-width: 100%;
             height: auto;
         }
+
+        body.dark-mode {
+            background-color: #333;
+            color: #f4f4f4;
+        }
+
+        .dark-mode .card {
+            background: #424242;
+            color: #f4f4f4;
+        }
+
+        .dark-mode a {
+            color: #f4f4f4;
+        }
+
+        .dark-mode h2 {
+            color: #f4f4f4;
+        }
+
+        .dark-mode .header {
+            background: #222;
+            color: #f4f4f4;
+        }
+
+        .dark-mode #dark-mode-toggle {
+            background: pink;
+            color: #333;
+            font-size: 14px;
+        }
+
+        .dark-mode #dark-mode-toggle:hover {
+            background: hotpink;
+            color: #333;
+        }
+
+        #dark-mode-toggle {
+            position: fixed;
+            left: 0;
+            top: 50%;
+            transform: translateY(-50%);
+            background: #333;
+            color: #fff;
+            border: none;
+            border-radius: 50%;
+            padding: 10px;
+            cursor: pointer;
+            z-index: 1000;
+        }
+
+        #dark-mode-toggle:hover {
+            background: #101010;
+        }
+
+        .dark-mode a, .dark-mode a:hover {
+            color: pink;
+        }
+
+        .header h1 {
+            color: snow;
+        }
+
+        .dark-mode .header h1 {
+            color: pink;
+        }
+
+        section:hover {
+            background-color: #f8f8f8;
+        }
+
+        .dark-mode section:hover {
+            background-color: #484848;
+        }
     </style>
 </head>
 <body>
+
+<button id="dark-mode-toggle">
+    <i class="fas fa-moon"></i> <!-- FontAwesome moon icon -->
+</button>
+
 <header class="header">
-    <h1 style="color: whitesmoke">Hello, World! 👋 I'm David Nguyen!</h1>
+    <h1>Hello, World! 👋 I'm David Nguyen!</h1>
 </header>
 
 <div class="container">
@@ -84,20 +163,20 @@
         <nav>
             <h2>Sections</h2>
             <ul>
-                <li><a style="color: blue" href="#intro">Introduction</a></li>
-                <li><a style="color: blue" href="#skills-and-knowledge">Skills and Knowledge</a></li>
-                <li><a style="color: blue" href="#projects">Projects</a></li>
-                <li><a style="color: blue" href="#certificates">Certificates</a></li>
-                <li><a style="color: blue" href="#my-github-stats">My GitHub Stats</a></li>
-                <li><a style="color: blue" href="#connect-with-me">Connect with me</a></li>
+                <li><a href="#intro">Introduction</a></li>
+                <li><a href="#skills-and-knowledge">Skills and Knowledge</a></li>
+                <li><a href="#projects">Projects</a></li>
+                <li><a href="#certificates">Certificates</a></li>
+                <li><a href="#my-github-stats">My GitHub Stats</a></li>
+                <li><a href="#connect-with-me">Connect with me</a></li>
             </ul>
         </nav>
     </section>
 
     <section id="intro" class="card">
         <h2>Introduction</h2>
-        <p>My full name is <strong>Son Hoang Nguyen</strong>. I'm currently a student at <strong>The University of North Carolina at Chapel Hill</strong>. From May 2023 to August 2023, I worked as a Software Engineering Intern at <strong>VNG Corporation</strong>... For more information about me, continue reading this website, visit my GitHub repos, or feel free to visit my portfolio website using <a style="color: blue" href="https://sonnguyenhoang.com">this link</a>!</p>
-        <p>FYI, this is the webpage version of my GitHub profile README. It is designed to be a more interactive and visually appealing version of my GitHub profile README. If you want to see the original version, please visit my GitHub profile using <a style="color: blue" href="https://github.com/hoangsonww">this link</a>.</p>
+        <p>My full name is <strong>Son Hoang Nguyen</strong>. I'm currently a student at <strong>The University of North Carolina at Chapel Hill</strong>. From May 2023 to August 2023, I worked as a Software Engineering Intern at <strong>VNG Corporation</strong>... For more information about me, continue reading this website, visit my GitHub repos, or feel free to visit my portfolio website using <a href="https://sonnguyenhoang.com">this link</a>!</p>
+        <p>FYI, this is the webpage version of my GitHub profile README. It is designed to be a more interactive and visually appealing version of my GitHub profile README. If you want to see the original version, please visit my GitHub profile using <a href="https://github.com/hoangsonww">this link</a>.</p>
     </section>
 
     <!-- Skills and Knowledge Section -->
@@ -113,7 +192,7 @@
             <li>🎨 <strong>Design</strong>: Figma / Adobe Illustrator / Blender</li>
             <li>📊 <strong>Data Analytics</strong>: PowerBI / Tableau / Stata / GraphQL</li>
             <li>⌨️ <strong>Architectures</strong>: Micro-Frontends / Micro-Services</li>
-            <li>🔧 <strong>Tools</strong>: Git / Ubuntu / Unit Testing</li>
+            <li>🔧 <strong>Tools</strong>: Git / Ubuntu / Unit Testing / GitHub Pages / Netlify / Vercel</li>
             <li>📚 <strong>Libraries</strong>: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka</li>
         </ul>
     </section>
@@ -123,21 +202,21 @@
         <h2>Projects</h2>
         <ul>
             <li>🚀 <strong>VNG CORPORATION's vCloudcam</strong> Websites Project:
-                <ul style="list-style: disc; margin-left: 20px;">
-                    <li>Sales Website: <a href="https://www.vngcloud.vn/product/vcloudcam" style="color: blue">Visit it here</a>.</li>
-                    <li>Version 1 of the Camera Management Website: <a href="https://v1.vcloudcam.vn" style="color: blue">Visit it here</a>.</li>
-                    <li>Version 2 of the Camera Management Website: <a href="https://vcloudcam.vn" style="color: blue">Visit it here</a>.</li>
-                    <li>Version 3 of the Camera Management Website: <a href="https://beta.vcloudcam.vn" style="color: blue">Visit it here</a>. (Development is complete and is under review)</li>
+                <ul style="list-style: disc; margin-left: 40px;">
+                    <li>Sales Website: <a href="https://www.vngcloud.vn/product/vcloudcam"  >Visit it here</a>.</li>
+                    <li>Version 1 of the Camera Management Website: <a href="https://v1.vcloudcam.vn"  >Visit it here</a>.</li>
+                    <li>Version 2 of the Camera Management Website: <a href="https://vcloudcam.vn"  >Visit it here</a>.</li>
+                    <li>Version 3 of the Camera Management Website: <a href="https://beta.vcloudcam.vn"  >Visit it here</a>. (Development is complete and is under review)</li>
                 </ul>
             </li>
-            <li>🌟 <strong>My Portfolio Website:</strong> <a href="https://sonnguyenhoang.com" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/My-Portfolio-Website" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>🎥 <strong>The MovieVerse Database:</strong> <a href="https://movie-verse.com" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-MovieVerse-Database" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>📝 <strong>The StickyNotes App:</strong> <a href="https://hoangsonww.github.io/The-StickyNotes-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-StickyNotes-App" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>🍲 <strong>The RecipeGenie Database:</strong> <a href="https://hoangsonww.github.io/RecipeGenie-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/RecipeGenie-App" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>☔  <strong>The WeatherMate App:</strong> <a href="https://hoangsonww.github.io/WeatherMate-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/WeatherMate-App" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>📚 <strong>The ToDo App:</strong> <a href="https://hoangsonww.github.io/The-ToDo-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-ToDo-App" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>⏰ <strong>The EventHorizon App:</strong> <a href="https://hoangsonww.github.io/The-Event-Horizon-App/" style="color: blue">Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-Event-Horizon-App" style="color: blue">visit its GitHub repo here</a>.</li>
-            <li>🌍 <strong>Huong Hua Co., Ltd.'s Company Website:</strong> <a href="https://hoangsonww.github.io/Huong-Hua-Co-Ltd/" style="color: blue">Visit its live website here</a>. (FYI, we are currently in the process of finding, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)</li>
+            <li>🌍 <strong>Huong Hua Co., Ltd.'s Company Website:</strong> <a href="https://hoangsonww.github.io/Huong-Hua-Co-Ltd/"  >Visit its live website here</a>. (FYI, we are currently in the process of finding, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)</li>
+            <li>🌟 <strong>My Portfolio Website:</strong> <a href="https://sonnguyenhoang.com"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/My-Portfolio-Website"  >visit its GitHub repo here</a>.</li>
+            <li>🎥 <strong>The MovieVerse Database:</strong> <a href="https://movie-verse.com"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-MovieVerse-Database"  >visit its GitHub repo here</a>.</li>
+            <li>📝 <strong>The StickyNotes App:</strong> <a href="https://hoangsonww.github.io/The-StickyNotes-App/"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-StickyNotes-App"  >visit its GitHub repo here</a>.</li>
+            <li>🍲 <strong>The RecipeGenie Database:</strong> <a href="https://hoangsonww.github.io/RecipeGenie-App/"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/RecipeGenie-App"  >visit its GitHub repo here</a>.</li>
+            <li>☔  <strong>The WeatherMate App:</strong> <a href="https://hoangsonww.github.io/WeatherMate-App/"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/WeatherMate-App"  >visit its GitHub repo here</a>.</li>
+            <li>📚 <strong>The ToDo App:</strong> <a href="https://hoangsonww.github.io/The-ToDo-App/"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-ToDo-App"  >visit its GitHub repo here</a>.</li>
+            <li>⏰ <strong>The EventHorizon App:</strong> <a href="https://hoangsonww.github.io/The-Event-Horizon-App/"  >Visit its live website here</a> or <a href="https://github.com/hoangsonww/The-Event-Horizon-App"  >visit its GitHub repo here</a>.</li>
         </ul>
     </section>
 
@@ -160,18 +239,18 @@
     <section id="my-github-stats" class="card">
         <h2>My GitHub Stats:</h2>
         <div class="github-stats">
-            <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" style="width: 33.33%" alt="Hoang Son's GitHub Streak">
-            <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" style="width: 33.33%; height: 100%; transform: translateY(50%)" alt="Hoang Son's GitHub Trophies">
-            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical" style="width: 33.33%" alt="Top Langs">
+            <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" style="width: 33.33%; cursor: pointer" alt="Hoang Son's GitHub Streak">
+            <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" style="width: 33.33%; cursor: pointer; height: 100%; transform: translateY(50%)" alt="Hoang Son's GitHub Trophies">
+            <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical" style="width: 33.33%; cursor: pointer" alt="Top Langs">
         </div>
     </section>
 
     <section id="connect-with-me" class="card">
         <h2>Connect with me</h2>
         <ul>
-            <li><a style="color: blue" href="https://sonnguyenhoang.com">Portfolio</a></li>
-            <li><a style="color: blue" href="https://www.linkedin.com/in/hoangsonww/">LinkedIn</a></li>
-            <li><a style="color: blue" href="mailto:info@movie-verse.com">Email</a></li>
+            <li><a href="https://sonnguyenhoang.com">Portfolio</a></li>
+            <li><a href="https://www.linkedin.com/in/hoangsonww/">LinkedIn</a></li>
+            <li><a href="mailto:info@movie-verse.com">Email</a></li>
         </ul>
     </section>
 
@@ -180,6 +259,52 @@
 <footer class="header">
     <p>&copy; 2023 Son (David) Nguyen. All rights reserved.</p>
 </footer>
+
+<script>
+    // Check for saved 'darkMode' in localStorage
+    let darkMode = localStorage.getItem('darkMode');
+    const darkModeToggle = document.getElementById('dark-mode-toggle');
+
+    const updateLinkColors = (mode) => {
+        const links = document.querySelectorAll('.container a');
+        links.forEach(link => {
+            link.style.color = mode === 'dark' ? 'pink' : 'blue';
+        });
+    }
+
+    const enableDarkMode = () => {
+        document.body.classList.add('dark-mode');
+        localStorage.setItem('darkMode', 'enabled');
+        updateLinkColors('dark');
+    }
+
+    const disableDarkMode = () => {
+        document.body.classList.remove('dark-mode');
+        localStorage.setItem('darkMode', null);
+        updateLinkColors('light');
+    }
+
+    if (darkMode === 'enabled') {
+        enableDarkMode();
+    }
+    else {
+        updateLinkColors('light');
+    }
+
+    if (darkMode === 'enabled') {
+        enableDarkMode();
+    }
+
+    darkModeToggle.addEventListener('click', () => {
+        darkMode = localStorage.getItem('darkMode');
+
+        if (darkMode !== 'enabled') {
+            enableDarkMode();
+        } else {
+            disableDarkMode();
+        }
+    });
+</script>
 
 </body>
 </html>
