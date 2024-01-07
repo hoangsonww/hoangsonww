@@ -44,7 +44,7 @@ Here is a list of my notable professional and personal projects that I have work
 * ⏰ **The EventHorizon App:**     [Visit its **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
 
 ## Certificates
-* 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**
+* 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**.
 * 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**
 * 💾 **PH125.1x: Data Science Certificates** by **Harvard University**
 * 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**
@@ -69,6 +69,7 @@ Here is a list of my notable professional and personal projects that I have work
 
 ## Connect with me
 * [Portfolio](https://sonnguyenhoang.com)
+* [Alternate Portfolio](https://hoangsonww.github.io/hoangsonww/)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
 * [Email](mailto:info@movie-verse.com)
 
