@@ -32,7 +32,7 @@ Here is a list of my notable professional and personal projects that I have work
 * 🚀 **VNG CORPORATION**'s **vCloudcam** **Website Projects**: 
   * Version 1: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
   * Version 2: [Visit the **live** **website** here](https://v1.vcloudcam.vn).
-  * Version 3: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and is under review).
+  * Version 3: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and under review).
 * 🌟 **My Portfolio Website:**     [Visit the **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
 * 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 * 📝 **The StickyNotes App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
@@ -67,8 +67,9 @@ Here is a list of my notable professional and personal projects that I have work
 </p>
 
 ## Connect with me
-* [Portfolio](https://sonnguyenhoang.com)
+* [Portfolio Website](https://sonnguyenhoang.com)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
 * [Email](mailto:hoangson091104@gmail.com)
+* [Alternate Profile](https://hoangsonww.github.io/hoangsonww/)
 
 ---
