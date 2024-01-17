@@ -27,21 +27,20 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 
 ## Projects
 
-Here is a list of my notable professional and personal projects that I have worked on so far:
+Here is a list of my notable professional and personal projects that I have worked on & contributed to so far:
 
 * 🚀 **VNG CORPORATION**'s **vCloudcam** **Website Projects**: 
-  * Sales Website: [Visit it here](https://www.vngcloud.vn/product/vcloudcam).
-  * Version 1 of the Camera Management Website: [Visit it here](https://v1.vcloudcam.vn).
-  * Version 2 of the Camera Management Website: [Visit it here](https://vcloudcam.vn).
-  * Version 3 of the Camera Management Website: [Visit it here](https://beta.vcloudcam.vn). (Development is complete and is under review).
-* 🌍 **Huong Hua Co., Ltd.'s Company Website:**   [Visit its **live** **website** here](https://hoangsonww.github.io/Huong-Hua-Co-Ltd/). (FYI, we are currently in the process of finding, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)
-* 🌟 **My Portfolio Website:**     [Visit its **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
-* 🎥 **The MovieVerse Database:**  [Visit its **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
-* 📝 **The StickyNotes App:**      [Visit its **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
-* 🍲 **The RecipeGenie Database:** [Visit its **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
-* ☔  **The WeatherMate App:**      [Visit its **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
-* 📚 **The ToDo App:**             [Visit its **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
-* ⏰ **The EventHorizon App:**     [Visit its **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
+  * Version 1: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
+  * Version 2: [Visit the **live** **website** here](https://v1.vcloudcam.vn).
+  * Version 3: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and is under review).
+* 🌟 **My Portfolio Website:**     [Visit the **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
+* 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
+* 📝 **The StickyNotes App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
+* 🍲 **The RecipeGenie Database:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
+* ☔  **The WeatherMate App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
+* 📚 **The ToDo App:**             [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
+* ⏰ **The EventHorizon App:**     [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
+* 🌐 **Huong Hua Co., Ltd.'s Company Website:**   [Visit the **live** **website** here](https://hoangsonww.github.io/Huong-Hua-Co-Ltd/). (FYI, development is 90% done and we are currently in the process of finding, choosing, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)
 
 ## Certificates
 * 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**.
@@ -69,8 +68,7 @@ Here is a list of my notable professional and personal projects that I have work
 
 ## Connect with me
 * [Portfolio](https://sonnguyenhoang.com)
-* [Alternate Portfolio](https://hoangsonww.github.io/hoangsonww/)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
-* [Email](mailto:info@movie-verse.com)
+* [Email](mailto:hoangson091104@gmail.com)
 
 ---
