@@ -10,7 +10,7 @@
 
 ## Introduction
 
-My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the **vCloudcam** department of the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+My name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
@@ -21,7 +21,7 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
 * 🔧 **Tools**: Git / Unit Testing / GitHub Action / Netlify / Ubuntu / Docker / Kubernetes
-* * 🎨 **Design**: Figma / Adobe Illustrator / Blender
+* 🎨 **Design**: Figma / Adobe Illustrator / Blender
 
 ## Projects
 
@@ -62,7 +62,10 @@ Here is a list of my notable professional and personal projects that I have work
   <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical" alt="Hoang Son's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=12" alt="Hoang Son's Most Used Languages" />
+</p>
+<p align="center">
+  <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
 </p>
 
 ## Connect with me
