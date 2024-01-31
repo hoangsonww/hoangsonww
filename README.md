@@ -17,19 +17,19 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 * 🎲 **Game Development**: Unreal Engine / DirectX / JavaFX
 * 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / R / Swift / JavaScript / Verilog / PHP / Go
-* 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / DynamoDB / PostgreSQL
-* 🎨 **Design**: Figma / Adobe Illustrator / Blender
+* 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / PostgreSQL / SQLite / Firebase
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
 * 🔧 **Tools**: Git / Unit Testing / GitHub Action / Netlify / Ubuntu / Docker / Kubernetes
+* * 🎨 **Design**: Figma / Adobe Illustrator / Blender
 
 ## Projects
 
 Here is a list of my notable professional and personal projects that I have worked on & contributed to so far:
 
-* 🚀 **VNG CORPORATION**'s **vCloudcam** **Website Projects**: 
-  * Version 1: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
-  * Version 2: [Visit the **live** **website** here](https://v1.vcloudcam.vn).
+* 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management & Sale Websites: 
+  * Version 1: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
+  * Version 2: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
   * Version 3: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and under review).
 * 🌟 **My Portfolio Website:**     [Visit the **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
 * 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
@@ -38,19 +38,19 @@ Here is a list of my notable professional and personal projects that I have work
 * ☔  **The WeatherMate App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
 * 📚 **The ToDo App:**             [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
 * ⏰ **The EventHorizon App:**     [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
-* 🌐 **Huong Hua Co., Ltd.'s Company Website:**   [Visit the **live** **website** here](https://hoangsonww.github.io/Huong-Hua-Co-Ltd/). (FYI, development is 90% done and we are currently in the process of finding, choosing, negotiating, and purchasing an appropriate and suitable domain name, and it will take some time...)
+* 🌐 **Huong Hua Co., Ltd.'s Company Website:**   [Visit the **live** **website** here](https://huonghuacoltd.com).
 
 ## Certificates
 * 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**.
-* 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**
-* 💾 **PH125.1x: Data Science Certificates** by **Harvard University**
-* 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**
-* 🔗 **REST APIs Certificate** by **Codecademy**
-* 🗣️ **Leadership and Communication Certificate** by **Harvard University**
-* 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**
-* 📝 **Data Science Ethics Certificate** by the **University of Michigan**
-* 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**
-* 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**
+* 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**.
+* 💾 **PH125.1x: Data Science Certificates** by **Harvard University**.
+* 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**.
+* 🔗 **REST APIs Certificate** by **Codecademy**.
+* 🗣️ **Leadership and Communication Certificate** by **Harvard University**.
+* 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**.
+* 📝 **Data Science Ethics Certificate** by the **University of Michigan**.
+* 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**.
+* 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**.
 
 ## My GitHub Stats:
 
