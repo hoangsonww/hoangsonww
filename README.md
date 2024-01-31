@@ -72,5 +72,6 @@ Here is a list of my notable professional and personal projects that I have work
 * [Portfolio Website](https://sonnguyenhoang.com)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
 * [Email](mailto:hoangson091104@gmail.com)
+* [Alternate Portfolio](https://hoangsonww.github.io/hoangsonww/)
 
 ---
