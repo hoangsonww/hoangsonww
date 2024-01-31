@@ -10,7 +10,7 @@
 
 ## Introduction
 
-My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the **vCloudcam** department of the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
@@ -21,9 +21,7 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 * 🎨 **Design**: Figma / Adobe Illustrator / Blender
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
-* 💻 **Containerization:** Docker / Kubernetes
-* 🔧 **Tools**: Git / Unit Testing / GitHub Pages / Netlify / Vercel / Ubuntu
-* 📚 **Libraries**: Pandas / Matplotlib / TensorFlow / PyTorch / OpenCV / Kafka
+* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Netlify / Ubuntu / Docker / Kubernetes
 
 ## Projects
 
@@ -70,6 +68,5 @@ Here is a list of my notable professional and personal projects that I have work
 * [Portfolio Website](https://sonnguyenhoang.com)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonww/)
 * [Email](mailto:hoangson091104@gmail.com)
-* [Alternate Profile](https://hoangsonww.github.io/hoangsonww/)
 
 ---
