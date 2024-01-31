@@ -28,9 +28,10 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 Here is a list of my notable professional and personal projects that I have worked on & contributed to so far:
 
 * 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management & Sale Websites: 
-  * Version 1: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
-  * Version 2: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
-  * Version 3: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and under review).
+  * Sales Website: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
+  * Version 1 of the Camera Management Website: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
+  * Version 2 of the Camera Management Website: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
+  * Version 3 of the Camera Management Website: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and under review).
 * 🌟 **My Portfolio Website:**     [Visit the **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
 * 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 * 📝 **The StickyNotes App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
