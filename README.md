@@ -31,7 +31,7 @@ Here is a list of my notable professional and personal projects that I have work
   * Sales Website: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
   * Version 1 of the Camera Management Website: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
   * Version 2 of the Camera Management Website: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
-  * Version 3 of the Camera Management Website: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is complete and under review).
+  * Version 3 of the Camera Management Website: [Visit the **live** **website** here](https://beta.vcloudcam.vn). (Development is underway).
 * 🌟 **My Portfolio Website:**     [Visit the **live** **website** here](https://sonnguyenhoang.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/My-Portfolio-Website).
 * 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 * 📝 **The StickyNotes App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
@@ -62,7 +62,7 @@ Here is a list of my notable professional and personal projects that I have work
   <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=12" alt="Hoang Son's Most Used Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
 </p>
 <p align="center">
   <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
