@@ -17,10 +17,10 @@ My name is **Son Hoang Nguyen**. I'm currently a student at **The University of 
 * 🎲 **Game Development**: Unreal Engine / DirectX / JavaFX
 * 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / R / Swift / JavaScript / Verilog / PHP / Go
-* 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / PostgreSQL / SQLite / Firebase
+* 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / PostgreSQL / Firebase
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
-* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Netlify / Ubuntu / Docker / Kubernetes
+* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Ubuntu / Docker
 * 🎨 **Design**: Figma / Adobe Illustrator / Blender
 
 ## Projects
