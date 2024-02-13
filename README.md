@@ -1,4 +1,4 @@
-# Hello, World! 👋 I'm David Nguyen!
+# Hello, World! 👋 I'm Son Nguyen!
 
 ## Sections
 - [Introduction](#introduction)
@@ -10,7 +10,7 @@
 
 ## Introduction
 
-My name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
