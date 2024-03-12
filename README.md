@@ -16,12 +16,14 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
 * 🎲 **Game Development**: Unreal Engine / DirectX / JavaFX
 * 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
-* 🐍 **Languages:** Java / C++ / C / Assembly / Python / R / Swift / JavaScript / Verilog / PHP / Go
+* 🐍 **Languages:** Java / C++ / C / Assembly / Python / JavaScript / Verilog / PHP / Go
 * 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / PostgreSQL / Firebase
-* 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL
+* 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL / R / Excel
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
 * 🔧 **Tools**: Git / Unit Testing / GitHub Action / Ubuntu / Docker
 * 🎨 **Design**: Figma / Adobe Illustrator / Blender
+
+Currently, I'm also learning about **Machine Learning**, **Blockchain**, and **Cybersecurity**!
 
 ## Projects
 
