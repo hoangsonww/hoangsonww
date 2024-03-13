@@ -77,6 +77,7 @@ Here is a list of my notable professional and personal projects that I have work
   </a>
 </p>
 
+
 ## Connect with me
 * [Portfolio Website](https://sonnguyenhoang.com)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
