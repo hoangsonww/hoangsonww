@@ -33,13 +33,14 @@ Here is a list of my notable professional and personal projects that I have work
   * Sales Website: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
   * Version 1 of the Camera Management Website: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
   * Version 2 of the Camera Management Website: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
-* 🍿 **The MovieVerse Database:**  [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
-* 📝 **The StickyNotes App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
-* 🍲 **The RecipeGenie Database:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
-* ☔  **The WeatherMate App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
-* 📚 **The ToDo App:**             [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
-* ⏰ **The EventHorizon App:**     [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
-* 🏰 **The Maze Game:**            [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
+* 🍿 **The MovieVerse Database:**   [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
+* 📝 **The StickyNotes App:**       [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
+* 🍲 **The RecipeGenie Database:**  [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
+* ☔ **The WeatherMate App:**       [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
+* 📚 **The ToDo App:**              [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
+* 🏰 **The Maze Game:**             [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
+* 🧑‍💻 **The GitPeek App:**           [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
+* ⏰ **The EventHorizon App:**      [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
 * 🌐 **Huong Hua Co., Ltd.'s Company Website:**   [Visit the **live** **website** here](https://huonghuacoltd.com).
 
 ## Certificates
@@ -61,16 +62,19 @@ Here is a list of my notable professional and personal projects that I have work
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Hoang Son's GitHub Streak" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
     <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
+
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
     <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
