@@ -3,31 +3,34 @@
 ## Sections
 - [Introduction](#introduction)
 - [Skills and Knowledge](#skills-and-knowledge)
-- [Projects](#projects)
+- [Notable Projects](#notable-projects)
+  - [Professional Projects](#professional-projects)
+  - [Web Development Projects](#web-development-projects)
+  - [Mobile Applications Projects](#mobile-applications-projects)
+  - [Data Science Projects](#data-science-projects)
 - [Certificates](#certificates)
 - [My GitHub Stats](#my-github-stats)
-- [Connect with me](#connect-with-me)
+- [Connect with Me](#connect-with-me)
 
 ## Introduction
 
 My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
-* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Redux / Webpack / AWS / RESTful APIs / jQuery
-* 🎲 **Game Development**: Unreal Engine / DirectX / JavaFX
-* 📱 **Mobile Development**: React Native / Flutter / Android (Kotlin) / iOS (Swift)
+* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Webpack / RESTful APIs / jQuery
+* 📱 **Mobile Development**: React Native / Objective-C / Android (Kotlin) / iOS (Swift)
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / JavaScript / Verilog / PHP / Go
-* 🚀 **Databases**: MySQL / MongoDB / Apache Cassandra / PostgreSQL / Firebase
-* 📊 **Data Analytics:** PowerBI / Tableau / Stata / GraphQL / R / Excel
+* 🚀 **Databases**: MySQL / MongoDB / PostgreSQL / Firebase
+* 📊 **Data Analytics:** PowerBI / Tableau / Stata / R / Excel
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
-* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Ubuntu / Docker
-* 🎨 **Design**: Figma / Adobe Illustrator / Blender
+* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Docker
+* 🎨 **Design**: Figma / Adobe Illustrator
 
 Currently, I'm also learning about **Machine Learning**, **Blockchain**, and **Cybersecurity**!
 
 ## Notable Projects
 
-<details>
+<details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
 - 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management & Sale Websites:
@@ -38,7 +41,7 @@ Currently, I'm also learning about **Machine Learning**, **Blockchain**, and **C
 
 </details>
 
-<details>
+<details id="web-development-projects">
 <summary><strong>Web Development Projects</strong></summary>
 
 The following are some of my personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, WeatherMate, and ToDo**.
@@ -54,7 +57,7 @@ The following are some of my personal web development projects that I have worke
 
 </details>
 
-<details>
+<details id="mobile-applications-projects">
 <summary><strong>Mobile Applications Projects</strong></summary>
 
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
@@ -62,7 +65,7 @@ The following are some of my personal web development projects that I have worke
 
 </details>
 
-<details>
+<details id="data-science-projects">
 <summary><strong>Data Science Projects</strong></summary>
 
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
@@ -98,7 +101,7 @@ The following are some of my personal web development projects that I have worke
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=12" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
 
