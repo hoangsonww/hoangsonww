@@ -17,8 +17,9 @@
 My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
-* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / Web Assembly / Django / Node.js / Webpack / RESTful APIs / jQuery
+* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / WASM / Django / Node.js / Webpack / REST APIs / jQuery
 * 📱 **Mobile Development**: React Native / Objective-C / Android (Kotlin) / iOS (Swift)
+* 🤖 **Machine Learning**: TensorFlow / Keras / Scikit-Learn / PyTorch / OpenCV / Pandas / NumPy
 * 🐍 **Languages:** Java / C++ / C / Assembly / Python / JavaScript / Verilog / PHP / Go
 * 🚀 **Databases**: MySQL / MongoDB / PostgreSQL / Firebase
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / R / Excel
@@ -66,9 +67,10 @@ The following are some of my personal web development projects that I have worke
 </details>
 
 <details id="data-science-projects">
-<summary><strong>Data Science Projects</strong></summary>
+<summary><strong>Data Science / Machine Learning Projects</strong></summary>
 
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
+- 🌟 **AI-Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-Classification).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
 
 </details>
