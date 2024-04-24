@@ -7,14 +7,14 @@
   - [Professional Projects](#professional-projects)
   - [Web Development Projects](#web-development-projects)
   - [Mobile Applications Projects](#mobile-applications-projects)
-  - [Data Science Projects](#data-science-projects)
+  - [Data Science & AI Projects](#data-science-projects)
 - [Certificates](#certificates)
 - [My GitHub Stats](#my-github-stats)
 - [Connect with Me](#connect-with-me)
 
 ## Introduction
 
-My full name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+My name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 * 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / WASM / Django / Node.js / Webpack / REST APIs / jQuery
@@ -24,7 +24,7 @@ My full name is **Son Hoang Nguyen**. I'm currently a student at **The Universit
 * 🚀 **Databases**: MySQL / MongoDB / PostgreSQL / Firebase
 * 📊 **Data Analytics:** PowerBI / Tableau / Stata / R / Excel
 * ⌨️ **Architectures:** Micro-Frontends / Micro-Services
-* 🔧 **Tools**: Git / Unit Testing / GitHub Action / Docker
+* 🔧 **Tools**: Git / JUnit / Jest / GitHub Action / Docker
 * 🎨 **Design**: Figma / Adobe Illustrator
 
 Currently, I'm also learning about **Machine Learning**, **Blockchain**, and **Cybersecurity**!
@@ -67,10 +67,10 @@ The following are some of my personal web development projects that I have worke
 </details>
 
 <details id="data-science-projects">
-<summary><strong>Data Science / Machine Learning Projects</strong></summary>
+<summary><strong>Data Science / AI-ML Projects</strong></summary>
 
+- 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
-- 🌟 **AI-Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-Classification).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
 
 </details>
