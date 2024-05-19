@@ -53,6 +53,7 @@ The following are some of my personal web development projects that I have worke
 - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
 - 📚 **The ToDo App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
+- 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 - ⏰ **The EventHorizon App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
 
