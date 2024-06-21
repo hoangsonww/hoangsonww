@@ -15,11 +15,10 @@
 ## Introduction
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, pursuing a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
-For more information about me, continue reading this README, take a look at my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+
+For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
-
-Absolutely! Here's the updated code with emojis next to the headers:
 
 <details>
 <summary><strong>🌐 Frontend Development</strong></summary>
@@ -259,6 +258,7 @@ The following are some of my personal web development projects that I have worke
 
 
 ## Connect with me
+
 * [Portfolio Website](https://sonnguyenhoang.com)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
 * [Email](mailto:hoangson091104@gmail.com)
