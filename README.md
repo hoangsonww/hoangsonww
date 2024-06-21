@@ -14,20 +14,163 @@
 
 ## Introduction
 
-My name is **Son Hoang Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**. From May 2023 to August 2023, I worked as a Software Engineering Intern at **VNG Corporation** - one of the largest tech companies in Vietnam and in Asia, and I specialized in full-stack web development and video-streaming platform development for the company. For more information about me, continue reading this README, visit my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, pursuing a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
+For more information about me, continue reading this README, take a look at my GitHub repos, or feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
-* 🌍 **Web Development**: HTML / CSS / SASS / Bootstrap / React / Angular / Vue / WASM / Django / Node.js / Webpack / REST APIs / jQuery
-* 📱 **Mobile Development**: React Native / Objective-C / Android (Kotlin) / iOS (Swift)
-* 🤖 **Machine Learning**: TensorFlow / Keras / Scikit-Learn / PyTorch / OpenCV / Pandas / NumPy
-* 🐍 **Languages:** Java / C++ / C / Assembly / Python / JavaScript / Verilog / PHP / Go
-* 🚀 **Databases**: MySQL / MongoDB / PostgreSQL / Firebase
-* 📊 **Data Analytics:** PowerBI / Tableau / Stata / R / Excel
-* ⌨️ **Architectures:** Micro-Frontends / Micro-Services
-* 🔧 **Tools**: Git / JUnit / Jest / GitHub Action / Docker
-* 🎨 **Design**: Figma / Adobe Illustrator
 
-Currently, I'm also learning about **Machine Learning**, **Blockchain**, and **Cybersecurity**!
+Absolutely! Here's the updated code with emojis next to the headers:
+
+<details>
+<summary><strong>🌐 Frontend Development</strong></summary>
+
+<ul>
+    <li>HTML5 & CSS3 & SASS</li>
+    <li>React</li>
+    <li>Angular</li>
+    <li>Vue</li>
+    <li>WebAssembly</li> 
+    <li>Bootstrap</li>
+    <li>Webpack</li>
+    <li>jQuery</li>
+    <li>Micro-Frontends</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>⚙️ Backend Development</strong></summary>
+
+<ul>
+    <li>Node.js</li>
+    <li>Express.js</li>
+    <li>Django</li>
+    <li>Django REST Framework</li>
+    <li>PHP</li>
+    <li>Golang & Beego</li>
+    <li>RESTful APIs</li>
+    <li>RabbitMQ</li>
+    <li>Apache Kafka</li>
+    <li>Elasticsearch</li>
+    <li>GraphQL</li>
+    <li>Micro-Services</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>📱 Mobile Development</strong></summary>
+
+<ul>
+    <li>React Native</li>
+    <li>Android (Kotlin)</li>
+    <li>iOS (Swift)</li>
+    <li>Objective-C</li>
+    <li>Android Studio</li>
+    <li>Xcode</li>
+    <li>Apache Cordova</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🐍 Languages</strong></summary>
+
+<ul>
+    <li>Java</li>
+    <li>C++</li>
+    <li>C</li>
+    <li>Assembly</li>
+    <li>Python</li>
+    <li>JavaScript</li>
+    <li>TypeScript</li>
+    <li>Verilog</li>
+    <li>PHP</li>
+    <li>Go</li>
+    <li>Rust</li>
+    <li>Kotlin</li>
+    <li>Swift</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🤖 AI & Machine Learning</strong></summary>
+
+<ul>
+    <li>TensorFlow</li>
+    <li>Keras</li>
+    <li>Scikit-Learn</li>
+    <li>PyTorch</li>
+    <li>OpenCV</li>
+    <li>Pandas</li>
+    <li>NumPy</li>
+    <li>Matplotlib</li>
+    <li>Optuna</li>
+    <li>YOLOv3 & YOLOv8</li>
+    <li>Tesseract OCR</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🗃️ Databases</strong></summary>
+
+<ul>
+    <li>MySQL</li>
+    <li>MongoDB</li>
+    <li>PostgreSQL</li>
+    <li>Firebase</li>
+    <li>SQLite</li>
+    <li>Redis</li>
+    <li>Oracle</li>
+    <li>Apache Cassandra</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>📊 Data Analytics</strong></summary>
+
+<ul>
+    <li>PowerBI</li>
+    <li>Tableau</li>
+    <li>Stata</li>
+    <li>R & RStudio</li>
+    <li>Microsoft Excel</li>
+    <li>SPSS</li>
+    <li>Matlab</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🚀 CI/CD & DevOps</strong></summary>
+
+<ul>
+    <li>Git</li>
+    <li>GitHub Actions</li>
+    <li>Jenkins</li>
+    <li>Docker</li>
+    <li>Kubernetes</li>
+    <li>Heroku</li>
+    <li>Netlify</li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🎨 Graphics & Design</strong></summary>
+
+<ul>
+    <li>Adobe Illustrator</li>
+    <li>Adobe Photoshop</li>
+    <li>Figma</li>
+    <li>Blender</li>
+    <li>InVision</li>
+</ul>
+
+</details>
 
 ## Notable Projects
 
@@ -104,7 +247,7 @@ The following are some of my personal web development projects that I have worke
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=12" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=10" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
 
