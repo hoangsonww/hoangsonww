@@ -230,7 +230,7 @@ The following are some of my personal web development projects that I have worke
 * 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**.
 * 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**.
 
-## My GitHub Stats:
+## My GitHub Stats
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
