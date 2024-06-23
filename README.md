@@ -199,6 +199,7 @@ The following are some of my personal web development projects that I have worke
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 - ⏰ **The EventHorizon App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
+- 🛒 **MERN Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/fullstack-ecommerce).
 
 </details>
 
