@@ -45,6 +45,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Express.js</li>
     <li>Django</li>
     <li>Django REST Framework</li>
+    <li>Flask</li>
     <li>PHP</li>
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
