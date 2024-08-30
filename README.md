@@ -188,18 +188,19 @@ For more information about me, please continue reading this README, take a look 
 <details id="web-development-projects">
 <summary><strong>Web Development Projects</strong></summary>
 
-The following are some of my personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, WeatherMate, and ToDo**.
+The following are some of my notable personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, WeatherMate, and ToDo**.
 
 - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
-- 🍲 **The RecipeGenie Database:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
 - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
-- 📚 **The ToDo App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
+- 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
+- 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Fullstack-Ecommerce-Website).
+- 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
+- 📚 **The ToDo App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 - ⏰ **The EventHorizon App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
-- 🛒 **MERN Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/fullstack-ecommerce).
 
 </details>
 
