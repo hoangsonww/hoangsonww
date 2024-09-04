@@ -32,7 +32,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Bootstrap</li>
     <li>Webpack</li>
     <li>jQuery</li>
-    <li>Micro-Frontends</li>
+    <li>Micro-Frontends Architecture</li>
 </ul>
 
 </details>
@@ -43,17 +43,17 @@ For more information about me, please continue reading this README, take a look 
 <ul>
     <li>Node.js</li>
     <li>Express.js</li>
-    <li>Django</li>
-    <li>Django REST Framework</li>
+    <li>Spring Framework</li>
+    <li>Django & Django REST Framework</li>
     <li>Flask</li>
+    <li>FAST APIs</li>
     <li>PHP</li>
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
     <li>Apache Kafka</li>
     <li>Elasticsearch</li>
-    <li>GraphQL</li>
-    <li>Micro-Services</li>
+    <li>Micro-Services Architecture</li>
 </ul>
 
 </details>
@@ -197,10 +197,9 @@ The following are some of my notable personal web development projects that I ha
 - 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
-- 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Fullstack-Ecommerce-Website).
+- 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
-- 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Node-Mongo-Redis-RabbitMQ).
-- 📚 **The ToDo App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-ToDo-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-ToDo-App).
+- 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 - ⏰ **The EventHorizon App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
 
