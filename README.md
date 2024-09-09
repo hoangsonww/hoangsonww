@@ -83,6 +83,7 @@ For more information about me, please continue reading this README, take a look 
     <li>C++</li>
     <li>C</li>
     <li>Assembly</li>
+    <li>WebAssembly (WASM)</li>
     <li>Python</li>
     <li>JavaScript</li>
     <li>TypeScript</li>
@@ -124,6 +125,8 @@ For more information about me, please continue reading this README, take a look 
     <li>Firebase</li>
     <li>SQLite</li>
     <li>Redis</li>
+    <li>Apache Cassandra</li>
+    <li>DynamoDB</li>
 </ul>
 
 </details>
