@@ -32,6 +32,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Bootstrap</li>
     <li>Webpack</li>
     <li>jQuery</li>
+    <li>TailwindCSS</li>
     <li>Micro-Frontends Architecture</li>
 </ul>
 
@@ -47,12 +48,13 @@ For more information about me, please continue reading this README, take a look 
     <li>Django & Django REST Framework</li>
     <li>Flask</li>
     <li>FAST APIs</li>
-    <li>PHP</li>
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
     <li>Apache Kafka</li>
-    <li>Elasticsearch</li>
+    <li>OAuth & JWT</li>
+    <li>AWS & GCP</li>
+    <li>Elasticsearch & ELK-Stack</li>
     <li>Micro-Services Architecture</li>
 </ul>
 
@@ -87,7 +89,6 @@ For more information about me, please continue reading this README, take a look 
     <li>Verilog</li>
     <li>PHP</li>
     <li>Go</li>
-    <li>Rust</li>
     <li>Kotlin</li>
     <li>Swift</li>
 </ul>
@@ -123,8 +124,6 @@ For more information about me, please continue reading this README, take a look 
     <li>Firebase</li>
     <li>SQLite</li>
     <li>Redis</li>
-    <li>Oracle</li>
-    <li>Apache Cassandra</li>
 </ul>
 
 </details>
@@ -189,7 +188,7 @@ For more information about me, please continue reading this README, take a look 
 <details id="web-development-projects">
 <summary><strong>Web Development Projects</strong></summary>
 
-The following are some of my notable personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, WeatherMate, and ToDo**.
+The following are some of my notable personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, and WeatherMate**.
 
 - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
@@ -198,6 +197,7 @@ The following are some of my notable personal web development projects that I ha
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
 - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
+- 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
 - 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
