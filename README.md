@@ -48,6 +48,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Django & Django REST Framework</li>
     <li>Flask</li>
     <li>FAST APIs</li>
+    <li>Laravel</li>
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
