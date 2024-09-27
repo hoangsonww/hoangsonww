@@ -48,13 +48,11 @@ For more information about me, please continue reading this README, take a look 
     <li>Django & Django REST Framework</li>
     <li>Flask</li>
     <li>FAST APIs</li>
-    <li>Laravel</li>
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
     <li>Apache Kafka</li>
     <li>OAuth & JWT</li>
-    <li>AWS & GCP</li>
     <li>Elasticsearch & ELK-Stack</li>
     <li>Micro-Services Architecture</li>
 </ul>
@@ -158,6 +156,8 @@ For more information about me, please continue reading this README, take a look 
     <li>Kubernetes</li>
     <li>Heroku</li>
     <li>Netlify</li>
+    <li>AWS EC2</li>
+    <li>GCP</li>
 </ul>
 
 </details>
