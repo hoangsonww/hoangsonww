@@ -272,3 +272,5 @@ The following are some of my notable personal web development projects that I ha
 * [Email](mailto:hoangson091104@gmail.com)
 
 ---
+
+Looking forward to connecting with you! 🚀
