@@ -205,8 +205,8 @@ The following are some of my notable personal web development projects that I ha
 - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
 - 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
+- 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
-- ⏰ **The EventHorizon App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Event-Horizon-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Event-Horizon-App).
 
 </details>
 
