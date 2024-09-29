@@ -27,7 +27,8 @@ For more information about me, please continue reading this README, take a look 
     <li>HTML5 & CSS3 & SASS</li>
     <li>React</li>
     <li>Angular</li>
-    <li>Vue</li>
+    <li>Vue.js</li>
+    <li>Next.js</li>
     <li>WebAssembly</li> 
     <li>Bootstrap</li>
     <li>Webpack</li>
@@ -139,8 +140,9 @@ For more information about me, please continue reading this README, take a look 
     <li>Stata</li>
     <li>R & RStudio</li>
     <li>Microsoft Excel</li>
-    <li>SPSS</li>
     <li>Matlab</li>
+    <li>Spark</li>
+    <li>Hadoop</li>
 </ul>
 
 </details>
@@ -153,7 +155,7 @@ For more information about me, please continue reading this README, take a look 
     <li>GitHub Actions</li>
     <li>Jenkins</li>
     <li>Docker</li>
-    <li>Kubernetes</li>
+    <li>Vercel</li>
     <li>Heroku</li>
     <li>Netlify</li>
     <li>AWS EC2</li>
@@ -170,7 +172,6 @@ For more information about me, please continue reading this README, take a look 
     <li>Adobe Photoshop</li>
     <li>Figma</li>
     <li>Blender</li>
-    <li>InVision</li>
 </ul>
 
 </details>
