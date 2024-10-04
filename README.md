@@ -229,10 +229,12 @@ The following are some of my notable personal web development projects that I ha
 </details>
 
 ## Certificates
+* 👨‍💻 **Software Engineer Role Certificate** by **HackerRank**.
+* 🌐 **Frontend Engineer Role Certificate** by **HackerRank**.
 * 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**.
 * 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**.
 * 💾 **PH125.1x: Data Science Certificates** by **Harvard University**.
-* 👨‍💻 **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**.
+* 🛠️ **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**.
 * 🔗 **REST APIs Certificate** by **Codecademy**.
 * 🗣️ **Leadership and Communication Certificate** by **Harvard University**.
 * 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**.
