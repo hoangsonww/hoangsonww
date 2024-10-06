@@ -201,6 +201,7 @@ The following are some of my notable personal web development projects that I ha
 - 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
+- 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker-fullstack-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
 - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
 - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
