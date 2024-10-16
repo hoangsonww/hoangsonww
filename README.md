@@ -52,9 +52,10 @@ For more information about me, please continue reading this README, take a look 
     <li>Golang & Beego</li>
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
+    <li>Nginx</li>
     <li>Apache Kafka</li>
     <li>OAuth & JWT</li>
-    <li>Elasticsearch & ELK-Stack</li>
+    <li>Elasticsearch & the ELK-Stack</li>
     <li>Micro-Services Architecture</li>
 </ul>
 
@@ -158,7 +159,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Vercel</li>
     <li>Heroku</li>
     <li>Netlify</li>
-    <li>AWS EC2</li>
+    <li>AWS</li>
     <li>GCP</li>
 </ul>
 
