@@ -45,7 +45,7 @@ For more information about me, please continue reading this README, take a look 
 <ul>
     <li>Node.js</li>
     <li>Express.js</li>
-    <li>Spring Framework</li>
+    <li>Spring Framework & Spring Boot</li>
     <li>Django & Django REST Framework</li>
     <li>Flask</li>
     <li>FAST APIs</li>
@@ -53,6 +53,7 @@ For more information about me, please continue reading this README, take a look 
     <li>RESTful APIs</li>
     <li>RabbitMQ</li>
     <li>Nginx</li>
+    <li>Red5 Media Server</li>
     <li>Apache Kafka</li>
     <li>OAuth & JWT</li>
     <li>Elasticsearch & the ELK-Stack</li>
@@ -112,6 +113,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Optuna</li>
     <li>YOLOv3 & YOLOv8</li>
     <li>Tesseract OCR</li>
+    <li>Transformers</li>
 </ul>
 
 </details>
@@ -126,7 +128,7 @@ For more information about me, please continue reading this README, take a look 
     <li>Firebase</li>
     <li>SQLite</li>
     <li>Redis</li>
-    <li>Apache Cassandra</li>
+    <li>Oracle Database</li>
     <li>DynamoDB</li>
 </ul>
 
@@ -182,12 +184,9 @@ For more information about me, please continue reading this README, take a look 
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
-- 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management & Sale Websites:
-  - Sales Website: [Visit the **live** **website** here](https://www.vngcloud.vn/product/vcloudcam).
-  - Version 1 of the Camera Management Website: [Visit the **live** **website** here](https://v1.vcloudcam.vn/#/).
-  - Version 2 of the Camera Management Website: [Visit the **live** **website** here](https://vcloudcam.vn/#/).
-- 🌐 **Huong Hua Co., Ltd.'s Company Website:** [Visit the **live** **website** here](https://huonghuacoltd.com).
-- 📡 **FPT Corporation's ICDP Internal Communications Platform**.
+- 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management System & Sale Websites.
+- 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
+- 📡 **FPT Corporation's ICDP** Internal Communications Platform.
 
 </details>
 
@@ -197,19 +196,19 @@ For more information about me, please continue reading this README, take a look 
 The following are some of my notable personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, and WeatherMate**.
 
 - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
-- 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-StickyNotes-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
-- ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://hoangsonww.github.io/WeatherMate-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
-- 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://hoangsonww.github.io/RecipeGenie-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
-- 🏰 **The Maze Game:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-Maze-Game/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
-- 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://hoangsonww.github.io/Image-Video-Tools/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
-- 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker-fullstack-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
+- 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
 - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
 - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
+- 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
+- ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
+- 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
+- 🏰 **The Maze Game:** [Visit the **live** **website** here](https://the-maze-game.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
+- 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
 - 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
-- 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://hoangsonww.github.io/The-GitPeek-App/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
+- 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 
 </details>
 
@@ -217,13 +216,14 @@ The following are some of my notable personal web development projects that I ha
 <summary><strong>Mobile Applications Projects</strong></summary>
 
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
-- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://hoangsonww.github.io/2048-Game/).
+- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
 </details>
 
 <details id="data-science-projects">
 <summary><strong>Data Science / AI-ML Projects</strong></summary>
 
+- 🎹 **Moodify AI-Powered Emotion App - Data Analytics:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
