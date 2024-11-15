@@ -206,7 +206,6 @@ The following are some of my notable personal web development projects that I ha
 - 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/RecipeGenie-App).
 - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://the-maze-game.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
-- 🗂️ **Node, Mongo, Redis, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App).
 - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
@@ -228,6 +227,17 @@ The following are some of my notable personal web development projects that I ha
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
+
+</details>
+
+<details id="other-projects">
+<summary><strong>Other Projects</strong></summary>
+
+- 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
+- 🗂️ **Node, Kafka, Mongo, Redis, ELK-Stack, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
+- 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
+- 👾 **JavaFX Space Invaders Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Space-Invader-Game).
+- ⚽ **JavaFX Bouncing Ball Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Bouncing-Ball-Game).
 
 </details>
 
