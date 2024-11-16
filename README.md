@@ -184,9 +184,9 @@ For more information about me, please continue reading this README, take a look 
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
-- 🚀 **VNG CORPORATION**'s **vCloudcam** Camera Management System & Sale Websites.
-- 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
+- 🚀 **VNG Corporation**'s **vCloudcam** Camera Management System & Sale Websites.
 - 📡 **FPT Corporation's ICDP** Internal Communications Platform.
+- 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
 
 </details>
 
