@@ -16,7 +16,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
 
-For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+> For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
 
 ## Skills and Knowledge
 
@@ -223,7 +223,8 @@ The following are some of my notable personal web development projects that I ha
 <details id="data-science-projects">
 <summary><strong>Data Science / AI-ML Projects</strong></summary>
 
-- 🎹 **Moodify AI-Powered Emotion App - Data Analytics:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
+- 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
+- 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
@@ -236,6 +237,7 @@ The following are some of my notable personal web development projects that I ha
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
 - 🗂️ **Node, Kafka, Mongo, Redis, ELK-Stack, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
+- 🎮 **JavaFX 2048 Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Game-2048-JavaFX).
 - 👾 **JavaFX Space Invaders Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Space-Invader-Game).
 - ⚽ **JavaFX Bouncing Ball Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Bouncing-Ball-Game).
 
