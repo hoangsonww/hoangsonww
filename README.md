@@ -184,7 +184,7 @@ My name is **Son Nguyen**. I'm currently a student at **The University of North 
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
-- 🚀 **VNG Corporation**'s **vCloudcam** Camera Management System & Sale Websites.
+- 🚀 **VNG Corporation's** **vCloudcam** Camera Management System & Sale Websites.
 - 📡 **FPT Corporation's ICDP** Internal Communications Platform.
 - 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
 
@@ -235,11 +235,13 @@ The following are some of my notable personal web development projects that I ha
 <summary><strong>Other Projects</strong></summary>
 
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
-- 🗂️ **Node, Kafka, Mongo, Redis, ELK-Stack, and RabbitMQ Backend:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
+- 🗂️ **Node, Kafka, Mongo, Redis, ELK-Stack, and RabbitMQ Demo Project:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
 - 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🎮 **JavaFX 2048 Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Game-2048-JavaFX).
-- 👾 **JavaFX Space Invaders Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Space-Invader-Game).
-- ⚽ **JavaFX Bouncing Ball Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Bouncing-Ball-Game).
+- 🧩 **JavaFX Akari Puzzle Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Akari-Puzzle-Game-JavaFX).
+- 👾 **JavaFX Space Invaders Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Space-Invader-Game-JavaFX).
+- ⚽ **JavaFX Bouncing Ball Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Bouncing-Ball-Game-JavaFX).
+- 🐚 **Simple Shell in C:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/C-Shell-Implementation).
 
 </details>
 
