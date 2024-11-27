@@ -193,13 +193,12 @@ My name is **Son Nguyen**. I'm currently a student at **The University of North 
 <details id="web-development-projects">
 <summary><strong>Web Development Projects</strong></summary>
 
-The following are some of my notable personal web development projects that I have worked on & contributed to so far. Some of them also have **Android/iOS mobile versions**, such as **MovieVerse, StickyNotes, RecipeGenie, and WeatherMate**.
-
 - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
 - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
 - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
 - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
+- 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game).
 - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-StickyNotes-App).
 - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/WeatherMate-App).
