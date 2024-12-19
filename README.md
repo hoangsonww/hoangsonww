@@ -234,7 +234,7 @@ My name is **Son Nguyen**. I'm currently a student at **The University of North 
 <summary><strong>Other Projects</strong></summary>
 
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
-- 🗂️ **Node, Kafka, Mongo, Redis, ELK-Stack, and RabbitMQ Demo Project:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Mongo-Redis-RabbitMQ-ELK-Stack).
+- 🗂️ **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
 - 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🎮 **JavaFX 2048 Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Game-2048-JavaFX).
 - 🧩 **JavaFX Akari Puzzle Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Akari-Puzzle-Game-JavaFX).
