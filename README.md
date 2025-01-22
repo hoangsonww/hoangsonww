@@ -33,7 +33,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
-        <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
+    <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
     <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
