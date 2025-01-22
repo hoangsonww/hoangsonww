@@ -35,6 +35,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
     <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
+    <li><img src="https://img.shields.io/badge/MUI%20%26%20Shadcn-blueviolet?logo=mui&logoColor=white" alt="MUI and Shadcn Badge"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
     <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-brightgreen?logo=amazonsimpleemailservice&logoColor=white" alt="Micro-Frontends Architecture"></li>
@@ -48,6 +49,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
 <ul>
     <li><img src="https://img.shields.io/badge/Node.js-brightgreen?logo=node.js&logoColor=white" alt="Node.js"></li>
     <li><img src="https://img.shields.io/badge/Express.js-blue?logo=express&logoColor=white" alt="Express.js"></li>
+    <li><img src="https://img.shields.io/badge/Nest.js-red?logo=nestjs&logoColor=white" alt="Nest.js Badge"></li>
     <li><img src="https://img.shields.io/badge/Spring%20Framework%20%26%20Spring%20Boot-yellow?logo=spring&logoColor=white" alt="Spring Framework & Spring Boot"></li>
     <li><img src="https://img.shields.io/badge/Django%20%26%20Django%20REST%20Framework-green?logo=django&logoColor=white" alt="Django & Django REST Framework"></li>
     <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
@@ -97,6 +99,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/MongoDB-brightgreen?logo=mongodb&logoColor=white" alt="MongoDB"></li>
     <li><img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
     <li><img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" alt="Firebase"></li>
+    <li><img src="https://img.shields.io/badge/Supabase-darkgreen?logo=supabase&logoColor=white" alt="Supabase"></li>
     <li><img src="https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white" alt="SQLite"></li>
     <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Database-red?logo=circle&logoColor=white" alt="Oracle Database"></li>
