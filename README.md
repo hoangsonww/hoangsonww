@@ -69,44 +69,6 @@ A brief overview of the skills and knowledge that I have acquired over the years
 </details>
 
 <details>
-<summary><strong>📱 Mobile Development</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white" alt="React Native"></li>
-    <li><img src="https://img.shields.io/badge/Android%20(Kotlin)-green?logo=android&logoColor=white" alt="Android (Kotlin)"></li>
-    <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
-    <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
-    <li><img src="https://img.shields.io/badge/Flutter-cyan?logo=flutter&logoColor=white" alt="Flutter"></li>
-    <li><img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
-    <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
-    <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
-</ul>
-
-</details>
-
-<details>
-<summary><strong>🐍 Languages</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/Java-red?logo=coffeescript&logoColor=white" alt="Java"></li>
-    <li><img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" alt="C++"></li>
-    <li><img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"></li>
-    <li><img src="https://img.shields.io/badge/Assembly-lightgrey?logo=assemblyscript&logoColor=white" alt="Assembly"></li>
-    <li><img src="https://img.shields.io/badge/WebAssembly%20(WASM)-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
-    <li><img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" alt="Python"></li>
-    <li><img src="https://img.shields.io/badge/JavaScript-gold?logo=javascript&logoColor=white" alt="JavaScript"></li>
-    <li><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript"></li>
-    <li><img src="https://img.shields.io/badge/Verilog-green?logo=velog&logoColor=white" alt="Verilog"></li>
-    <li><img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" alt="PHP"></li>
-    <li><img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go"></li>
-    <li><img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"></li>
-    <li><img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" alt="Swift"></li>
-    <li><img src="https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white" alt="Shell"></li>
-</ul>
-
-</details>
-
-<details>
 <summary><strong>🤖 AI & Machine Learning</strong></summary>
 
 <ul>
@@ -139,6 +101,44 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Database-red?logo=circle&logoColor=white" alt="Oracle Database"></li>
     <li><img src="https://img.shields.io/badge/DynamoDB-darkblue?logo=amazondynamodb&logoColor=white" alt="DynamoDB"></li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🐍 Languages</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/Java-red?logo=coffeescript&logoColor=white" alt="Java"></li>
+    <li><img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" alt="C++"></li>
+    <li><img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"></li>
+    <li><img src="https://img.shields.io/badge/Assembly-lightgrey?logo=assemblyscript&logoColor=white" alt="Assembly"></li>
+    <li><img src="https://img.shields.io/badge/WebAssembly%20(WASM)-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
+    <li><img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" alt="Python"></li>
+    <li><img src="https://img.shields.io/badge/JavaScript-gold?logo=javascript&logoColor=white" alt="JavaScript"></li>
+    <li><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript"></li>
+    <li><img src="https://img.shields.io/badge/Verilog-green?logo=velog&logoColor=white" alt="Verilog"></li>
+    <li><img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" alt="PHP"></li>
+    <li><img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go"></li>
+    <li><img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"></li>
+    <li><img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" alt="Swift"></li>
+    <li><img src="https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white" alt="Shell"></li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>📱 Mobile Development</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white" alt="React Native"></li>
+    <li><img src="https://img.shields.io/badge/Android%20(Kotlin)-green?logo=android&logoColor=white" alt="Android (Kotlin)"></li>
+    <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
+    <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
+    <li><img src="https://img.shields.io/badge/Flutter-cyan?logo=flutter&logoColor=white" alt="Flutter"></li>
+    <li><img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
+    <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
 </ul>
 
 </details>
