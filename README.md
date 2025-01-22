@@ -172,7 +172,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Netlify-green?logo=netlify&logoColor=white" alt="Netlify"></li>
     <li><img src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
-    <li><img src="https://img.shields.io/badge/Azure-blue?logo=microsoftazure&logoColor=white" alt="Azure"></li>
+    <li><img src="https://img.shields.io/badge/Azure-blue?logo=arc&logoColor=white" alt="Azure"></li>
 </ul>
 
 </details>
