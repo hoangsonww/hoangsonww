@@ -213,6 +213,7 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
 - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
 - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
+- 🗒️ **CollabNote Next.js & NestJS Full-Stack App:** [Visit the **live** **website** here](https://collabnote-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
 - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
 - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game).
 - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
@@ -223,7 +224,6 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
 - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App).
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
-
 </details>
 
 <details id="mobile-applications-projects">
