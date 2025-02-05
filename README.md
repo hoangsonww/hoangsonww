@@ -240,6 +240,7 @@ Here are some of the most notable projects that I have worked on. However, there
 <summary><strong>Data Science & AI-ML Projects</strong></summary>
 
 - 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
+- 🧠 **RAG-LangChain Agentic AI System:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
 - 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
