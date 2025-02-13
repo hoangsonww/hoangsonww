@@ -227,16 +227,6 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-GitPeek-App).
 </details>
 
-<details id="mobile-applications-projects">
-<summary><strong>Mobile Applications Projects</strong></summary>
-
-- 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
-- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
-
-> Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile) and [The RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile). Feel free to check them out! 📱
-
-</details>
-
 <details id="data-science-projects">
 <summary><strong>Data Science & AI-ML Projects</strong></summary>
 
@@ -247,6 +237,16 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
 - 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
+
+</details>
+
+<details id="mobile-applications-projects">
+<summary><strong>Mobile Applications Projects</strong></summary>
+
+- 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
+- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
+
+> Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile) and [The RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile). Feel free to check them out! 📱
 
 </details>
 
