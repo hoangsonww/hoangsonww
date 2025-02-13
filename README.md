@@ -80,6 +80,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch"></li>
     <li><img src="https://img.shields.io/badge/OpenCV-green?logo=opencv&logoColor=white" alt="OpenCV"></li>
     <li><img src="https://img.shields.io/badge/Pandas-blue?logo=pandas&logoColor=white" alt="Pandas"></li>
+    <li><img src="https://img.shields.io/badge/Pinecone-orange?logo=googledataproc&logoColor=white" alt="Pinecone"></li>
     <li><img src="https://img.shields.io/badge/NumPy-lightblue?logo=numpy&logoColor=white" alt="NumPy"></li>
     <li><img src="https://img.shields.io/badge/Matplotlib-orange?logo=plotly&logoColor=white" alt="Matplotlib"></li>
     <li><img src="https://img.shields.io/badge/Optuna-purple?logo=openaigym&logoColor=white" alt="Optuna"></li>
