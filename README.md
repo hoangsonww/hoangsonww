@@ -269,7 +269,7 @@ Here are some of the most notable projects that I have worked on. However, there
 
 ### 📚 **Check out my SWE knowledge blog!** 
 - 📝 **DevVerse SWE Blog:** [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
-- This blog features a wide range of topics, including **Software Engineering**, **Web Development**, **Mobile Development**, **Data Science**, **AI/ML**, **DevOps**, **CI/CD**, **Databases**, **Graphics & Design**, **Languages**, **Frontend Development**, **Backend Development**, **Mobile Development**, **Data Analytics**, **AI & Machine Learning**, **Databases**, **CI/CD & DevOps**, **Graphics & Design**, and **Languages**. I created this blog to share my knowledge and experiences with the world, as well as allowing other developers to contribute to it. 🚀
+- This blog features a wide range of topics, including **Software Engineering**, **Web Development**, **Mobile Development**, **Data Science**, **AI/ML**, **DevOps**, **CI/CD**, **Databases**, **Graphics & Design**, **Languages**, **Frontend Development**, **Backend Development**, **Mobile Development**, **Data Analytics**, **AI & Machine Learning**, **Databases**, **CI/CD & DevOps**, **Graphics & Design**, and **Languages**. I created this blog to share my knowledge and experiences with the world and to allow other developers to share their own knowledge and experiences as well. 🚀
 
 </details>
 
