@@ -57,6 +57,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-brightgreen?logo=amazonapigateway&logoColor=white" alt="RESTful APIs"></li>
     <li><img src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white" alt="GraphQL"></li>
+    <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
     <li><img src="https://img.shields.io/badge/Red5%20Media%20Server-red?logo=webrtc&logoColor=white" alt="Red5 Media Server"></li>
