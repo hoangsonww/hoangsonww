@@ -238,6 +238,7 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🧑‍💻 **Lumina AI Chatbot:** [Visit the **live website** here](https://lumina-david.vercel.app)
 - 🧠 **RAG-LangChain Agentic AI System:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
+- 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - 📈 **End-to-End Data Pipeline:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/End-to-End-Data-Pipeline).
 - 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
@@ -271,6 +272,10 @@ Here are some of the most notable projects that I have worked on. However, there
 ### 📚 **Check out my SWE knowledge blog!** 
 - 🪐 **DevVerse SWE Blog:** [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
 - This blog features a wide range of topics, including **Software Engineering**, **Web Development**, **Mobile Development**, **Data Science**, **AI/ML**, **DevOps**, **CI/CD**, **Databases**, **Graphics & Design**, **Languages**, **Frontend Development**, **Backend Development**, **Mobile Development**, **Data Analytics**, **AI & Machine Learning**, **Databases**, **CI/CD & DevOps**, **Graphics & Design**, and **Languages**. I created this blog to share my knowledge and experiences with the world and to allow other developers to share their own knowledge and experiences as well. 🚀
+
+### 🤖 **Create a chatbot in minutes with:**
+- 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
+- This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, and **TypeScript**. 🤖
 
 </details>
 
