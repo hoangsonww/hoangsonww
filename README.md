@@ -137,10 +137,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
 
 <ul>
     <li><img src="https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white" alt="React Native"></li>
-    <li><img src="https://img.shields.io/badge/Android%20(Kotlin)-green?logo=android&logoColor=white" alt="Android (Kotlin)"></li>
+    <li><img src="https://img.shields.io/badge/Android%20(Kotlin & Java)-green?logo=android&logoColor=white" alt="Android (Kotlin & Java)"></li>
     <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
     <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
-    <li><img src="https://img.shields.io/badge/Flutter-cyan?logo=flutter&logoColor=white" alt="Flutter"></li>
     <li><img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
     <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
@@ -214,16 +213,17 @@ Here are some of the most notable projects that I have worked on. However, there
   - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
   - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
   - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
-  - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
+  - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
   - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
-  - 🗒️ **CollabNote Next.js & NestJS Full-Stack App:** [Visit the **live** **website** here](https://collabnote-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
+  - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
   - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
   - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game).
   - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App).
   - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 
   ### 🔥 Interactive & Utility-Based Applications
+  - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
   - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/).
   - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/).
   - 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/).
@@ -233,11 +233,11 @@ Here are some of the most notable projects that I have worked on. However, there
 </details>
 
 <details id="data-science-projects">
-<summary><strong>Data Science & AI-ML Projects</strong></summary>
+<summary><strong>Data Analytics & AI-ML Projects</strong></summary>
 
 - 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🧑‍💻 **Lumina AI Chatbot:** [Visit the **live website** here](https://lumina-david.vercel.app)
-- 🧠 **RAG-LangChain Agentic AI System:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
+- 🧠 **RAG-LangChain Agentic AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - 📈 **End-to-End Data Pipeline:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/End-to-End-Data-Pipeline).
 - 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
@@ -253,7 +253,7 @@ Here are some of the most notable projects that I have worked on. However, there
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
 - 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
-> Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile) and [The RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile). Feel free to check them out! 📱
+> Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile), [RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile), and [Moodify Mobile](https://github.com/hoangsonww/Moodify-Emotion-Music-App/tree/master/mobile). Feel free to check them out! 📱
 
 </details>
 
