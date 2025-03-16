@@ -351,6 +351,8 @@ Here are some of the certificates that I have earned over the years 🚀
 
 ## Connect with me
 
+Feel free to connect with me or learn more about me on the following platforms:
+
 * [Portfolio Website](https://sonnguyenhoang.com)
 * [Lumina AI Personal Assistant](https://lumina-david.vercel.app/chat)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
