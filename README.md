@@ -236,6 +236,7 @@ These are some of the web development projects that I have worked on over the ye
   - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://the-maze-game.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
   - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
   - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/).
+
 </details>
 
 <details id="data-science-projects">
@@ -353,11 +354,13 @@ Here are some of the certificates that I have earned over the years 🚀
 
 Feel free to connect with me or learn more about me on the following platforms:
 
-* [Portfolio Website](https://sonnguyenhoang.com)
-* [Lumina AI Personal Assistant](https://lumina-david.vercel.app/chat)
-* [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
-* [Email](mailto:hoangson091104@gmail.com)
-* [ResearchGate](https://www.researchgate.net/profile/Son-Nguyen-386)
+<ul>
+  <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
+  <li><a href="https://lumina-david.vercel.app/chat" target="_blank" rel="noopener noreferrer">Lumina AI Personal Assistant</a></li>
+  <li><a href="https://www.linkedin.com/in/hoangsonw/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
+  <li><a href="mailto:hoangson091104@gmail.com">Email</a></li>
+  <li><a href="https://www.researchgate.net/profile/Son-Nguyen-386" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
+</ul>
 
 ---
 
