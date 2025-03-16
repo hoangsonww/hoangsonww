@@ -16,7 +16,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
 
-> For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website using [this link](https://sonnguyenhoang.com)!
+> For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
 ## Skills and Knowledge
 
@@ -133,21 +133,6 @@ A brief overview of the skills and knowledge that I have acquired over the years
 </details>
 
 <details>
-<summary><strong>📱 Mobile Development</strong></summary>
-
-<ul>
-    <li><img src="https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white" alt="React Native"></li>
-    <li><img src="https://img.shields.io/badge/Android%20(Kotlin & Java)-green?logo=android&logoColor=white" alt="Android (Kotlin & Java)"></li>
-    <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
-    <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
-    <li><img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
-    <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
-    <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
-</ul>
-
-</details>
-
-<details>
 <summary><strong>📊 Data Analytics</strong></summary>
 
 <ul>
@@ -159,6 +144,21 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Matlab-orange?logo=matrix&logoColor=white" alt="Matlab"></li>
     <li><img src="https://img.shields.io/badge/Spark-red?logo=apachespark&logoColor=white" alt="Spark"></li>
     <li><img src="https://img.shields.io/badge/Hadoop-brightgreen?logo=apachehadoop&logoColor=white" alt="Hadoop"></li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>📱 Mobile Development</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/React%20Native-blue?logo=react&logoColor=white" alt="React Native"></li>
+    <li><img src="https://img.shields.io/badge/Android%20(Kotlin & Java)-green?logo=android&logoColor=white" alt="Android (Kotlin & Java)"></li>
+    <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
+    <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
+    <li><img src="https://img.shields.io/badge/Android%20Studio-green?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
+    <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
 </ul>
 
 </details>
@@ -200,6 +200,8 @@ Here are some of the most notable projects that I have worked on. However, there
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
+Here are some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor:
+
 - 🚀 **VNG Corporation's** **vCloudcam** Camera Management System & Sale Websites.
 - 📡 **FPT Corporation's ICDP** Internal Communications Platform.
 - 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
@@ -207,7 +209,9 @@ Here are some of the most notable projects that I have worked on. However, there
 </details>
 
 <details id="web-development-projects">
-  <summary><strong>Web Development Projects</strong></summary>
+<summary><strong>Web Development Projects</strong></summary>
+
+These are some of the web development projects that I have worked on over the years, including both the frontend UI/UX and the backend API development:
 
   ### 🌐 Full-Stack Applications
   - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
@@ -235,6 +239,8 @@ Here are some of the most notable projects that I have worked on. However, there
 <details id="data-science-projects">
 <summary><strong>Data Analytics & AI-ML Projects</strong></summary>
 
+Data Science and AI/ML are also an important part of my skillset! Here are some of the projects that I have worked on in these areas:
+
 - 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🧑‍💻 **Lumina AI Chatbot:** [Visit the **live website** here](https://lumina-david.vercel.app)
 - 🧠 **RAG-LangChain Agentic AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
@@ -247,8 +253,24 @@ Here are some of the most notable projects that I have worked on. However, there
 
 </details>
 
+<details id="libraries-packages-projects">
+<summary><strong>Libraries & Packages Projects</strong></summary>
+
+I have also worked on a number of libraries and packages that are available on **npm** and **PyPI**. Here are some of them:
+
+- 🛠️ **SQL-Mongo Query Converter**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/SQL-Mongo-Query-Converter) - `PyPI Package`
+- 💾 **GhostCache API Cache Tool**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostCache-API-Cache) - `npm package`
+- 👻 **GhostIO Invisible Data Prefetch**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostIO-Invisible-Data-Prefetch) - `npm package`
+- ⏳ **TimeWarp Time Manipulation Library**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Time-Warp-Manipulation-Library) - `npm package`
+- ⚡ **FastFetch API Fetch Enhancer**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/FastFetch-API-Fetch-Enhancer) - `npm package`
+- 🛡️ **EnvGuard `.env` File Validator**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/EnvGuard-Env-Validator) - `npm package`
+
+</details>
+
 <details id="mobile-applications-projects">
 <summary><strong>Mobile Applications Projects</strong></summary>
+
+Not quite my main focus, but I have also worked on a number of mobile applications over the years. Here are some of them:
 
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
 - 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
@@ -259,6 +281,8 @@ Here are some of the most notable projects that I have worked on. However, there
 
 <details id="other-projects">
 <summary><strong>Other <em>Cool</em> Projects</strong></summary>
+
+Some other cool projects that I have worked on over the years. These include JavaFX games, C shell implementations, and software design patterns:
 
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
 - 🗂️ **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
