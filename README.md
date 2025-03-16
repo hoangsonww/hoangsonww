@@ -6,8 +6,10 @@
 - [Notable Projects](#notable-projects)
   - [Professional Projects](#professional-projects)
   - [Web Development Projects](#web-development-projects)
+  - [Data Analytics & AI/ML Projects](#data-science-projects)
+  - [Libraries & Packages Projects](#libraries-packages-projects)
   - [Mobile Applications Projects](#mobile-applications-projects)
-  - [Data Science & AI Projects](#data-science-projects)
+  - [Other Cool Projects](#other-projects)
 - [Certificates](#certificates)
 - [My GitHub Stats](#my-github-stats)
 - [Connect with Me](#connect-with-me)
@@ -336,7 +338,7 @@ Here are some of the certificates that I have earned over the years 🚀
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=14" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=16" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
 
@@ -350,8 +352,10 @@ Here are some of the certificates that I have earned over the years 🚀
 ## Connect with me
 
 * [Portfolio Website](https://sonnguyenhoang.com)
+* [Lumina AI Personal Assistant](https://lumina-david.vercel.app/chat)
 * [LinkedIn](https://www.linkedin.com/in/hoangsonw/)
 * [Email](mailto:hoangson091104@gmail.com)
+* [ResearchGate](https://www.researchgate.net/profile/Son-Nguyen-386)
 
 ---
 
