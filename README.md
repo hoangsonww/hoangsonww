@@ -280,7 +280,7 @@ Not quite my main focus, but I have also worked on a number of mobile applicatio
 
 - 📱 **React Native TaskNexus Task Manager App:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Task-Manager-ReactNative).
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
-- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
+- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **web** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
 > Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile), [RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile), and [Moodify Mobile](https://github.com/hoangsonww/Moodify-Emotion-Music-App/tree/master/mobile). Feel free to check them out! 📱
 
