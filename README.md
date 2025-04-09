@@ -64,7 +64,8 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
     <li><img src="https://img.shields.io/badge/Red5%20Media%20Server-red?logo=webrtc&logoColor=white" alt="Red5 Media Server"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Kafka-yellow?logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
-    <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=auth0&logoColor=white" alt="OAuth & JWT"></li>
+    <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=jsonwebtokens&logoColor=white" alt="OAuth & JWT"></li>
+    <li><img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Auth0"></li>
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-green?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
     <li><img src="https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white" alt="Prometheus"></li>
     <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
@@ -220,6 +221,7 @@ These are some of the web development projects that I have worked on over the ye
   - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
   - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
   - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
+  - 🧰 **Collabify Project Management App:** [Visit the **live** **website** here](https://collabify-pm.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
   - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
@@ -249,6 +251,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 - 🧠 **RAG-LangChain Agentic AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - 📈 **End-to-End Data Pipeline:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/End-to-End-Data-Pipeline).
+- 💸 **FRED Economics Data Analysis Project: [Visit the **GitHub repo** here](https://github.com/hoangsonww/FRED-Banking-Data-Analysis).
 - 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
@@ -333,13 +336,13 @@ Here are some of the certificates that I have earned over the years 🚀
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=4&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=16" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
 
