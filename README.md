@@ -251,7 +251,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 - 🧠 **RAG-LangChain Agentic AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - 📈 **End-to-End Data Pipeline:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/End-to-End-Data-Pipeline).
-- 💸 **FRED Economics Data Analysis Project: [Visit the **GitHub repo** here](https://github.com/hoangsonww/FRED-Banking-Data-Analysis).
+- 💸 **FRED Economics Data Analysis Project:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/FRED-Banking-Data-Analysis).
 - 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
 - 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
 - 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
