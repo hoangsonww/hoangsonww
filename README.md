@@ -278,6 +278,7 @@ I have also worked on a number of libraries and packages that are available on *
 
 Not quite my main focus, but I have also worked on a number of mobile applications over the years. Here are some of them:
 
+- 📱 **React Native TaskNexus Task Manager App:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Task-Manager-ReactNative).
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
 - 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **website** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
