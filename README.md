@@ -37,6 +37,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
     <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
+    <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
     <li><img src="https://img.shields.io/badge/MUI%20%26%20Shadcn-blueviolet?logo=mui&logoColor=white" alt="MUI and Shadcn Badge"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
@@ -219,9 +220,12 @@ These are some of the web development projects that I have worked on over the ye
   ### 🌐 Full-Stack Applications
   - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
   - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
-  - 🎹 **Moodify AI-Powered Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
-  - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
+  - 🎹 **Moodify AI Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
   - 🧰 **Collabify Project Management App:** [Visit the **live** **website** here](https://collabify-pm.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager).
+  - 💊 **SymptomSync Health Manager:** [Visit the **live** **website** here](https://symptomsync.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App).
+  - 👯‍♂️ **Meadows Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
+  - 🏠 **EstateWise Real Estate Chatbot:** [Visit the **live** **website** here](https://estatewise.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot).
+  - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
   - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
@@ -232,9 +236,13 @@ These are some of the web development projects that I have worked on over the ye
 
   ### 🔥 Interactive & Utility-Based Applications
   - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
+  - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://the-dataviz-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
+  - 🎯 **The Wordle Game:** [Visit the **live** **website** here](https://the-wordle-game.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Wordle-Game).
+  - 🧮 **NuCalc Calculator App:** [Visit the **live** **website** here](https://nucalc-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App).
+  - 🍲 **PantryPal Streamlit App:** [Visit the **live** **website** here](https://pantrypal-app.streamlit.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App).
   - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/).
   - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/).
-  - 🍲 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/).
+  - 🧑‍🍳 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/).
   - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://the-maze-game.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
   - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
   - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/).
@@ -246,16 +254,33 @@ These are some of the web development projects that I have worked on over the ye
 
 Data Science and AI/ML are also an important part of my skillset! Here are some of the projects that I have worked on in these areas:
 
-- 🤖 **AI/ML Classifiers:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
-- 🧑‍💻 **Lumina AI Chatbot:** [Visit the **live website** here](https://lumina-david.vercel.app)
-- 🧠 **RAG-LangChain Agentic AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/RAG-LangChain-AI-System).
-- 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
-- 📈 **End-to-End Data Pipeline:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/End-to-End-Data-Pipeline).
-- 💸 **FRED Economics Data Analysis Project:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/FRED-Banking-Data-Analysis).
-- 🎹 **Moodify AI-Powered Emotion App - Data Analytics & AI/ML:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App).
-- 🌟 **Multipurpose AI Classifiers:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/AI-ML-Classifiers).
-- 🌍 **Global COVID-19 Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Global-COVID19-Analysis).
-- 📊 **North Carolina Household Analysis:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/North-Carolina-Household-Analysis).
+### 🤖 AI/ML Projects
+<ul>
+  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
+  <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
+  <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🎹 <strong>Moodify AI-Powered Emotion App - Data Analytics & AI/ML:</strong> <a href="https://github.com/hoangsonww/Moodify-Emotion-Music-App">Visit its <strong>GitHub repo</strong> here</a></li>
+  <li>🌟 <strong>Multipurpose AI Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+</ul>
+
+### 📊 Data Analytics & Data Science Projects
+<ul>
+  <li>📈 <strong>End-to-End Data Pipeline:</strong> <a href="https://github.com/hoangsonww/End-to-End-Data-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🧐 <strong>Amazon Reviews Textual Analysis:</strong> <a href="https://github.com/hoangsonww/Amazon-Reviews-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🌏 <strong>Global Earthquake Data Analysis:</strong> <a href="https://github.com/hoangsonww/Earthquake-R-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🏭 <strong>Global CO₂ Emissions Analysis:</strong> <a href="https://github.com/hoangsonww/CO2-Global-Emissions-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🔍 <strong>Gapminder Data Analysis:</strong> <a href="https://github.com/hoangsonww/Gapminder-R-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🏅 <strong>Olympics Medals Data Analysis:</strong> <a href="https://github.com/hoangsonww/Olympic-Medal-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🍷 <strong>Global Wine Quality Data Analysis:</strong> <a href="https://github.com/hoangsonww/Wine-Quality-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🤑 <strong>Stock Data Analysis Project:</strong> <a href="https://github.com/hoangsonww/Stock-Data-Analysis-R">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🇲🇼 <strong>Malawian CiTonga Tone Production Study:</strong> <a href="https://github.com/hoangsonww/Malawian-CiTonga-Tone-Production">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🇧🇷 <strong>Brazilian Portuguese Nonce Word Acceptability Study:</strong> <a href="https://github.com/hoangsonww/Brazilian-Portuguese-Nonce-Accessbility">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🌍 <strong>Global COVID-19 Analysis:</strong> <a href="https://github.com/hoangsonww/Global-COVID19-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>📊 <strong>North Carolina Household Analysis:</strong> <a href="https://github.com/hoangsonww/North-Carolina-Household-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+</ul>
 
 </details>
 
@@ -308,6 +333,8 @@ Some other cool projects that I have worked on over the years. These include Jav
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, and **TypeScript**. 🤖
 
+More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+
 </details>
 
 ## Certificates
@@ -337,7 +364,7 @@ Here are some of the certificates that I have earned over the years 🚀
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=4&row=1&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
   </a>
 </p>
 
