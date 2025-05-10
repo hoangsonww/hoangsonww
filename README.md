@@ -223,8 +223,8 @@ These are some of the web development projects that I have worked on over the ye
   - 🎹 **Moodify AI Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
   - 🧰 **Collabify Project Management App:** [Visit the **live** **website** here](https://collabify-pm.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager).
   - 💊 **SymptomSync Health Manager:** [Visit the **live** **website** here](https://symptomsync.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App).
-  - 👯‍♂️ **Meadows Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
   - 🏠 **EstateWise Real Estate Chatbot:** [Visit the **live** **website** here](https://estatewise.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot).
+  - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
   - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
   - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
@@ -236,7 +236,7 @@ These are some of the web development projects that I have worked on over the ye
 
   ### 🔥 Interactive & Utility-Based Applications
   - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
-  - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://the-dataviz-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
+  - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://pokedex-db.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
   - 🎯 **The Wordle Game:** [Visit the **live** **website** here](https://the-wordle-game.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Wordle-Game).
   - 🧮 **NuCalc Calculator App:** [Visit the **live** **website** here](https://nucalc-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App).
   - 🍲 **PantryPal Streamlit App:** [Visit the **live** **website** here](https://pantrypal-app.streamlit.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App).
