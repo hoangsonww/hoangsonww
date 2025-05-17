@@ -287,7 +287,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 <details id="libraries-packages-projects">
 <summary><strong>Libraries & Packages Projects</strong></summary>
 
-I have also worked on a number of libraries and packages that are available on **npm** and **PyPI**. Here are some of them:
+I have also worked on a number of open-source libraries and packages that are available on **npm** and **PyPI**. Here are some of them:
 
 - 🛠️ **SQL-Mongo Query Converter**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/SQL-Mongo-Query-Converter) - `PyPI Package`
 - 💾 **GhostCache API Cache Tool**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostCache-API-Cache) - `npm package`
