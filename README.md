@@ -1,7 +1,7 @@
-# Hello, World! 👋 I'm Son Nguyen!
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=4000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I'm+Son+(David)+Nguyen.;Welcome+to+my+dev+corner+%26+inner+child~)](https://git.io/typing-svg)
 
 ## Sections
-- [Introduction](#introduction)
+- [Overview](#overview)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Notable Projects](#notable-projects)
   - [Professional Projects](#professional-projects)
@@ -14,7 +14,7 @@
 - [My GitHub Stats](#my-github-stats)
 - [Connect with Me](#connect-with-me)
 
-## Introduction
+## Overview
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
 
