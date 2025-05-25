@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=42&duration=4000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I'm+Son+(David)+Nguyen.;Welcome+to+my+dev+corner+%26+inner+child~)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=5000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I'm+Son+(David)+Nguyen.;Welcome+to+my+dev+corner+%26+inner+child~)](https://sonnguyenhoang.com)
 
 ## Sections
 - [Overview](#overview)
