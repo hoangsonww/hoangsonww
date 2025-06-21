@@ -110,7 +110,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white" alt="SQLite"></li>
     <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Database-red?logo=circle&logoColor=white" alt="Oracle Database"></li>
-    <li><img src="https://img.shields.io/badge/DynamoDB-darkblue?logo=amazondynamodb&logoColor=white" alt="DynamoDB"></li>
+    <li><img src="https://img.shields.io/badge/Amazon%20DynamoDB-darkblue?logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB"></li>
 </ul>
 
 </details>
@@ -175,6 +175,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
     <li><img src="https://img.shields.io/badge/GitHub%20Actions-lightgrey?logo=githubactions&logoColor=white" alt="GitHub Actions"></li>
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
+    <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white" alt="Heroku"></li>
@@ -182,6 +183,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
     <li><img src="https://img.shields.io/badge/Azure-blue?logo=arc&logoColor=white" alt="Azure"></li>
+    <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
 </ul>
 
 </details>
@@ -309,8 +311,6 @@ Not quite my main focus, but I have also worked on a number of mobile applicatio
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
 - 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **web** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
-> [!TIP]
-> 
 > Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile), [RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile), and [Moodify Mobile](https://github.com/hoangsonww/Moodify-Emotion-Music-App/tree/master/mobile). Feel free to check them out! 📱
 
 </details>
@@ -387,7 +387,8 @@ Here are some of the certificates that I have earned over the years 🚀
 
 ## Connect with me
 
-Feel free to connect with me or learn more about me on the following platforms:
+> [!TIP]
+> Feel free to connect with me or learn more about me on the following platforms:
 
 <ul>
   <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
@@ -399,4 +400,4 @@ Feel free to connect with me or learn more about me on the following platforms:
 
 ---
 
-Looking forward to connecting with you! 🚀
+Looking forward to connecting & collaborating with you! 🚀
