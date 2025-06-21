@@ -67,7 +67,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
     <li><img src="https://img.shields.io/badge/Red5%20Media%20Server-red?logo=webrtc&logoColor=white" alt="Red5 Media Server"></li>
-    <li><img src="https://img.shields.io/badge/Apache%20Kafka-yellow?logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Kafka-black?logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
     <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=jsonwebtokens&logoColor=white" alt="OAuth & JWT"></li>
     <li><img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Auth0"></li>
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-darkgreen?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
