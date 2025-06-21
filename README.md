@@ -387,7 +387,8 @@ Here are some of the certificates that I have earned over the years 🚀
 
 ## Connect with me
 
-Feel free to connect with me or learn more about me on the following platforms:
+> [!TIP]
+> Feel free to connect with me or learn more about me on the following platforms:
 
 <ul>
   <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
@@ -399,4 +400,4 @@ Feel free to connect with me or learn more about me on the following platforms:
 
 ---
 
-Looking forward to connecting with you! 🚀
+Looking forward to connecting & collaborating with you! 🚀
