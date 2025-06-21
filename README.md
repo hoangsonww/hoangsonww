@@ -126,7 +126,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"></li>
     <li><img src="https://img.shields.io/badge/Assembly-lightgrey?logo=assemblyscript&logoColor=white" alt="Assembly"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly%20(WASM)-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
-    <li><img src="https://img.shields.io/badge/Python-yellow?logo=python&logoColor=white" alt="Python"></li>
+    <li><img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python"></li>
     <li><img src="https://img.shields.io/badge/JavaScript-gold?logo=javascript&logoColor=white" alt="JavaScript"></li>
     <li><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript"></li>
     <li><img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" alt="PHP"></li>
@@ -134,6 +134,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"></li>
     <li><img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" alt="Swift"></li>
     <li><img src="https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white" alt="Shell"></li>
+    <li><img src="https://img.shields.io/badge/Makefile-darkblue?logo=gnu&logoColor=white" alt="Makefile"></li>
 </ul>
 
 </details>
