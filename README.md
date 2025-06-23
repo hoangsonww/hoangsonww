@@ -44,7 +44,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
-    <li><img src="https://img.shields.io/badge/Playwright-darkred?logo=vitest&logoColor=white" alt="Playwright"></li>
+    <li><img src="https://img.shields.io/badge/Playwright%20%26%20Vitest-darkred?logo=vitest&logoColor=white" alt="Playwright"></li>
     <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
     <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=amazonsimpleemailservice&logoColor=white" alt="Micro-Frontends Architecture"></li>
 </ul>
@@ -64,7 +64,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
-    <li><img src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white" alt="GraphQL"></li>
+    <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
@@ -186,7 +186,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
-    <li><img src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white" alt="AWS"></li>
+    <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
     <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
     <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
