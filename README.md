@@ -39,10 +39,12 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
     <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
     <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
-    <li><img src="https://img.shields.io/badge/MUI%20%26%20Shadcn-blueviolet?logo=mui&logoColor=white" alt="MUI and Shadcn Badge"></li>
+    <li><img src="https://img.shields.io/badge/MaterialUI%20%26%20JoyUI-blueviolet?logo=mui&logoColor=white" alt="MUI and JoyUI Badge"></li>
+    <li><img src="https://img.shields.io/badge/Shadcn%20UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI"></li>
+    <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
-    <li><img src="https://img.shields.io/badge/Playwright-2B2E4A?logo=vitest&logoColor=white" alt="Playwright"></li>
+    <li><img src="https://img.shields.io/badge/Playwright%20%26%20Vitest-darkred?logo=vitest&logoColor=white" alt="Playwright"></li>
     <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
     <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=amazonsimpleemailservice&logoColor=white" alt="Micro-Frontends Architecture"></li>
 </ul>
@@ -62,7 +64,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
-    <li><img src="https://img.shields.io/badge/GraphQL-pink?logo=graphql&logoColor=white" alt="GraphQL"></li>
+    <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
@@ -129,6 +131,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python"></li>
     <li><img src="https://img.shields.io/badge/JavaScript-gold?logo=javascript&logoColor=white" alt="JavaScript"></li>
     <li><img src="https://img.shields.io/badge/TypeScript-blue?logo=typescript&logoColor=white" alt="TypeScript"></li>
+    <li><img src="https://img.shields.io/badge/Rust-000000?logo=rust&logoColor=white" alt="Rust"></li>
     <li><img src="https://img.shields.io/badge/PHP-purple?logo=php&logoColor=white" alt="PHP"></li>
     <li><img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go"></li>
     <li><img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"></li>
@@ -164,7 +167,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/iOS%20(Swift)-silver?logo=swift&logoColor=white" alt="iOS (Swift)"></li>
     <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
     <li><img src="https://img.shields.io/badge/Android%20Studio-darkgreen?logo=androidstudio&logoColor=white" alt="Android Studio"></li>
-    <li><img src="https://img.shields.io/badge/Xcode-lightblue?logo=xcode&logoColor=white" alt="Xcode"></li>
+    <li><img src="https://img.shields.io/badge/Xcode-darkblue?logo=xcode&logoColor=white" alt="Xcode"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Cordova-blueviolet?logo=apachecordova&logoColor=white" alt="Apache Cordova"></li>
 </ul>
 
@@ -179,12 +182,14 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
+    <li><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></li>
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
-    <li><img src="https://img.shields.io/badge/AWS-orange?logo=amazon&logoColor=white" alt="AWS"></li>
+    <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
-    <li><img src="https://img.shields.io/badge/Azure-blue?logo=arc&logoColor=white" alt="Azure"></li>
+    <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
+    <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
 </ul>
 
@@ -240,6 +245,7 @@ These are some of the web development projects that I have worked on over the ye
   - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
 
   ### 🔥 Interactive & Utility-Based Applications
+  - 📋 **ClipChronicle Cross-Platform App:** [Visit the **live** **website** here](https://clipchronicle.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/ClipChronicle-Cross-Platform-App). 🚀
   - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
   - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://pokedex-db.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
   - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
