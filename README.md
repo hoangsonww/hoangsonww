@@ -405,7 +405,6 @@ Here are some of the certificates that I have earned over the years 🏅
   <li><a href="mailto:hoangson091104@gmail.com">Email</a></li>
   <li><a href="https://www.researchgate.net/profile/Son-Nguyen-386" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
 </ul>
-
 ---
 
 Looking forward to connecting & collaborating with you! 🚀
