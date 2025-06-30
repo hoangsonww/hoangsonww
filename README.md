@@ -368,7 +368,7 @@ Here are some of the certificates that I have earned over the years 🏅
 
 ## My GitHub Stats
 
-My GitHub stats are a reflection of my passion for coding and my commitment to continuous learning & the open-source community. Here are some of the highlights:
+My GitHub stats are a reflection of my passion for coding and my commitment to continuous learning and the open-source community. Here are some of the highlights:
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
