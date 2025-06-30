@@ -209,7 +209,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
 
 ## Notable Projects
 
-Here are some of the most notable projects that I have worked on. However, there are many more projects that I have worked on, which you can find in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). 🚀
+Here are some of the most notable projects that I have worked on. However, there are many more projects that I have worked on, which you can find in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). 🌟
 
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
