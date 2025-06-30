@@ -408,4 +408,4 @@ Here are some of the certificates that I have earned over the years 🏅
 
 ---
 
-Looking forward to connecting & collaborating with you! 🚀
+Looking forward to connecting & collaborating with you! 🚀🐰
