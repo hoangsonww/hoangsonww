@@ -377,7 +377,7 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
   </a>
 </p>
