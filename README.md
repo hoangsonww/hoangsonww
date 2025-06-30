@@ -351,7 +351,7 @@ More projects can be found in my [GitHub repositories](https://github.com/hoangs
 
 ## Certificates
 
-Here are some of the certificates that I have earned over the years 🚀
+Here are some of the certificates that I have earned over the years 🏅
 
 * 👨‍💻 **Software Engineer Role Certificate** by **HackerRank**.
 * 🌐 **Frontend Engineer Role Certificate** by **HackerRank**.
