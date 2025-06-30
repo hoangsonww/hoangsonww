@@ -261,7 +261,6 @@ These are some of the web development projects that I have worked on over the ye
 
 </details>
 
-
 <details id="data-science-projects">
 <summary><strong>Data Analytics & AI-ML Projects</strong></summary>
 
