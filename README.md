@@ -19,7 +19,7 @@
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
 
 > [!IMPORTANT]
-> For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
+> For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
 ## Skills and Knowledge
 
