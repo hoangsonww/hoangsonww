@@ -16,14 +16,14 @@
 
 ## Overview
 
-My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science.
+My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
 > [!IMPORTANT]
-> For more information about me, please continue reading this README, take a look at my GitHub repos, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
+> For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
 ## Skills and Knowledge
 
-A brief overview of the skills and knowledge that I have acquired over the years, as well as the technologies that I have worked with  🚀
+A brief overview of the skills and knowledge that I have acquired over the years, as well as the technologies that I have experience working with  🧩
 
 <details>
 <summary><strong>🌐 Frontend Development</strong></summary>
@@ -209,7 +209,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
 
 ## Notable Projects
 
-Here are some of the most notable projects that I have worked on. However, there are many more projects that I have worked on, which you can find in my GitHub repositories. 🚀
+Here are some of the most notable projects I’ve worked on. You can explore even more of my work in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). 🌟
 
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
@@ -351,7 +351,7 @@ More projects can be found in my [GitHub repositories](https://github.com/hoangs
 
 ## Certificates
 
-Here are some of the certificates that I have earned over the years 🚀
+Here are some of the certificates that I have earned over the years 🏅
 
 * 👨‍💻 **Software Engineer Role Certificate** by **HackerRank**.
 * 🌐 **Frontend Engineer Role Certificate** by **HackerRank**.
