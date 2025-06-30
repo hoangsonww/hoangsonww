@@ -368,6 +368,8 @@ Here are some of the certificates that I have earned over the years 🏅
 
 ## My GitHub Stats
 
+My GitHub stats are a reflection of my passion for coding and my commitment to continuous learning. Here are some of the highlights:
+
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Hoang Son's GitHub Streak" />
