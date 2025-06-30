@@ -372,25 +372,25 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Hoang Son's GitHub Streak" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Son Nguyen's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Son Nguyen's GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Hoang Son's Most Used Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Son Nguyen's Most Used Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Son Nguyen's GitHub Stats" />
   </a>
 </p>
 
