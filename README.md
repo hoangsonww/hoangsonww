@@ -389,7 +389,7 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
   </a>
 </p>
