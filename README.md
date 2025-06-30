@@ -23,7 +23,7 @@ My name is **Son Nguyen**. I'm currently a student at **The University of North 
 
 ## Skills and Knowledge
 
-A brief overview of the skills and knowledge that I have acquired over the years, as well as the technologies that I have worked with  🚀
+A brief overview of the skills and knowledge that I have acquired over the years, as well as the technologies that I have worked with  🧩
 
 <details>
 <summary><strong>🌐 Frontend Development</strong></summary>
