@@ -412,4 +412,4 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 
 ---
 
-Looking forward to connecting & collaborating with you! 🚀🐰
+Looking forward to connecting & collaborating with you! 🚀
