@@ -18,6 +18,8 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
+I have previously worked as a **Software Engineer Intern** at **VNG Corporation and FPT Corporation**, and I’m currently interning as a **Software Engineer** at **the Financial Risk Group (FRG).** I’m passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
@@ -368,27 +370,29 @@ Here are some of the certificates that I have earned over the years 🏅
 
 ## My GitHub Stats
 
+My GitHub stats showcase my enthusiasm for coding, along with my dedication to continuous learning and contributing to the open-source community. Here are some of the highlights:
+
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Hoang Son's GitHub Streak" />
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Son Nguyen's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Hoang Son's GitHub Trophies" />
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Son Nguyen's GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Hoang Son's Most Used Languages" />
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Son Nguyen's Most Used Languages" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Hoang Son's GitHub Stats" />
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Son Nguyen's GitHub Stats" />
   </a>
 </p>
 
@@ -400,7 +404,7 @@ Here are some of the certificates that I have earned over the years 🏅
 
 <ul>
   <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
-  <li><a href="https://lumina-david.vercel.app/chat" target="_blank" rel="noopener noreferrer">Lumina AI Personal Assistant</a></li>
+  <li><a href="https://lumina-david.vercel.app" target="_blank" rel="noopener noreferrer">Lumina AI Personal Assistant</a></li>
   <li><a href="https://www.linkedin.com/in/hoangsonw/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li><a href="mailto:hoangson091104@gmail.com">Email</a></li>
   <li><a href="https://www.researchgate.net/profile/Son-Nguyen-386" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
