@@ -383,7 +383,7 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 </p>
 
 <p align="center">
-  <a href="https://sonnguyenhoang.com" target="_blank">
+  <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Hoang Son's Most Used Languages" />
   </a>
 </p>
