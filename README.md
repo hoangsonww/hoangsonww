@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
-I have previously worked as a **Software Engineer Intern** at **VNG Corporation and FPT Corporation**, and I’m currently interning as a **Software Engineer** at **the Financial Risk Group (FRG).** I’m passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I have previously worked as a **Software Engineer Intern** at **VNG Corporation (2023), FPT Corporation (2024), and the Financial Risk Group | FRG (2025).** I am also currently interning as a **Software Engineer** at **Toshiba Global Commerce Solutions.** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
