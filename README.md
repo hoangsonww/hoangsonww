@@ -274,8 +274,9 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
-  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🦾 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
