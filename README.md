@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
-I have previously worked as a **Software Engineer Intern** at **VNG Corporation and FPT Corporation**, and I’m currently interning as a **Software Engineer** at **the Financial Risk Group (FRG).** I’m passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I have previously worked as a **Software Engineer Intern** at **VNG Corporation (2023), FPT Corporation (2024), and the Financial Risk Group | FRG (2025).** I am also currently interning as a **Software Engineer** at **Toshiba Global Commerce Solutions.** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
@@ -274,8 +274,9 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
-  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🦾 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
