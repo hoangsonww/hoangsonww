@@ -230,16 +230,20 @@ Here are some of the professional projects that I have worked on, either during 
 These are some of the web development projects that I have worked on over the years, including both the frontend UI/UX and the backend API development:
 
   ### 🌐 Full-Stack Applications
-  - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
+  - 🏠 **EstateWise Real Estate Chatbot:** [Visit the **live** **website** here](https://estatewise.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot).
+  - 💊 **SymptomSync Health Manager:** [Visit the **live** **website** here](https://symptomsync.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App).
+  - 🐻 **PetSwipe Pet Adoption App**: [Visit the **live** **website** here](https://petswipe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PetSwipe-Match-App).
   - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
   - 🎹 **Moodify AI Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
+  - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
   - 🧰 **Collabify Project Management App:** [Visit the **live** **website** here](https://collabify-pm.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager).
-  - 💊 **SymptomSync Health Manager:** [Visit the **live** **website** here](https://symptomsync.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App).
-  - 🏠 **EstateWise Real Estate Chatbot:** [Visit the **live** **website** here](https://estatewise.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot).
   - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
-  - 🐻 **PetSwipe Pet Adoption App**: [Visit the **live** **website** here](https://petswipe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PetSwipe-Match-App).
-  - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack).
-  - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App).
+  - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit its **live** **website** here](https://learning-manangement-system.vercel.app).
+  - 🥁 **MetaWave MP3 Editor & Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MetaWave-MP3-App) or [visit its **live** **website** here](https://metawave.vercel.app).
+  - 📦 **Boxed Inventory Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Boxed-Inventory-App) or [visit its **live** **website** here](https://boxed-app.vercel.app).
+  - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit its **live** **website** here](https://mermaidgenie.vercel.app).
+  - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App) or or [visit its **live** **website** here](https://employee-manage-app.vercel.app/).
+  - 🔗 **Urlvy URL Shortener App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Urlvy-URL-Shortener-App) or [visit its **live** **website** here](https://urlvy.vercel.app/).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
   - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
   - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game).
@@ -348,6 +352,13 @@ Some other cool projects that I have worked on over the years. These include Jav
 - This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, and **TypeScript**. 🤖
 
 More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+
+### 🧩 **VS Code Extensions:**
+
+Some projects of mine also include VS Code extensions. Here are some of them:
+- 📊 **MermaidGenie VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.mermaidgenie-viewer).
+- 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
+- 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
 
 </details>
 
