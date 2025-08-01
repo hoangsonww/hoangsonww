@@ -14,6 +14,8 @@ jobs:
   spellcheck:
     name: "🧪 Spellcheck README"
     runs-on: ubuntu-latest
+    outputs:
+      spellcheck_issues: ${{ steps.spell.outputs.spellcheck_issues }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -25,15 +27,24 @@ jobs:
           node-version: "20"
         continue-on-error: true
 
-      - name: Run cspell on README
+      - id: spell
+        name: Run cspell on README
         run: |
           echo "Spellchecking README.md..."
-          npx cspell "README.md" || echo "cspell reported issues or failed; continuing"
+          npx cspell "README.md"
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "spellcheck_issues=true" >> $GITHUB_OUTPUT
+          else
+            echo "spellcheck_issues=false" >> $GITHUB_OUTPUT
+          fi
         continue-on-error: true
 
   markdownlint:
     name: "📐 Markdown Lint README"
     runs-on: ubuntu-latest
+    outputs:
+      markdownlint_issues: ${{ steps.lint.outputs.markdownlint_issues }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -45,15 +56,24 @@ jobs:
           node-version: "20"
         continue-on-error: true
 
-      - name: Run markdownlint on README
+      - id: lint
+        name: Run markdownlint on README
         run: |
           echo "Linting README.md..."
-          npx markdownlint-cli "README.md" || echo "markdownlint reported issues; continuing"
+          npx markdownlint-cli "README.md"
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "markdownlint_issues=true" >> $GITHUB_OUTPUT
+          else
+            echo "markdownlint_issues=false" >> $GITHUB_OUTPUT
+          fi
         continue-on-error: true
 
   prettier-check:
     name: "🎨 Prettier Check README"
     runs-on: ubuntu-latest
+    outputs:
+      prettier_issues: ${{ steps.check.outputs.prettier_issues }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -65,15 +85,24 @@ jobs:
           node-version: "20"
         continue-on-error: true
 
-      - name: Check formatting with Prettier
+      - id: check
+        name: Check formatting with Prettier
         run: |
           echo "Checking README.md formatting..."
-          npx prettier --check "README.md" || echo "Prettier check found diffs or failed; continuing"
+          npx prettier --check "README.md"
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "prettier_issues=true" >> $GITHUB_OUTPUT
+          else
+            echo "prettier_issues=false" >> $GITHUB_OUTPUT
+          fi
         continue-on-error: true
 
   link-check:
     name: "🔗 Link Validation README"
     runs-on: ubuntu-latest
+    outputs:
+      linkcheck_issues: ${{ steps.link.outputs.linkcheck_issues }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -85,56 +114,52 @@ jobs:
           node-version: "20"
         continue-on-error: true
 
-      - name: Validate links in README
+      - id: link
+        name: Validate links in README
         run: |
           echo "Checking links in README.md..."
-          npx markdown-link-check "README.md" -q || echo "Link check reported broken/missing links or failed; continuing"
-        continue-on-error: true
-
-  auto-fix:
-    name: "🛠 Auto-fix & Commit README"
-    runs-on: ubuntu-latest
-    needs: [prettier-check]
-    if: always()
-    steps:
-      - name: Checkout repository (full history for commit)
-        uses: actions/checkout@v4
-        with:
-          fetch-depth: 0
-          persist-credentials: true
-        continue-on-error: true
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v4
-        with:
-          node-version: "20"
-        continue-on-error: true
-
-      - name: Auto-format README with Prettier
-        run: |
-          echo "Auto-formatting README.md..."
-          npx prettier --write "README.md" || echo "Prettier write failed; continuing"
-        continue-on-error: true
-
-      - name: Commit & push formatting changes
-        run: |
-          if ! git diff --quiet "README.md"; then
-            git config user.name "github-actions[bot]"
-            git config user.email "github-actions[bot]@users.noreply.github.com"
-            git add README.md
-            git commit -m "auto: format README.md [skip ci]" || echo "Commit failed; continuing"
-            git push || echo "Push failed; continuing"
+          npx markdown-link-check "README.md" -q
+          rc=$?
+          if [ $rc -ne 0 ]; then
+            echo "linkcheck_issues=true" >> $GITHUB_OUTPUT
           else
-            echo "No formatting changes to commit."
+            echo "linkcheck_issues=false" >> $GITHUB_OUTPUT
           fi
         continue-on-error: true
+
+  summary:
+    name: "📊 Aggregate Summary"
+    runs-on: ubuntu-latest
+    needs: [spellcheck, markdownlint, prettier-check, link-check]
+    if: always()
+    steps:
+      - name: Summary of README checks
+        run: |
+          echo "===== README Quality Summary ====="
+          echo "Spellcheck issues:         ${{ needs.spellcheck.outputs.spellcheck_issues }}"
+          echo "Markdownlint issues:       ${{ needs.markdownlint.outputs.markdownlint_issues }}"
+          echo "Prettier formatting issues:${{ needs['prettier-check'].outputs.prettier_issues }}"
+          echo "Link check issues:         ${{ needs.link-check.outputs.linkcheck_issues }}"
+          echo "=================================="
+          # Optionally add logic to highlight if any are true (but do not fail)
+          any_issue=false
+          if [ "${{ needs.spellcheck.outputs.spellcheck_issues }}" = "true" ] || \
+             [ "${{ needs.markdownlint.outputs.markdownlint_issues }}" = "true" ] || \
+             [ "${{ needs['prettier-check'].outputs.prettier_issues }}" = "true" ] || \
+             [ "${{ needs.link-check.outputs.linkcheck_issues }}" = "true" ]; then
+            any_issue=true
+          fi
+          if [ "$any_issue" = "true" ]; then
+            echo "One or more checks reported issues. Review above output."; 
+          else
+            echo "All checks passed with no reported issues.";
+          fi
 
   complete:
     name: "🎉 Pipeline Complete"
     runs-on: ubuntu-latest
-    needs: [spellcheck, markdownlint, prettier-check, link-check, auto-fix]
+    needs: [summary]
     if: always()
     steps:
       - name: Final status
-        run: |
-          echo "✅ README quality pipeline finished (all errors non-blocking)."
+        run: echo "✅ README quality pipeline finished (all checks non-blocking)."
