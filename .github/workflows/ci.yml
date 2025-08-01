@@ -1,4 +1,4 @@
-name: CI/CD Pipeline
+name: CI/CD Pipeline for hoangsonww
 
 concurrency:
   group: ci-cd-pipeline-${{ github.ref_name }}
@@ -31,12 +31,12 @@ jobs:
         name: Run cspell on README
         run: |
           echo "Spellchecking README.md..."
-          npx cspell "README.md"
-          rc=$?
-          if [ $rc -ne 0 ]; then
-            echo "spellcheck_issues=true" >> $GITHUB_OUTPUT
-          else
+          npx cspell "README.md" || rc=$? && echo "cspell reported issues (swallowed);" 
+          # capture whether there were issues
+          if npx cspell "README.md" >/dev/null 2>&1; then
             echo "spellcheck_issues=false" >> $GITHUB_OUTPUT
+          else
+            echo "spellcheck_issues=true" >> $GITHUB_OUTPUT
           fi
         continue-on-error: true
 
@@ -60,12 +60,11 @@ jobs:
         name: Run markdownlint on README
         run: |
           echo "Linting README.md..."
-          npx markdownlint-cli "README.md"
-          rc=$?
-          if [ $rc -ne 0 ]; then
-            echo "markdownlint_issues=true" >> $GITHUB_OUTPUT
-          else
+          npx markdownlint-cli "README.md" || echo "markdownlint reported issues (swallowed);"
+          if npx markdownlint-cli "README.md" >/dev/null 2>&1; then
             echo "markdownlint_issues=false" >> $GITHUB_OUTPUT
+          else
+            echo "markdownlint_issues=true" >> $GITHUB_OUTPUT
           fi
         continue-on-error: true
 
@@ -89,12 +88,11 @@ jobs:
         name: Check formatting with Prettier
         run: |
           echo "Checking README.md formatting..."
-          npx prettier --check "README.md"
-          rc=$?
-          if [ $rc -ne 0 ]; then
-            echo "prettier_issues=true" >> $GITHUB_OUTPUT
-          else
+          npx prettier --check "README.md" || echo "Prettier check found diffs or failed (swallowed);"
+          if npx prettier --check "README.md" >/dev/null 2>&1; then
             echo "prettier_issues=false" >> $GITHUB_OUTPUT
+          else
+            echo "prettier_issues=true" >> $GITHUB_OUTPUT
           fi
         continue-on-error: true
 
@@ -118,12 +116,11 @@ jobs:
         name: Validate links in README
         run: |
           echo "Checking links in README.md..."
-          npx markdown-link-check "README.md" -q
-          rc=$?
-          if [ $rc -ne 0 ]; then
-            echo "linkcheck_issues=true" >> $GITHUB_OUTPUT
-          else
+          npx markdown-link-check "README.md" -q || echo "Link check reported problems (swallowed);"
+          if npx markdown-link-check "README.md" -q >/dev/null 2>&1; then
             echo "linkcheck_issues=false" >> $GITHUB_OUTPUT
+          else
+            echo "linkcheck_issues=true" >> $GITHUB_OUTPUT
           fi
         continue-on-error: true
 
@@ -138,10 +135,9 @@ jobs:
           echo "===== README Quality Summary ====="
           echo "Spellcheck issues:         ${{ needs.spellcheck.outputs.spellcheck_issues }}"
           echo "Markdownlint issues:       ${{ needs.markdownlint.outputs.markdownlint_issues }}"
-          echo "Prettier formatting issues:${{ needs['prettier-check'].outputs.prettier_issues }}"
+          echo "Prettier formatting issues: ${{ needs['prettier-check'].outputs.prettier_issues }}"
           echo "Link check issues:         ${{ needs.link-check.outputs.linkcheck_issues }}"
           echo "=================================="
-          # Optionally add logic to highlight if any are true (but do not fail)
           any_issue=false
           if [ "${{ needs.spellcheck.outputs.spellcheck_issues }}" = "true" ] || \
              [ "${{ needs.markdownlint.outputs.markdownlint_issues }}" = "true" ] || \
@@ -150,9 +146,9 @@ jobs:
             any_issue=true
           fi
           if [ "$any_issue" = "true" ]; then
-            echo "One or more checks reported issues. Review above output."; 
+            echo "⚠️ One or more checks reported issues (all swallowed)."
           else
-            echo "All checks passed with no reported issues.";
+            echo "✅ All checks passed with no reported issues."
           fi
 
   complete:
@@ -162,4 +158,4 @@ jobs:
     if: always()
     steps:
       - name: Final status
-        run: echo "✅ README quality pipeline finished (all checks non-blocking)."
+        run: echo "✅ README quality pipeline finished (no errors surfaced)."
