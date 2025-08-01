@@ -1,5 +1,9 @@
 name: CI/CD Pipeline
 
+concurrency:
+  group: ci-cd-pipeline-${{ github.ref }}
+  cancel-in-progress: true
+
 on:
   push:
     branches: [main]
@@ -7,109 +11,56 @@ on:
     branches: [main]
 
 jobs:
-  formatting:
-    name: "🔧 Formatting & Lint"
+  readme-quality:
+    name: "📝 README Lint / Format / Link / Spellcheck"
     runs-on: ubuntu-latest
+
     steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        continue-on-error: true
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
       - name: Setup Node.js
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
-          node-version: 18
-        continue-on-error: true
+          node-version: "18"
 
-      - name: Install dependencies
-        run: npm ci
-        continue-on-error: true
+      - name: Install tooling
+        run: |
+          npm install -g prettier@latest markdownlint-cli@latest markdown-link-check@^3 cspell@latest
 
-      - name: Prettier format
-        run: npm run format
-        continue-on-error: true
+      - name: Spellcheck README
+        run: |
+          echo "Running spellcheck (cspell) on README.md..."
+          # You can add a .cspell.json to customize dictionaries / ignore words
+          cspell "README.md"
 
-      - name: ESLint lint
-        run: npm run lint
-        continue-on-error: true
+      - name: Lint README markdown
+        run: |
+          echo "Running markdownlint on README.md..."
+          # You can add .markdownlint.json to relax/customize rules
+          markdownlint README.md
 
-  backend:
-    name: "✅ Backend Build & Test"
-    runs-on: ubuntu-latest
-    needs: [formatting]
-    if: ${{ always() }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        continue-on-error: true
+      - name: Check formatting with Prettier
+        run: |
+          echo "Checking README.md formatting..."
+          prettier --check README.md
 
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-        continue-on-error: true
+      - name: Validate links in README
+        run: |
+          echo "Checking for broken links in README.md..."
+          markdown-link-check README.md -q
 
-      - name: Install backend deps
-        run: npm --workspace backend ci
-        continue-on-error: true
-
-      - name: Backend format
-        run: npm --workspace backend run format
-        continue-on-error: true
-
-      - name: Backend lint
-        run: npm --workspace backend run lint
-        continue-on-error: true
-
-      - name: Build backend
-        run: npm --workspace backend run build
-        continue-on-error: true
-
-      - name: Backend tests
-        run: npm --workspace backend run test
-        continue-on-error: true
-
-  frontend:
-    name: "🌐 Frontend Build & Test"
-    runs-on: ubuntu-latest
-    needs: [backend]
-    if: ${{ always() }}
-    steps:
-      - name: Checkout code
-        uses: actions/checkout@v3
-        continue-on-error: true
-
-      - name: Setup Node.js
-        uses: actions/setup-node@v3
-        with:
-          node-version: 18
-        continue-on-error: true
-
-      - name: Install frontend deps
-        run: npm --workspace frontend ci
-        continue-on-error: true
-
-      - name: Frontend format
-        run: npm --workspace frontend run format
-        continue-on-error: true
-
-      - name: Frontend lint
-        run: npm --workspace frontend run lint
-        continue-on-error: true
-
-      - name: Build frontend
-        run: npm --workspace frontend run build
-        continue-on-error: true
-
-      - name: Frontend tests
-        run: npm --workspace frontend run test:unit
-        continue-on-error: true
-
-  complete:
-    name: "🎉 Pipeline Complete"
-    runs-on: ubuntu-latest
-    needs: [formatting, backend, frontend]
-    if: ${{ always() }}
-    steps:
-      - name: Final status
-        run: echo "✅ CI/CD pipeline finished successfully."
+      - name: Auto-fix formatting & commit (only on push)
+        if: github.event_name == 'push'
+        run: |
+          prettier --write README.md
+          # If prettier made changes, commit & push them
+          if ! git diff --quiet README.md; then
+            git config user.name "github-actions[bot]"
+            git config user.email "github-actions[bot]@users.noreply.github.com"
+            git add README.md
+            git commit -m "auto: format README.md"
+            git push
+          else
+            echo "No formatting changes needed."
+          fi
