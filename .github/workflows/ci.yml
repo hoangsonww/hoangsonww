@@ -11,65 +11,130 @@ on:
     branches: [main]
 
 jobs:
-  readme-quality:
-    name: "📝 README Quality"
+  spellcheck:
+    name: "🧪 Spellcheck README"
     runs-on: ubuntu-latest
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
-        with:
-          persist-credentials: true
+        continue-on-error: true
 
-      - name: Show Node version
+      - name: Setup Node.js
         uses: actions/setup-node@v4
         with:
           node-version: "20"
-      - name: Confirm Node version
-        run: |
-          echo "Node version:"
-          node --version
         continue-on-error: true
 
-      - name: Spellcheck README (cspell)
+      - name: Run cspell on README
         run: |
-          echo "Running spellcheck (cspell) on README.md..."
-          npx cspell "README.md" || echo "cspell finished with issues or failed; continuing"
+          echo "Spellchecking README.md..."
+          npx cspell "README.md" || echo "cspell reported issues or failed; continuing"
         continue-on-error: true
 
-      - name: Lint README (markdownlint)
+  markdownlint:
+    name: "📐 Markdown Lint README"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        continue-on-error: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+        continue-on-error: true
+
+      - name: Run markdownlint on README
         run: |
-          echo "Running markdownlint on README.md..."
+          echo "Linting README.md..."
           npx markdownlint-cli "README.md" || echo "markdownlint reported issues; continuing"
         continue-on-error: true
 
-      - name: Check README formatting (Prettier)
+  prettier-check:
+    name: "🎨 Prettier Check README"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        continue-on-error: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+        continue-on-error: true
+
+      - name: Check formatting with Prettier
         run: |
           echo "Checking README.md formatting..."
-          npx prettier --check "README.md" || echo "Prettier formatting check failed or found diffs; continuing"
+          npx prettier --check "README.md" || echo "Prettier check found diffs or failed; continuing"
+        continue-on-error: true
+
+  link-check:
+    name: "🔗 Link Validation README"
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        continue-on-error: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
         continue-on-error: true
 
       - name: Validate links in README
         run: |
-          echo "Checking for broken links in README.md..."
+          echo "Checking links in README.md..."
           npx markdown-link-check "README.md" -q || echo "Link check reported broken/missing links or failed; continuing"
         continue-on-error: true
 
-      - name: Auto-fix & commit README formatting (only on push)
-        if: github.event_name == 'push'
+  auto-fix:
+    name: "🛠 Auto-fix & Commit README"
+    runs-on: ubuntu-latest
+    needs: [prettier-check]
+    if: always()
+    steps:
+      - name: Checkout repository (full history for commit)
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+          persist-credentials: true
+        continue-on-error: true
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+        continue-on-error: true
+
+      - name: Auto-format README with Prettier
         run: |
-          echo "Auto-formatting README.md with Prettier..."
-          npx prettier --write "README.md" || true
+          echo "Auto-formatting README.md..."
+          npx prettier --write "README.md" || echo "Prettier write failed; continuing"
+        continue-on-error: true
+
+      - name: Commit & push formatting changes
+        run: |
           if ! git diff --quiet "README.md"; then
             git config user.name "github-actions[bot]"
             git config user.email "github-actions[bot]@users.noreply.github.com"
             git add README.md
-            git commit -m "auto: format README.md [skip ci]"
+            git commit -m "auto: format README.md [skip ci]" || echo "Commit failed; continuing"
             git push || echo "Push failed; continuing"
           else
-            echo "No formatting changes needed."
+            echo "No formatting changes to commit."
           fi
         continue-on-error: true
 
+  complete:
+    name: "🎉 Pipeline Complete"
+    runs-on: ubuntu-latest
+    needs: [spellcheck, markdownlint, prettier-check, link-check, auto-fix]
+    if: always()
+    steps:
       - name: Final status
-        run: echo "✅ README quality pipeline completed (all errors are non-blocking)."
+        run: |
+          echo "✅ README quality pipeline finished (all errors non-blocking)."
