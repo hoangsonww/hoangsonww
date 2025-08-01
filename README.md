@@ -338,6 +338,8 @@ Some other cool projects that I have worked on over the years. These include Jav
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
 - 🗂️ **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
 - ⚙️ **ReproVM Virtual Machine:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ReproVM-Virtual-Machine).
+- 🔐 **ShadowVault Decentralized Backup Agent:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ShadowVault-Decentralized-Backup-Agent).
+- 🚔 **Passwordless Authentication Server:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Passwordless-Auth-Rust).
 - 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🎮 **JavaFX 2048 Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Game-2048-JavaFX).
 - 🧩 **JavaFX Akari Puzzle Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Akari-Puzzle-Game-JavaFX).
