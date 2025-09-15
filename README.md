@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
-I have previously worked as a **Software Engineer Intern** at **VNG Corporation (2023), FPT Corporation (2024), and the Financial Risk Group | FRG (2025).** I am also currently interning as a **Software Engineer** at **Toshiba Global Commerce Solutions.** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I have previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** I am also currently interning as a **Software Engineer** at **Toshiba TEC - Toshiba Global Commerce Solutions (Fall 2025).** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
@@ -218,6 +218,8 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Here are some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor:
 
+- 🤖 **Toshiba TEC's** _Agentic Team - AI-Powered, Fully-Autonomous Software Development Platform_.
+- 📊 **Financial Risk Group's** _VOR Stream_ product.
 - 🚀 **VNG Corporation's** **vCloudcam** Camera Management System & Sale Websites.
 - 📡 **FPT Corporation's ICDP** Internal Communications Platform.
 - 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
@@ -288,6 +290,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 📊 Data Analytics & Data Science Projects
 <ul>
   <li>📈 <strong>End-to-End Data Pipeline:</strong> <a href="https://github.com/hoangsonww/End-to-End-Data-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🗂️ <strong>LatticeDB - A Next-Gen Database Management System (DBMS):</strong> <a href="https://github.com/hoangsonww/LatticeDB-NextGen-DBMS">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧐 <strong>Amazon Reviews Textual Analysis:</strong> <a href="https://github.com/hoangsonww/Amazon-Reviews-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🌏 <strong>Global Earthquake Data Analysis:</strong> <a href="https://github.com/hoangsonww/Earthquake-R-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🏭 <strong>Global CO₂ Emissions Analysis:</strong> <a href="https://github.com/hoangsonww/CO2-Global-Emissions-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
@@ -335,8 +338,9 @@ Not quite my main focus, but I have also worked on a number of mobile applicatio
 
 Some other cool projects that I have worked on over the years. These include JavaFX games, C shell implementations, and software design patterns:
 
+- 🗂️ **LatticeDB - A Next-Gen Database Management System (DBMS):** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/LatticeDB-NextGen-DBMS).
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
-- 🗂️ **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
+- 🚀 **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
 - ⚙️ **ReproVM Virtual Machine:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ReproVM-Virtual-Machine).
 - 🔐 **ShadowVault Decentralized Backup Agent:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ShadowVault-Decentralized-Backup-Agent).
 - 🚔 **Passwordless Authentication Server:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Passwordless-Auth-Rust).
@@ -355,14 +359,14 @@ Some other cool projects that I have worked on over the years. These include Jav
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
 - This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, and **TypeScript**. 🤖
 
-More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
-
 ### 🧩 **VS Code Extensions:**
 
 Some projects of mine also include VS Code extensions. Here are some of them:
 - 📊 **MermaidGenie VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.mermaidgenie-viewer).
 - 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
 - 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
+
+More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
 
 </details>
 
