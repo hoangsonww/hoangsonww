@@ -48,7 +48,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
     <li><img src="https://img.shields.io/badge/Playwright%20%26%20Vitest-darkred?logo=vitest&logoColor=white" alt="Playwright"></li>
     <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
-    <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=amazonsimpleemailservice&logoColor=white" alt="Micro-Frontends Architecture"></li>
+    <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=protondb&logoColor=white" alt="Micro-Frontends Architecture"></li>
 </ul>
 
 </details>
@@ -70,6 +70,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
+    <li><img src="https://img.shields.io/badge/Hibernate-purple?logo=hibernate&logoColor=white" alt="Hibernate"></li>
+    <li><img src="https://img.shields.io/badge/TypeORM-blue?logo=typeorm&logoColor=white" alt="TypeORM"></li>
+    <li><img src="https://img.shields.io/badge/Prisma-darkblue?logo=prisma&logoColor=white" alt="Prisma"></li>
     <li><img src="https://img.shields.io/badge/Red5%20Media%20Server-red?logo=webrtc&logoColor=white" alt="Red5 Media Server"></li>
     <li><img src="https://img.shields.io/badge/Apache%20Kafka-black?logo=apachekafka&logoColor=white" alt="Apache Kafka"></li>
     <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=jsonwebtokens&logoColor=white" alt="OAuth & JWT"></li>
@@ -77,7 +80,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-darkgreen?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
     <li><img src="https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white" alt="Prometheus"></li>
     <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
-    <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=amazonsimpleemailservice&logoColor=white" alt="Micro-Services Architecture"></li>
+    <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=stackedit&logoColor=white" alt="Micro-Services Architecture"></li>
 </ul>
 
 </details>
@@ -88,6 +91,8 @@ A brief overview of the skills and knowledge that I have acquired over the years
 <ul>
     <li><img src="https://img.shields.io/badge/TensorFlow-orange?logo=tensorflow&logoColor=white" alt="TensorFlow"></li>
     <li><img src="https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white" alt="Keras"></li>
+    <li><img src="https://img.shields.io/badge/Agentic%20AI-darkblue?logo=google&logoColor=white" alt="Agentic AI"></li>
+    <li><img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-blue?logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)"></li>
     <li><img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch"></li>
     <li><img src="https://img.shields.io/badge/Scikit--Learn-blue?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"></li>
     <li><img src="https://img.shields.io/badge/OpenCV-darkgreen?logo=opencv&logoColor=white" alt="OpenCV"></li>
@@ -95,11 +100,15 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Tesseract%20OCR-darkgreen?logo=interactjs&logoColor=white" alt="Tesseract OCR"></li>
     <li><img src="https://img.shields.io/badge/Transformers-E53236?logo=huggingface&logoColor=white" alt="Transformers (Hugging Face)"></li>
     <li><img src="https://img.shields.io/badge/LangChain-black?logo=langchain&logoColor=white" alt="LangChain"></li>
+    <li><img src="https://img.shields.io/badge/LangGraph-purple?logo=langgraph&logoColor=white" alt="LangGraph"></li>
+    <li><img src="https://img.shields.io/badge/CrewAI-blue?logo=crewai&logoColor=white" alt="CrewAI"></li>
     <li><img src="https://img.shields.io/badge/FAISS-blue?logo=meta&logoColor=white" alt="FAISS"></li>
     <li><img src="https://img.shields.io/badge/Pinecone-orange?logo=googledataproc&logoColor=white" alt="Pinecone"></li>
     <li><img src="https://img.shields.io/badge/Optuna-purple?logo=openaigym&logoColor=white" alt="Optuna"></li>
     <li><img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook"></li>
     <li><img src="https://img.shields.io/badge/MLflow-blue?logo=mlflow&logoColor=white" alt="MLflow"></li>
+    <li><img src="https://img.shields.io/badge/Jax-blue?logo=max&logoColor=white" alt="Jax"></li>
+    <li><img src="https://img.shields.io/badge/Google%20Colab-blue?logo=googlecolab&logoColor=white" alt="Google Colab"></li>
 </ul>
 
 </details>
@@ -111,12 +120,16 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/MySQL-blue?logo=mysql&logoColor=white" alt="MySQL"></li>
     <li><img src="https://img.shields.io/badge/MongoDB-darkgreen?logo=mongodb&logoColor=white" alt="MongoDB"></li>
     <li><img src="https://img.shields.io/badge/PostgreSQL-blue?logo=postgresql&logoColor=white" alt="PostgreSQL"></li>
+    <li><img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-darkred?logo=sololearn&&logoColor=white" alt="Microsoft SQL Server"></li>
+    <li><img src="https://img.shields.io/badge/Neo4j-yellow?logo=neo4j&logoColor=white" alt="Neo4j"></li>
+    <li><img src="https://img.shields.io/badge/Weaviate-darkblue?logo=weblate&logoColor=white" alt="Weaviate"></li>
+    <li><img src="https://img.shields.io/badge/Pinecone-orange?logo=googledataproc&logoColor=white" alt="Pinecone"></li>
     <li><img src="https://img.shields.io/badge/Firebase-orange?logo=firebase&logoColor=white" alt="Firebase"></li>
     <li><img src="https://img.shields.io/badge/Supabase-darkgreen?logo=supabase&logoColor=white" alt="Supabase"></li>
     <li><img src="https://img.shields.io/badge/SQLite-lightblue?logo=sqlite&logoColor=white" alt="SQLite"></li>
     <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Database-red?logo=circle&logoColor=white" alt="Oracle Database"></li>
-    <li><img src="https://img.shields.io/badge/Amazon%20DynamoDB-darkblue?logo=amazondynamodb&logoColor=white" alt="Amazon DynamoDB"></li>
+    <li><img src="https://img.shields.io/badge/Amazon%20DynamoDB-darkblue?logo=databricks&logoColor=white" alt="Amazon DynamoDB"></li>
 </ul>
 
 </details>
@@ -176,7 +189,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
 </details>
 
 <details>
-<summary><strong>🚀 CI/CD & DevOps</strong></summary>
+<summary><strong>🚀 DevOps & Tools</strong></summary>
 
 <ul>
     <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
@@ -190,9 +203,12 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
     <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
+    <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=wazirx&logoColor=white" alt="Microsoft Azure"></li>
     <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
     <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
+    <li><img src="https://img.shields.io/badge/WSL-darkblue?logo=windsurf&logoColor=white" alt="WSL"></li>
+    <li><img src="https://img.shields.io/badge/Jira%20&%20Confluence-blue?logo=jira&logoColor=white" alt="Jira & Confluence"></li>
 </ul>
 
 </details>
@@ -372,20 +388,79 @@ More projects can be found in my [GitHub repositories](https://github.com/hoangs
 
 ## Certificates
 
-Here are some of the certificates that I have earned over the years 🏅
+Here are some of the professional certificates that I have earned over the years, showcasing my commitment to continuous learning and professional development:
 
-* 👨‍💻 **Software Engineer Role Certificate** by **HackerRank**.
-* 🌐 **Frontend Engineer Role Certificate** by **HackerRank**.
-* 🤖 **DS102X: Machine Learning for Data Science and Analytics Certificate** by **Columbia University**.
-* 📊 **BDE1x: Big Data & Education Certificate** by **The University of Pennsylvania**.
-* 💾 **PH125.1x: Data Science Certificates** by **Harvard University**.
-* 🛠️ **HCIxI: Human-Computer Interaction Certificate** by **Georgia Institute of Technology**.
-* 🔗 **REST APIs Certificate** by **Codecademy**.
-* 🗣️ **Leadership and Communication Certificate** by **Harvard University**.
-* 📈 **Analyzing Business Metrics with SQL Certificate** by **Codecademy**.
-* 📝 **Data Science Ethics Certificate** by the **University of Michigan**.
-* 💰 **CS198.1x: Bitcoin and Cryptocurrencies Certificate** by **The University of California at Berkeley**.
-* 🌍 **Building Your Cybersecurity Toolkit Certificate** by **The University of Washington**.
+<details id="cert-ai-llm">
+<summary><strong>🤖 AI, LLMs & Vector Databases</strong></summary>
+
+- **Microsoft Azure AI Essentials Professional Certificate** - Microsoft & LinkedIn
+- **Vector Databases Professional Certificate** - Weaviate
+</details>
+
+<details id="cert-devops-cloud">
+<summary><strong>☁️ DevOps, Cloud & Microservices</strong></summary>
+
+- **DevOps Professional Certificate** - PagerDuty & LinkedIn
+- **Docker Foundations Professional Certificate** - Docker, Inc.
+- **Microservices Foundations Professional Certificate** - Kong Inc.
+</details>
+
+<details id="cert-agile-pm">
+<summary><strong>🧭 Agile & Project Management</strong></summary>
+
+- **Atlassian Agile Project Management & Jira Professional Certificate** - Atlassian
+</details>
+
+<details id="cert-testing-qa">
+<summary><strong>🧪 Testing & QA Automation</strong></summary>
+
+- **LambdaTest Test Automation Professional Certificate** - LambdaTest
+</details>
+
+<details id="cert-data-warehousing">
+<summary><strong>🗄️ Data Warehousing & Analytics</strong></summary>
+
+- **Advanced SnowflakeDB: Deep Dive Cloud Data Warehousing and Analytics** - LinkedIn
+</details>
+
+<details id="cert-software-web">
+<summary><strong>🛠️ Software Engineering & Web</strong></summary>
+
+- **Software Engineer Role Certificate** - HackerRank
+- **Frontend Engineer Role Certificate** - HackerRank
+- **REST APIs Certificate** - Codecademy
+</details>
+
+<details id="cert-data-science">
+<summary><strong>📈 Data Science & ML Core</strong></summary>
+
+- **DS102X: Machine Learning for Data Science and Analytics** - Columbia University
+- **PH125.1x: Data Science** - Harvard University
+- **Data Science Ethics** - University of Michigan
+</details>
+
+<details id="cert-biz-education">
+<summary><strong>💼 Business & Education Analytics</strong></summary>
+
+- **Analyzing Business Metrics with SQL** - Codecademy
+- **BDE1x: Big Data & Education** - University of Pennsylvania
+</details>
+
+<details id="cert-security-blockchain">
+<summary><strong>🔐 Security & Blockchain</strong></summary>
+
+- **CS198.1x: Bitcoin and Cryptocurrencies** - UC Berkeley
+- **Building Your Cybersecurity Toolkit** - University of Washington
+</details>
+
+<details id="cert-hci-leadership">
+<summary><strong>🎛️ HCI & Leadership</strong></summary>
+
+- **HCIxI: Human-Computer Interaction** - Georgia Institute of Technology
+- **Leadership and Communication** - Harvard University
+</details>
+
+More details can be found on my [LinkedIn profile](https://www.linkedin.com/in/hoangsonw/)!
 
 ## My GitHub Stats
 
