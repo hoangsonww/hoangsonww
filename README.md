@@ -460,7 +460,7 @@ Here are some of the professional certificates that I have earned over the years
 - **Leadership and Communication** - Harvard University
 </details>
 
-More details can be found on my [LinkedIn profile](https://www.linkedin.com/in/hoangsonw/)!
+More details can be found on my **[LinkedIn profile](https://www.linkedin.com/in/hoangsonw/)**!
 
 ## My GitHub Stats
 
