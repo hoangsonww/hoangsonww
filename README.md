@@ -241,7 +241,7 @@ Some of the professional projects that I have worked on, either during my previo
 - 🏢 **UNC DHEP Lab's** _**AugMed**_ — full-stack React + Flask platform on AWS (ECR/ECS/ALB, RDS, S3) with PostgreSQL, Celery/Redis, and JWT for secure digital-health surveys and data workflows.  
 - 🦾 **UNC AIMING Lab’s** _**Foundation-Model Research**_ — trained LLMs/VLMs & diffusion models at scale, built multimodal RAG systems, improved robustness via adversarial training, and applied RL to robotics with measurable gains.  
 - 🌐 **Huong Hua Co., Ltd.'s** _**Company Website (English-version)**_ — delivered a fast, SEO-friendly marketing site with CMS-driven content, analytics, and accessibility best practices.
-- 🗂️ **Technical Consulting & Research (TCR)'s** _**Project & Client Tracker**_ — full-stack React + Flask platform with Auth0 RBAC, OAuth2/JWT auth, and CSRF/XSS protections, enabling staff to securely manage and track projects and clients.
+- 🗂️ **Technical Consulting & Research (TCR)'s** _**Project & Client Tracker**_ — built a full-stack React + Flask platform with Auth0 RBAC, OAuth2/JWT auth, and CSRF/XSS protections, enabling staff to securely manage and track their projects and clients.
 
 </details>
 
