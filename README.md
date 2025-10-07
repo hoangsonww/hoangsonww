@@ -232,13 +232,16 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
-Here are some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor:
+Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
-- 🤖 **Toshiba TEC's** _Agentic Team - AI-Powered, Fully-Autonomous Software Development Platform_.
-- 📊 **Financial Risk Group's** _VOR Stream_ product.
-- 🚀 **VNG Corporation's** **vCloudcam** Camera Management System & Sale Websites.
-- 📡 **FPT Corporation's ICDP** Internal Communications Platform.
-- 🌐 **Huong Hua Co., Ltd.'s** Company Website (English-version).
+- 🤖 **Toshiba TEC's** _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.  
+- 📊 **Financial Risk Group's** _**VOR Stream** product_ — optimized Angular UI and Django APIs, built a RAG-powered, RLHF-tuned chatbot with real-time document streaming, and strengthened quality with Playwright E2E integrated into Ansible CI/CD.  
+- 🚀 **VNG Corporation's** _**vCloudcam** Camera Management System & Sale Websites_ — built multi-tenant management features and customer-facing sites with performant UIs, secure APIs, and analytics for device health and conversion tracking, and a low-latency camera streaming pipeline (with Red5, C++, and WebAssembly).
+- 📡 **FPT Corporation's** _**ICDP** Internal Communications Platform_ — implemented AI-powered chatbots, collaboration features, and real-time messaging with SSO, audit logging, and scalable backend services to support enterprise adoption.  
+- 🏢 **UNC DHEP Lab's** _**AugMed**_ — full-stack React + Flask platform on AWS (ECR/ECS/ALB, RDS, S3) with PostgreSQL, Celery/Redis, and JWT for secure digital-health surveys and data workflows.  
+- 🦾 **UNC AIMING Lab’s** _**Foundation-Model Research**_ — trained LLMs/VLMs & diffusion models at scale, built multimodal RAG systems, improved robustness via adversarial training, and applied RL to robotics with measurable gains.  
+- 🌐 **Huong Hua Co., Ltd.'s** _**Company Website (English-version)**_ — delivered a fast, SEO-friendly marketing site with CMS-driven content, analytics, and accessibility best practices.
+- 🗂️ **Technical Consulting & Research (TCR)'s** _**Project & Client Tracker**_ — full-stack React + Flask platform with Auth0 RBAC, OAuth2/JWT auth, and CSRF/XSS protections, enabling staff to securely manage and track projects and clients.
 
 </details>
 
