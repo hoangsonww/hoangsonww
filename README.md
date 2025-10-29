@@ -236,7 +236,7 @@ Some of the professional projects that I have worked on, either during my previo
 
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
-  - **ELERA** – AI-Driven Retail Solutions Platform — developed Java Spring microservices for LLM-powered product recommendation, customer support chatbots, and inventory management, integrated with existing retail systems and optimized for scalability using Docker and Kubernetes.
+  - _**ELERA** – AI-Driven Retail Solutions Platform_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
 - 📊 **Financial Risk Group's** _**VOR Stream** product_ — optimized Angular UI and Django APIs, built a RAG-powered, RLHF-tuned chatbot with real-time document streaming, and strengthened quality with Playwright E2E integrated into Ansible CI/CD.  
 - 🚀 **VNG Corporation's** _**vCloudcam** Camera Management System & Sale Websites_ — built multi-tenant management features and customer-facing sites with performant UIs, secure APIs, and analytics for device health and conversion tracking, and a low-latency camera streaming pipeline (with Red5, C++, and WebAssembly).
 - 📡 **FPT Corporation's** _**ICDP** Internal Communications Platform_ — implemented AI-powered chatbots, collaboration features, and real-time messaging with SSO, audit logging, and scalable backend services to support enterprise adoption.  
