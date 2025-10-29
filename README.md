@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
 
-I have previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** I am also currently interning as a **Software Engineer** at **Toshiba TEC - Toshiba Global Commerce Solutions (Fall 2025).** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I have previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** I am also currently interning as a **Software Engineer** at **Toshiba Corporation (Fall 2025).** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
@@ -234,7 +234,9 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
-- 🤖 **Toshiba TEC's** _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.  
+- 🤖 **Toshiba's**:
+  - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
+  - **ELERA** – AI-Driven Retail Solutions Platform — developed Java Spring microservices for LLM-powered product recommendation, customer support chatbots, and inventory management, integrated with existing retail systems and optimized for scalability using Docker and Kubernetes.
 - 📊 **Financial Risk Group's** _**VOR Stream** product_ — optimized Angular UI and Django APIs, built a RAG-powered, RLHF-tuned chatbot with real-time document streaming, and strengthened quality with Playwright E2E integrated into Ansible CI/CD.  
 - 🚀 **VNG Corporation's** _**vCloudcam** Camera Management System & Sale Websites_ — built multi-tenant management features and customer-facing sites with performant UIs, secure APIs, and analytics for device health and conversion tracking, and a low-latency camera streaming pipeline (with Red5, C++, and WebAssembly).
 - 📡 **FPT Corporation's** _**ICDP** Internal Communications Platform_ — implemented AI-powered chatbots, collaboration features, and real-time messaging with SSO, audit logging, and scalable backend services to support enterprise adoption.  
