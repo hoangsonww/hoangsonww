@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I'm+Son+(David)+Nguyen.;Welcome+to+my+dev+corner+%26+inner+child~)](https://sonnguyenhoang.com)
+## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Son+(David)+Nguyen.;Shipping+code+%E2%9C%94%EF%B8%8F+Keeping+my+inner+child+alive+%F0%9F%8E%88)](https://sonnguyenhoang.com)
 
 ## Sections
 - [Overview](#overview)
@@ -16,9 +16,11 @@
 
 ## Overview
 
-My name is **Son Nguyen**. I'm currently a student at **The University of North Carolina at Chapel Hill**, where I pursue a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science._ 👨🏼‍💻
+My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I have previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** I am also currently interning as a **Software Engineer** at **Toshiba Corporation (Fall 2025).** I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** Currently, I'm engineering beautiful pieces of software (especially AI) at **Toshiba Corporation (Fall 2025).** 
+
+I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
@@ -297,10 +299,12 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
+  <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🦾 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
+  <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
