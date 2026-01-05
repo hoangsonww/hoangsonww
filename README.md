@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** Currently, I'm engineering beautiful pieces of software (especially AI) at **Toshiba Corporation (Fall 2025).** 
+I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** Currently, I'm engineering beautiful pieces of software (especially AI) at **Toshiba Corporation (since Fall 2025 - now).** 
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
