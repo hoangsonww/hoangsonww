@@ -280,7 +280,7 @@ These are some of the web development projects that I have worked on over the ye
   - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
   - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://pokedex-db.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
   - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
-  - 🎯 **The Wordle Game:** [Visit the **live** **website** here](https://the-wordle-game.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Wordle-Game).
+  - 🎯 **PuzzleForge Game Hub:** [Visit the **live** **website** here](https://puzzlesforge.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PuzzleForge-Game-Hub).
   - 🧮 **NuCalc Calculator App:** [Visit the **live** **website** here](https://nucalc-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App).
   - 🍲 **PantryPal Streamlit App:** [Visit the **live** **website** here](https://pantrypal-app.streamlit.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App).
   - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/).
