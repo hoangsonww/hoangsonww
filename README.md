@@ -48,8 +48,11 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
-    <li><img src="https://img.shields.io/badge/Playwright%20%26%20Vitest-darkred?logo=vitest&logoColor=white" alt="Playwright"></li>
+    <li><img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playcanvas&logoColor=white" alt="Playwright"></li>
     <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
+    <li><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"></li>
+    <li><img src="https://img.shields.io/badge/Jest%20%26%20React%20Testing%20Library-C21325?logo=jest&logoColor=white" alt="Jest & React Testing Library"></li>
+    <li><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest"></li>
     <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=protondb&logoColor=white" alt="Micro-Frontends Architecture"></li>
 </ul>
 
@@ -66,6 +69,8 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Django%20%26%20Django%20REST%20Framework-darkgreen?logo=django&logoColor=white" alt="Django & Django REST Framework"></li>
     <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
     <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
+    <li><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"></li>
+    <li><img src="https://img.shields.io/badge/Mocha%20%26%20Chai-8D6748?logo=mocha&logoColor=white" alt="Mocha & Chai"></li>
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
     <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
@@ -167,6 +172,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Tableau-blue?logo=airtable&logoColor=white" alt="Tableau"></li>
     <li><img src="https://img.shields.io/badge/Stata-lightblue?logo=statamic&logoColor=white" alt="Stata"></li>
     <li><img src="https://img.shields.io/badge/R%20%26%20RStudio-blue?logo=r&logoColor=white" alt="R & RStudio"></li>
+    <li><img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white" alt="Pandas"></li>
     <li><img src="https://img.shields.io/badge/Microsoft%20Excel-darkgreen?logo=micropython&logoColor=white" alt="Microsoft Excel"></li>
     <li><img src="https://img.shields.io/badge/Matlab-orange?logo=matrix&logoColor=white" alt="Matlab"></li>
     <li><img src="https://img.shields.io/badge/Spark-red?logo=apachespark&logoColor=white" alt="Spark"></li>
@@ -199,13 +205,17 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
-    <li><img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"></li>
+    <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
+    <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
+    <li><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"></li>
+    <li><img src="https://img.shields.io/badge/Argo%20Rollouts-456787?logo=argo&logoColor=white" alt="Argo Rollouts"></li>
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
-    <li><img src="https://img.shields.io/badge/Heroku-purple?logo=heroku&logoColor=white" alt="Heroku"></li>
+    <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
     <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
     <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
-    <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=wazirx&logoColor=white" alt="Microsoft Azure"></li>
+    <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=micropython&logoColor=white" alt="Microsoft Azure"></li>
+    <li><img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-C74634?logo=circle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)"></li>
     <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
     <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
@@ -300,10 +310,10 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🤖 AI/ML Projects
 <ul>
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🦾 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🤖 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
