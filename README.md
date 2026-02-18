@@ -302,6 +302,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🦾 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🤖 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a></li>
