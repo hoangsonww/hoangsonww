@@ -23,7 +23,7 @@ I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summ
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
-> For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
+> For more information about me and my projects, please continue reading this README, take a look at my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories)**, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
 ## Skills and Knowledge
 
@@ -265,39 +265,39 @@ Some of the professional projects that I have worked on, either during my previo
 These are some of the web development projects that I have worked on over the years, including both the frontend UI/UX and the backend API development:
 
   ### 🌐 Full-Stack Applications
-  - 🏠 **EstateWise Real Estate Chatbot:** [Visit the **live** **website** here](https://estatewise.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot).
-  - 💊 **SymptomSync Health Manager:** [Visit the **live** **website** here](https://symptomsync.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App).
-  - 🐻 **PetSwipe Pet Adoption App**: [Visit the **live** **website** here](https://petswipe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PetSwipe-Match-App).
-  - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit the **live** **website** here](https://docuthinker.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App).
+  - 🏠 **EstateWise Real Estate Chatbot:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot) or [visit the **live** **website** here](https://estatewise.vercel.app).
+  - 🐻 **PetSwipe Pet Adoption App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/PetSwipe-Match-App) or [visit the **live** **website** here](https://petswipe.vercel.app/).
+  - 📝 **DocuThinker AI-Powered Document Analysis App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/DocuThinker-AI-App) or [visit the **live** **website** here](https://docuthinker.vercel.app/).
   - 🎹 **Moodify AI Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
-  - 🍿 **The MovieVerse Database:** [Visit the **live** **website** here](https://movie-verse.com) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database).
-  - 🧰 **Collabify Project Management App:** [Visit the **live** **website** here](https://collabify-pm.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager).
-  - 📰 **AI-Powered News Article Crawler & Curator**: [Visit the **live** **website** here](https://ai-article-curator.vercel.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator).
-  - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit its **live** **website** here](https://learning-manangement-system.vercel.app).
-  - 🥁 **MetaWave MP3 Editor & Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MetaWave-MP3-App) or [visit its **live** **website** here](https://metawave.vercel.app).
-  - 📦 **Boxed Inventory Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Boxed-Inventory-App) or [visit its **live** **website** here](https://boxed-app.vercel.app).
-  - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit its **live** **website** here](https://mermaidgenie.vercel.app).
-  - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App) or or [visit its **live** **website** here](https://employee-manage-app.vercel.app/).
-  - 🔗 **Urlvy URL Shortener App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Urlvy-URL-Shortener-App) or [visit its **live** **website** here](https://urlvy.vercel.app/).
+  - 📰 **SynthoraAI - AI-Powered News Article Crawler & Curator**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator) or [visit the **live** **website** here](https://ai-article-curator.vercel.app).
+  - 💊 **SymptomSync Health Manager:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App) or [visit the **live** **website** here](https://symptomsync.vercel.app).
+  - 🧰 **Collabify Project Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager) or [visit the **live** **website** here](https://collabify-pm.vercel.app).
+  - 🍿 **The MovieVerse Database:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database) or [visit the **live** **website** here](https://movie-verse.com).
+  - 🥁 **MetaWave MP3 Editor & Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MetaWave-MP3-App) or [visit the **live** **website** here](https://metawave.vercel.app).
+  - 📦 **Boxed Inventory Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Boxed-Inventory-App) or [visit the **live** **website** here](https://boxed-app.vercel.app).
+  - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit the **live** **website** here](https://mermaidgenie.vercel.app).
+  - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App) or [visit the **live** **website** here](https://employee-manage-app.vercel.app/).
+  - 🔗 **Urlvy URL Shortener App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Urlvy-URL-Shortener-App) or [visit the **live** **website** here](https://urlvy.vercel.app/).
+  - 🎯 **Flowlist - Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack) or [visit the **live** **website** here](https://flowlist-app.vercel.app).
+  - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App) or [visit the **live** **website** here](https://study-sync-app.vercel.app).
+  - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) or [visit the **live** **website** here](https://fusion-ecommerce-app.vercel.app/).
+  - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit the **live** **website** here](https://learning-manangement-system.vercel.app).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
-  - 🎯 **Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack).
-  - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game).
-  - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App).
-  - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App).
+  - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game) or [visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/).
 
   ### 🔥 Interactive & Utility-Based Applications
-  - 📋 **ClipChronicle Cross-Platform App:** [Visit the **live** **website** here](https://clipchronicle.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/ClipChronicle-Cross-Platform-App). 🚀
-  - 🪐 **DevVerse SWE Next.js Blog**: [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
-  - 🐱 **The Pokedex Database:** [Visit the **live** **website** here](https://pokedex-db.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database).
-  - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit the **live** **website** here](https://meadows.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media).
-  - 🎯 **PuzzleForge Game Hub:** [Visit the **live** **website** here](https://puzzlesforge.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PuzzleForge-Game-Hub).
-  - 🧮 **NuCalc Calculator App:** [Visit the **live** **website** here](https://nucalc-app.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App).
-  - 🍲 **PantryPal Streamlit App:** [Visit the **live** **website** here](https://pantrypal-app.streamlit.app) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App).
+  - 📋 **ClipChronicle Cross-Platform App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ClipChronicle-Cross-Platform-App) or [visit the **live** **website** here](https://clipchronicle.vercel.app/). 🚀
+  - 🪐 **DevVerse SWE Next.js Blog**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog) or [visit the **live** **website** here](https://devverse-swe.vercel.app/).
+  - 🐱 **The Pokedex Database:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database) or [visit the **live** **website** here](https://pokedex-db.vercel.app/).
+  - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media) or [visit the **live** **website** here](https://meadows.vercel.app/).
+  - 🎯 **PuzzleForge Game Hub:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/PuzzleForge-Game-Hub) or [visit the **live** **website** here](https://puzzlesforge.vercel.app/).
+  - 🧮 **NuCalc Calculator App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App) or [visit the **live** **website** here](https://nucalc-app.vercel.app/).
+  - 🍲 **PantryPal Streamlit App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App) or [visit the **live** **website** here](https://pantrypal-app.streamlit.app).
   - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/).
   - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/).
   - 🧑‍🍳 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/).
-  - 🏰 **The Maze Game:** [Visit the **live** **website** here](https://the-maze-game.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game).
-  - 🎨 **Image & Video Tools:** [Visit the **live** **website** here](https://image-video-tools.onrender.com/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/).
+  - 🏰 **The Maze Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game) or [visit the **live** **website** here](https://the-maze-game.onrender.com/).
+  - 🎨 **Image & Video Tools:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/) or [visit the **live** **website** here](https://image-video-tools.onrender.com/).
   - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/).
 
 </details>
@@ -310,13 +310,13 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🤖 AI/ML Projects
 <ul>
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🤖 <strong>Agentic Multi-Stage AI Bot:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🧠 <strong>RAG-LangChain Agentic AI Chatbot:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🧠 <strong>RAG-LangChain Agentic AI:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://estatewise.vercel.app">Visit the <strong>live website</strong> here</a> or <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">visit its <strong>GitHub repo</strong> here</a></li>
+  <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a></li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
   <li>🎹 <strong>Moodify AI-Powered Emotion App - Data Analytics & AI/ML:</strong> <a href="https://github.com/hoangsonww/Moodify-Emotion-Music-App">Visit its <strong>GitHub repo</strong> here</a></li>
@@ -388,7 +388,7 @@ Some other cool projects that I have worked on over the years. These include Jav
 - 🐚 **Simple Shell in C:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/C-Shell-Implementation).
 
 ### 📚 **Check out my SWE knowledge blog!** 
-- 🪐 **DevVerse SWE Blog:** [Visit the **live** **website** here](https://devverse-swe.vercel.app/) or [visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog).
+- 🪐 **DevVerse SWE Blog:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog) or [visit the **live** **website** here](https://devverse-swe.vercel.app/).
 - This blog features a wide range of topics, including **Software Engineering**, **Web Development**, **Mobile Development**, **Data Science**, **AI/ML**, **DevOps**, **CI/CD**, **Databases**, **Graphics & Design**, **Languages**, **Frontend Development**, **Backend Development**, **Mobile Development**, **Data Analytics**, **AI & Machine Learning**, **Databases**, **CI/CD & DevOps**, **Graphics & Design**, and **Languages**. I created this blog to share my knowledge and experiences with the world and to allow other developers to share their own knowledge and experiences as well. 🚀
 
 ### 🤖 **Create a chatbot in minutes with:**
@@ -517,7 +517,7 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 > Feel free to connect with me or learn more about me on the following platforms:
 
 <ul>
-  <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website</a></li>
+  <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website - sonnguyenhoang.com</a></li>
   <li><a href="https://lumina-david.vercel.app" target="_blank" rel="noopener noreferrer">Lumina AI Personal Assistant</a></li>
   <li><a href="https://www.linkedin.com/in/hoangsonw/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li><a href="mailto:hoangson091104@gmail.com">Email</a></li>
@@ -526,4 +526,4 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 
 ---
 
-Looking forward to connecting & collaborating with you! 🚀
+Looking forward to connecting & collaborating with y'all! 🚀
