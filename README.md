@@ -23,7 +23,7 @@ I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summ
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
-> For more information about me and my projects, please continue reading this README, take a look at my [GitHub repositories](https://github.com/hoangsonww?tab=repositories), and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
+> For more information about me and my projects, please continue reading this README, take a look at my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories)**, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
 
 ## Skills and Knowledge
 
