@@ -309,35 +309,35 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
-  <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🧠 <strong>RAG-LangChain Agentic AI:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a></li>
-  <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a></li>
-  <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🎹 <strong>Moodify AI-Powered Emotion App - Data Analytics & AI/ML:</strong> <a href="https://github.com/hoangsonww/Moodify-Emotion-Music-App">Visit its <strong>GitHub repo</strong> here</a></li>
-  <li>🌟 <strong>Multipurpose AI Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🧠 <strong>RAG-LangChain Agentic AI:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a>.</li>
+  <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a>.</li>
+  <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🎹 <strong>Moodify AI-Powered Emotion App - Data Analytics & AI/ML:</strong> <a href="https://github.com/hoangsonww/Moodify-Emotion-Music-App">Visit its <strong>GitHub repo</strong> here</a>.</li>
+  <li>🌟 <strong>Multipurpose AI Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 ### 📊 Data Analytics & Data Science Projects
 <ul>
-  <li>📈 <strong>End-to-End Data Pipeline:</strong> <a href="https://github.com/hoangsonww/End-to-End-Data-Pipeline">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🗂️ <strong>LatticeDB - A Next-Gen Database Management System (DBMS):</strong> <a href="https://github.com/hoangsonww/LatticeDB-NextGen-DBMS">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🧐 <strong>Amazon Reviews Textual Analysis:</strong> <a href="https://github.com/hoangsonww/Amazon-Reviews-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🌏 <strong>Global Earthquake Data Analysis:</strong> <a href="https://github.com/hoangsonww/Earthquake-R-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🏭 <strong>Global CO₂ Emissions Analysis:</strong> <a href="https://github.com/hoangsonww/CO2-Global-Emissions-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🔍 <strong>Gapminder Data Analysis:</strong> <a href="https://github.com/hoangsonww/Gapminder-R-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🏅 <strong>Olympics Medals Data Analysis:</strong> <a href="https://github.com/hoangsonww/Olympic-Medal-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🍷 <strong>Global Wine Quality Data Analysis:</strong> <a href="https://github.com/hoangsonww/Wine-Quality-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🤑 <strong>Stock Data Analysis Project:</strong> <a href="https://github.com/hoangsonww/Stock-Data-Analysis-R">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🇲🇼 <strong>Malawian CiTonga Tone Production Study:</strong> <a href="https://github.com/hoangsonww/Malawian-CiTonga-Tone-Production">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🇧🇷 <strong>Brazilian Portuguese Nonce Word Acceptability Study:</strong> <a href="https://github.com/hoangsonww/Brazilian-Portuguese-Nonce-Accessbility">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>🌍 <strong>Global COVID-19 Analysis:</strong> <a href="https://github.com/hoangsonww/Global-COVID19-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
-  <li>📊 <strong>North Carolina Household Analysis:</strong> <a href="https://github.com/hoangsonww/North-Carolina-Household-Analysis">Visit the <strong>GitHub repo</strong> here</a></li>
+  <li>📈 <strong>End-to-End Data Pipeline:</strong> <a href="https://github.com/hoangsonww/End-to-End-Data-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🗂️ <strong>LatticeDB - A Next-Gen Database Management System (DBMS):</strong> <a href="https://github.com/hoangsonww/LatticeDB-NextGen-DBMS">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🧐 <strong>Amazon Reviews Textual Analysis:</strong> <a href="https://github.com/hoangsonww/Amazon-Reviews-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🌏 <strong>Global Earthquake Data Analysis:</strong> <a href="https://github.com/hoangsonww/Earthquake-R-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🏭 <strong>Global CO₂ Emissions Analysis:</strong> <a href="https://github.com/hoangsonww/CO2-Global-Emissions-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🔍 <strong>Gapminder Data Analysis:</strong> <a href="https://github.com/hoangsonww/Gapminder-R-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🏅 <strong>Olympics Medals Data Analysis:</strong> <a href="https://github.com/hoangsonww/Olympic-Medal-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🍷 <strong>Global Wine Quality Data Analysis:</strong> <a href="https://github.com/hoangsonww/Wine-Quality-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🤑 <strong>Stock Data Analysis Project:</strong> <a href="https://github.com/hoangsonww/Stock-Data-Analysis-R">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🇲🇼 <strong>Malawian CiTonga Tone Production Study:</strong> <a href="https://github.com/hoangsonww/Malawian-CiTonga-Tone-Production">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🇧🇷 <strong>Brazilian Portuguese Nonce Word Acceptability Study:</strong> <a href="https://github.com/hoangsonww/Brazilian-Portuguese-Nonce-Accessbility">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🌍 <strong>Global COVID-19 Analysis:</strong> <a href="https://github.com/hoangsonww/Global-COVID19-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>📊 <strong>North Carolina Household Analysis:</strong> <a href="https://github.com/hoangsonww/North-Carolina-Household-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 </details>
@@ -347,13 +347,12 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 I have also worked on a number of open-source libraries and packages that are available on **npm** and **PyPI**. Here are some of them:
 
-- 🛠️ **SQL-Mongo Query Converter**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/SQL-Mongo-Query-Converter) - `PyPI Package`
-- 💾 **GhostCache API Cache Tool**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostCache-API-Cache) - `npm package`
-- 👻 **GhostIO Invisible Data Prefetch**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostIO-Invisible-Data-Prefetch) - `npm package`
-- ⏳ **TimeWarp Time Manipulation Library**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Time-Warp-Manipulation-Library) - `npm package`
-- ⚡ **FastFetch API Fetch Enhancer**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/FastFetch-API-Fetch-Enhancer) - `npm package`
-- 🛡️ **EnvGuard `.env` File Validator**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/EnvGuard-Env-Validator) - `npm package`
-
+- 🛠️ **SQL-Mongo Query Converter**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/SQL-Mongo-Query-Converter) - `PyPI Package`.
+- 💾 **GhostCache API Cache Tool**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostCache-API-Cache) - `npm package`.
+- 👻 **GhostIO Invisible Data Prefetch**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/GhostIO-Invisible-Data-Prefetch) - `npm package`.
+- ⏳ **TimeWarp Time Manipulation Library**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Time-Warp-Manipulation-Library) - `npm package`.
+- ⚡ **FastFetch API Fetch Enhancer**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/FastFetch-API-Fetch-Enhancer) - `npm package`.
+- 🛡️ **EnvGuard `.env` File Validator**: [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/EnvGuard-Env-Validator) - `npm package`.
 </details>
 
 <details id="mobile-applications-projects">
@@ -393,7 +392,7 @@ Some other cool projects that I have worked on over the years. These include Jav
 
 ### 🤖 **Create a chatbot in minutes with:**
 - 💨 **Customizable AI Chatbot:** [Visit the **GitHub repo** here](https://github.com/hoangsonww/Customizable-AI-Chatbot). 
-- This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, and **TypeScript**. 🤖
+- This repository hosts a highly customizable AI chatbot that you can use to create your own chatbot in minutes. The chatbot is powered by **Next.js**, **TailwindCSS**, **Vercel**, **OpenAI API**, **RAG with Pinecone**, **Fireworks AI**, and **TypeScript**. 🤖
 
 ### 🧩 **VS Code Extensions:**
 
