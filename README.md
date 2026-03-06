@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), and the Financial Risk Group | FRG (Summer 2025).** Currently, I'm engineering beautiful pieces of software _(especially AI)_ at **Toshiba Corporation (since Fall 2025 - now).** 🚀
+I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
@@ -246,6 +246,7 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
+- 📚 **LexisNexis's** _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
@@ -271,16 +272,17 @@ These are some of the web development projects that I have worked on over the ye
   - 🎹 **Moodify AI Emotion Music App**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Moodify-Emotion-Music-App). 🎵
   - 📰 **SynthoraAI - AI-Powered News Article Crawler & Curator**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-Gov-Content-Curator) or [visit the **live** **website** here](https://ai-article-curator.vercel.app).
   - 💊 **SymptomSync Health Manager:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App) or [visit the **live** **website** here](https://symptomsync.vercel.app).
+  - 💸 **WealthWise Personal Finance App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/WealthWise-Finance-Tracker) or [visit the **live** **website** here](https://wealthwisefinancial.vercel.app).
   - 🧰 **Collabify Project Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager) or [visit the **live** **website** here](https://collabify-pm.vercel.app).
   - 🍿 **The MovieVerse Database:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database) or [visit the **live** **website** here](https://movie-verse.com).
   - 🥁 **MetaWave MP3 Editor & Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MetaWave-MP3-App) or [visit the **live** **website** here](https://metawave.vercel.app).
   - 📦 **Boxed Inventory Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Boxed-Inventory-App) or [visit the **live** **website** here](https://boxed-app.vercel.app).
-  - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit the **live** **website** here](https://mermaidgenie.vercel.app).
   - 👥 **Employee Management Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Employee-Management-Fullstack-App) or [visit the **live** **website** here](https://employee-manage-app.vercel.app/).
   - 🔗 **Urlvy URL Shortener App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Urlvy-URL-Shortener-App) or [visit the **live** **website** here](https://urlvy.vercel.app/).
   - 🎯 **Flowlist - Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack) or [visit the **live** **website** here](https://flowlist-app.vercel.app).
   - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App) or [visit the **live** **website** here](https://study-sync-app.vercel.app).
   - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) or [visit the **live** **website** here](https://fusion-ecommerce-app.vercel.app/).
+  - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit the **live** **website** here](https://mermaidgenie.vercel.app).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit the **live** **website** here](https://learning-manangement-system.vercel.app).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
   - 🕹️ **Tic-Tac-Toe Pro AI Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Tic-Tac-Toe-Fullstack-Game) or [visit the **live** **website** here](https://tictactoe-ai-app.vercel.app/).
@@ -310,17 +312,24 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🤖 AI/ML Projects
 <ul>
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🧠 <strong>RAG-LangChain Agentic AI:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a>.</li>
-  <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a>.</li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🎹 <strong>Moodify AI-Powered Emotion App - Data Analytics & AI/ML:</strong> <a href="https://github.com/hoangsonww/Moodify-Emotion-Music-App">Visit its <strong>GitHub repo</strong> here</a>.</li>
   <li>🌟 <strong>Multipurpose AI Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
+</ul>
+
+### 🧠 Agentic AI Projects
+
+<ul>
+  <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🧠 <strong>Agentic RAG AI Platform:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🎯 <strong>Claude Code Agents Monitoring Dashboard:</strong> <a href="https://github.com/hoangsonww/Claude-Code-Agent-Monitor">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🛠️ <strong>GitIntel MCP Server:</strong> <a href="https://github.com/hoangsonww/GitIntel-MCP-Server">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 ### 📊 Data Analytics & Data Science Projects
