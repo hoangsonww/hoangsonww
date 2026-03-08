@@ -78,7 +78,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
     <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
     <li><img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" alt="tRPC"></li>
-    <li><img src="https://img.shields.io/badge/gRPC%20%26%20Protocol%20Buffers-4285F4?logo=grpc&logoColor=white" alt="gRPC & Protocol Buffers"></li>
+    <li><img src="https://img.shields.io/badge/gRPC%20%26%20Protocol%20Buffers-4285F4?logo=grocy&logoColor=white" alt="gRPC & Protocol Buffers"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/Server--Sent%20Events%20(SSE)-0EA5E9?logo=serverless&logoColor=white" alt="Server-Sent Events (SSE)"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
