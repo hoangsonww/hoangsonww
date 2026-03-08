@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
+I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025 - Spring 2026).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
@@ -37,16 +37,19 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/React-blue?logo=react&logoColor=white" alt="React"></li>
     <li><img src="https://img.shields.io/badge/Angular-red?logo=angular&logoColor=white" alt="Angular"></li>
     <li><img src="https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white" alt="Vue.js"></li>
+    <li><img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt"></li>
     <li><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
     <li><img src="https://img.shields.io/badge/TailwindCSS-teal?logo=tailwindcss&logoColor=white" alt="TailwindCSS"></li>
+    <li><img src="https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white" alt="PostCSS"></li>
     <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
     <li><img src="https://img.shields.io/badge/MaterialUI%20%26%20JoyUI-blueviolet?logo=mui&logoColor=white" alt="MUI and JoyUI Badge"></li>
     <li><img src="https://img.shields.io/badge/Shadcn%20UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI"></li>
     <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
+    <li><img src="https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white" alt="Turborepo"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
     <li><img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playcanvas&logoColor=white" alt="Playwright"></li>
     <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
@@ -74,7 +77,10 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
     <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
+    <li><img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" alt="tRPC"></li>
+    <li><img src="https://img.shields.io/badge/gRPC%20%26%20Protocol%20Buffers-4285F4?logo=grpc&logoColor=white" alt="gRPC & Protocol Buffers"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
+    <li><img src="https://img.shields.io/badge/Server--Sent%20Events%20(SSE)-0EA5E9?logo=serverless&logoColor=white" alt="Server-Sent Events (SSE)"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
     <li><img src="https://img.shields.io/badge/Hibernate-purple?logo=hibernate&logoColor=white" alt="Hibernate"></li>
@@ -85,7 +91,6 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/OAuth%20%26%20JWT-blue?logo=jsonwebtokens&logoColor=white" alt="OAuth & JWT"></li>
     <li><img src="https://img.shields.io/badge/Auth0-EB5424?logo=auth0&logoColor=white" alt="Auth0"></li>
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-darkgreen?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
-    <li><img src="https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white" alt="Prometheus"></li>
     <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
     <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=stackedit&logoColor=white" alt="Micro-Services Architecture"></li>
 </ul>
@@ -100,6 +105,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white" alt="Keras"></li>
     <li><img src="https://img.shields.io/badge/Agentic%20AI-darkblue?logo=google&logoColor=white" alt="Agentic AI"></li>
     <li><img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-blue?logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)"></li>
+    <li><img src="https://img.shields.io/badge/Agent%20to%20Agent%20Protocol%20(A2A)-2E7D32" alt="Agent to Agent Protocol (A2A)"></li>
     <li><img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch"></li>
     <li><img src="https://img.shields.io/badge/Scikit--Learn-blue?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"></li>
     <li><img src="https://img.shields.io/badge/OpenCV-darkgreen?logo=opencv&logoColor=white" alt="OpenCV"></li>
@@ -108,13 +114,19 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Transformers-E53236?logo=huggingface&logoColor=white" alt="Transformers (Hugging Face)"></li>
     <li><img src="https://img.shields.io/badge/LangChain-black?logo=langchain&logoColor=white" alt="LangChain"></li>
     <li><img src="https://img.shields.io/badge/LangGraph-purple?logo=langgraph&logoColor=white" alt="LangGraph"></li>
+    <li><img src="https://img.shields.io/badge/LangSmith-111111?logo=langchain&logoColor=white" alt="LangSmith"></li>
     <li><img src="https://img.shields.io/badge/CrewAI-blue?logo=crewai&logoColor=white" alt="CrewAI"></li>
+    <li><img src="https://img.shields.io/badge/Fireworks%20AI-FF6B35" alt="Fireworks AI"></li>
     <li><img src="https://img.shields.io/badge/FAISS-blue?logo=meta&logoColor=white" alt="FAISS"></li>
     <li><img src="https://img.shields.io/badge/Pinecone-orange?logo=googledataproc&logoColor=white" alt="Pinecone"></li>
     <li><img src="https://img.shields.io/badge/Optuna-purple?logo=openaigym&logoColor=white" alt="Optuna"></li>
     <li><img src="https://img.shields.io/badge/Jupyter%20Notebook-orange?logo=jupyter&logoColor=white" alt="Jupyter Notebook"></li>
     <li><img src="https://img.shields.io/badge/MLflow-blue?logo=mlflow&logoColor=white" alt="MLflow"></li>
+    <li><img src="https://img.shields.io/badge/Weights%20%26%20Biases-FFBE00?logo=weightsandbiases&logoColor=black" alt="Weights & Biases"></li>
+    <li><img src="https://img.shields.io/badge/Prefect-0F766E?logo=prefect&logoColor=white" alt="Prefect"></li>
     <li><img src="https://img.shields.io/badge/Jax-blue?logo=max&logoColor=white" alt="Jax"></li>
+    <li><img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white" alt="ONNX"></li>
+    <li><img src="https://img.shields.io/badge/XGBoost-EC7A08?logo=xgboost&logoColor=white" alt="XGBoost"></li>
     <li><img src="https://img.shields.io/badge/Google%20Colab-blue?logo=googlecolab&logoColor=white" alt="Google Colab"></li>
 </ul>
 
@@ -202,13 +214,17 @@ A brief overview of the skills and knowledge that I have acquired over the years
 <ul>
     <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
     <li><img src="https://img.shields.io/badge/GitHub%20Actions-lightgrey?logo=githubactions&logoColor=white" alt="GitHub Actions"></li>
+    <li><img src="https://img.shields.io/badge/GitLab%20CI-FC6D26?logo=gitlab&logoColor=white" alt="GitLab CI"></li>
+    <li><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=white" alt="Travis CI"></li>
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
     <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
     <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
+    <li><img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&logoColor=white" alt="Flux CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20Rollouts-456787?logo=argo&logoColor=white" alt="Argo Rollouts"></li>
+    <li><img src="https://img.shields.io/badge/Canary%20%26%20Blue--Green%20Deployments-16A34A" alt="Canary & Blue-Green Deployments"></li>
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
@@ -218,6 +234,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-C74634?logo=circle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)"></li>
     <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
     <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
+    <li><img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white" alt="Podman"></li>
+    <li><img src="https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white" alt="Prometheus"></li>
+    <li><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
     <li><img src="https://img.shields.io/badge/WSL-darkblue?logo=windsurf&logoColor=white" alt="WSL"></li>
     <li><img src="https://img.shields.io/badge/Jira%20&%20Confluence-blue?logo=jira&logoColor=white" alt="Jira & Confluence"></li>
@@ -246,7 +265,9 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
-- 📚 **LexisNexis's** _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
+- 📚 **LexisNexis's**:
+  - _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
+  - _**Internal Agentic Tools**_ — built internal agentic AI tools that automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
