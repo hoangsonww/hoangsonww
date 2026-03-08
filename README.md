@@ -18,7 +18,7 @@
 
 My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
+I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025 - Spring 2026).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
@@ -265,7 +265,9 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
-- 📚 **LexisNexis's** _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
+- 📚 **LexisNexis's**:
+  - _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
+  - _**Internal Agentic Tools**_ — built internal agentic AI tools that automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
