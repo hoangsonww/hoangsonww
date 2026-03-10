@@ -267,7 +267,7 @@ Some of the professional projects that I have worked on, either during my previo
 
 - 📚 **LexisNexis's**:
   - _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
-  - _**Internal Agentic Tools**_ — built internal agentic AI tools that automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
+  - _**Internal Agentic Tools**_ — built internal agentic AI tools that seamlessly integrate with Azure DevOps, Microsoft Teams, and GitHub to automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
@@ -351,6 +351,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🎯 <strong>Claude Code Agents Monitoring Dashboard:</strong> <a href="https://github.com/hoangsonww/Claude-Code-Agent-Monitor">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🛠️ <strong>GitIntel MCP Server:</strong> <a href="https://github.com/hoangsonww/GitIntel-MCP-Server">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🛠️ <strong>Daily AI News Briefing Workflow:</strong> <a href="https://github.com/hoangsonww/AI-News-Briefing">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 ### 📊 Data Analytics & Data Science Projects
