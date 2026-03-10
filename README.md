@@ -433,7 +433,7 @@ Some projects of mine also include VS Code extensions. Here are some of them:
 - 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
 - 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
 
-More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+More projects can be found in my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories).** You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
 
 </details>
 
