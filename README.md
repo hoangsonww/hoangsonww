@@ -219,6 +219,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
+    <li><img src="https://img.shields.io/badge/Podman-000000?logo=podman&logoColor=white" alt="Podman"></li>
     <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
     <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
     <li><img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&logoColor=white" alt="Flux CD"></li>
@@ -432,7 +433,7 @@ Some projects of mine also include VS Code extensions. Here are some of them:
 - 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
 - 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
 
-More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+More projects can be found in my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories).** You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
 
 </details>
 
