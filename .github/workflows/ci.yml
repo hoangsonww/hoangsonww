@@ -1,4 +1,4 @@
-name: CI/CD Pipeline for hoangsonww
+name: 🚀 CI/CD Pipeline for hoangsonww Repository
 
 concurrency:
   group: ci-cd-pipeline-${{ github.ref_name }}
