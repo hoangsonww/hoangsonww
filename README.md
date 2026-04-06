@@ -1,18 +1,22 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Son+(David)+Nguyen.;Shipping+code+%E2%9C%94%EF%B8%8F+Keeping+my+inner+child+alive+%F0%9F%8E%88)](https://sonnguyenhoang.com)
 
 ## Sections
+- [](#)
+- [Sections](#sections)
 - [Overview](#overview)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Notable Projects](#notable-projects)
-  - [Professional Projects](#professional-projects)
-  - [Web Development Projects](#web-development-projects)
-  - [Data Analytics & AI/ML Projects](#data-science-projects)
-  - [Libraries & Packages Projects](#libraries-packages-projects)
-  - [Mobile Applications Projects](#mobile-applications-projects)
-  - [Other Cool Projects](#other-projects)
+  - [🌐 Full-Stack Applications](#-full-stack-applications)
+  - [🔥 Interactive \& Utility-Based Applications](#-interactive--utility-based-applications)
+  - [🤖 AI/ML Projects](#-aiml-projects)
+  - [🧠 Agentic AI Projects](#-agentic-ai-projects)
+  - [📊 Data Analytics \& Data Science Projects](#-data-analytics--data-science-projects)
+  - [📚 **Check out my SWE knowledge blog!**](#-check-out-my-swe-knowledge-blog)
+  - [🤖 **Create a chatbot in minutes with:**](#-create-a-chatbot-in-minutes-with)
+  - [🧩 **VS Code Extensions:**](#-vs-code-extensions)
 - [Certificates](#certificates)
 - [My GitHub Stats](#my-github-stats)
-- [Connect with Me](#connect-with-me)
+- [Connect with me](#connect-with-me)
 
 ## Overview
 
@@ -122,7 +126,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Keras-red?logo=keras&logoColor=white" alt="Keras"></li>
     <li><img src="https://img.shields.io/badge/Agentic%20AI-darkblue?logo=google&logoColor=white" alt="Agentic AI"></li>
     <li><img src="https://img.shields.io/badge/Model%20Context%20Protocol%20(MCP)-blue?logo=modelcontextprotocol&logoColor=white" alt="Model Context Protocol (MCP)"></li>
-    <li><img src="https://img.shields.io/badge/Agent%20to%20Agent%20Protocol%20(A2A)-2E7D32" alt="Agent to Agent Protocol (A2A)"></li>
+    <li><img src="https://img.shields.io/badge/Agent%20to%20Agent%20Protocol%20(A2A)-2E7D32?logo=sentry&logoColor=white" alt="Agent to Agent Protocol (A2A)"></li>
     <li><img src="https://img.shields.io/badge/PyTorch-red?logo=pytorch&logoColor=white" alt="PyTorch"></li>
     <li><img src="https://img.shields.io/badge/Scikit--Learn-blue?logo=scikitlearn&logoColor=white" alt="Scikit-Learn"></li>
     <li><img src="https://img.shields.io/badge/OpenCV-darkgreen?logo=opencv&logoColor=white" alt="OpenCV"></li>
@@ -131,7 +135,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Transformers-E53236?logo=huggingface&logoColor=white" alt="Transformers (Hugging Face)"></li>
     <li><img src="https://img.shields.io/badge/LangChain-black?logo=langchain&logoColor=white" alt="LangChain"></li>
     <li><img src="https://img.shields.io/badge/LangGraph-purple?logo=langgraph&logoColor=white" alt="LangGraph"></li>
-    <li><img src="https://img.shields.io/badge/LangSmith-111111?logo=langchain&logoColor=white" alt="LangSmith"></li>
+    <li><img src="https://img.shields.io/badge/LangSmith-111111?logo=langflow&logoColor=white" alt="LangSmith"></li>
     <li><img src="https://img.shields.io/badge/CrewAI-blue?logo=crewai&logoColor=white" alt="CrewAI"></li>
     <li><img src="https://img.shields.io/badge/Fireworks%20AI-FF6B35" alt="Fireworks AI"></li>
     <li><img src="https://img.shields.io/badge/FAISS-blue?logo=meta&logoColor=white" alt="FAISS"></li>
@@ -143,7 +147,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Prefect-0F766E?logo=prefect&logoColor=white" alt="Prefect"></li>
     <li><img src="https://img.shields.io/badge/Jax-blue?logo=max&logoColor=white" alt="Jax"></li>
     <li><img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white" alt="ONNX"></li>
-    <li><img src="https://img.shields.io/badge/XGBoost-EC7A08?logo=xgboost&logoColor=white" alt="XGBoost"></li>
+    <li><img src="https://img.shields.io/badge/XGBoost-EC7A08?logo=arxiv&logoColor=white" alt="XGBoost"></li>
     <li><img src="https://img.shields.io/badge/Google%20Colab-blue?logo=googlecolab&logoColor=white" alt="Google Colab"></li>
 </ul>
 
