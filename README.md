@@ -1,22 +1,18 @@
 ## [![Typing SVG](https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=40&duration=6000&pause=100&color=00BFA6&multiline=true&repeat=false&width=1000&height=120&lines=Hello%2C+world+%F0%9F%91%8B+I%27m+Son+(David)+Nguyen.;Shipping+code+%E2%9C%94%EF%B8%8F+Keeping+my+inner+child+alive+%F0%9F%8E%88)](https://sonnguyenhoang.com)
 
 ## Sections
-- [](#)
-- [Sections](#sections)
 - [Overview](#overview)
 - [Skills and Knowledge](#skills-and-knowledge)
 - [Notable Projects](#notable-projects)
-  - [🌐 Full-Stack Applications](#-full-stack-applications)
-  - [🔥 Interactive \& Utility-Based Applications](#-interactive--utility-based-applications)
-  - [🤖 AI/ML Projects](#-aiml-projects)
-  - [🧠 Agentic AI Projects](#-agentic-ai-projects)
-  - [📊 Data Analytics \& Data Science Projects](#-data-analytics--data-science-projects)
-  - [📚 **Check out my SWE knowledge blog!**](#-check-out-my-swe-knowledge-blog)
-  - [🤖 **Create a chatbot in minutes with:**](#-create-a-chatbot-in-minutes-with)
-  - [🧩 **VS Code Extensions:**](#-vs-code-extensions)
+  - [Professional Projects](#professional-projects)
+  - [Web Development Projects](#web-development-projects)
+  - [Data Analytics & AI/ML Projects](#data-science-projects)
+  - [Libraries & Packages Projects](#libraries-packages-projects)
+  - [Mobile Applications Projects](#mobile-applications-projects)
+  - [Other Cool Projects](#other-projects)
 - [Certificates](#certificates)
 - [My GitHub Stats](#my-github-stats)
-- [Connect with me](#connect-with-me)
+- [Connect with Me](#connect-with-me)
 
 ## Overview
 
