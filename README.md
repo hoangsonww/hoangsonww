@@ -51,11 +51,6 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
     <li><img src="https://img.shields.io/badge/Turborepo-EF4444?logo=turborepo&logoColor=white" alt="Turborepo"></li>
     <li><img src="https://img.shields.io/badge/Vite-yellow?logo=vite&logoColor=white" alt="Vite"></li>
-    <li><img src="https://img.shields.io/badge/Playwright-2EAD33?logo=playcanvas&logoColor=white" alt="Playwright"></li>
-    <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
-    <li><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"></li>
-    <li><img src="https://img.shields.io/badge/Jest%20%26%20React%20Testing%20Library-C21325?logo=jest&logoColor=white" alt="Jest & React Testing Library"></li>
-    <li><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest"></li>
     <li><img src="https://img.shields.io/badge/Micro--Frontends%20Architecture-123232?logo=protondb&logoColor=white" alt="Micro-Frontends Architecture"></li>
 </ul>
 
@@ -70,10 +65,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Nest.js-red?logo=nestjs&logoColor=white" alt="Nest.js Badge"></li>
     <li><img src="https://img.shields.io/badge/Spring%20Framework%20%26%20Spring%20Boot-yellow?logo=spring&logoColor=white" alt="Spring Framework & Spring Boot"></li>
     <li><img src="https://img.shields.io/badge/Django%20%26%20Django%20REST%20Framework-darkgreen?logo=django&logoColor=white" alt="Django & Django REST Framework"></li>
+    <li><img src="https://img.shields.io/badge/.NET%2C%20ASP.NET%20Core%20%26%20Aspire-512BD4?logo=dotnet&logoColor=white" alt=".NET, ASP.NET Core & Aspire"></li>
     <li><img src="https://img.shields.io/badge/Flask-lightgrey?logo=flask&logoColor=white" alt="Flask"></li>
     <li><img src="https://img.shields.io/badge/FastAPI-success?logo=fastapi&logoColor=white" alt="FastAPI"></li>
-    <li><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"></li>
-    <li><img src="https://img.shields.io/badge/Mocha%20%26%20Chai-8D6748?logo=mocha&logoColor=white" alt="Mocha & Chai"></li>
     <li><img src="https://img.shields.io/badge/Golang%20%26%20Beego-blue?logo=go&logoColor=white" alt="Golang & Beego"></li>
     <li><img src="https://img.shields.io/badge/RESTful%20APIs-red?logo=axios&logoColor=white" alt="RESTful APIs"></li>
     <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
@@ -93,6 +87,29 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-darkgreen?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
     <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
     <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=stackedit&logoColor=white" alt="Micro-Services Architecture"></li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🧪 Testing & QA</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/Jest%20%26%20React%20Testing%20Library-C21325?logo=jest&logoColor=white" alt="Jest & React Testing Library"></li>
+    <li><img src="https://img.shields.io/badge/Vitest-6E9F18?logo=vitest&logoColor=white" alt="Vitest"></li>
+    <li><img src="https://img.shields.io/badge/Pytest-0A9EDC?logo=pytest&logoColor=white" alt="Pytest"></li>
+    <li><img src="https://img.shields.io/badge/Mocha%20%26%20Chai-8D6748?logo=mocha&logoColor=white" alt="Mocha & Chai"></li>
+    <li><img src="https://img.shields.io/badge/Playwright-2EAD33?logo=sonar&logoColor=white" alt="Playwright"></li>
+    <li><img src="https://img.shields.io/badge/Cypress-17202C?logo=cypress&logoColor=white" alt="Cypress"></li>
+    <li><img src="https://img.shields.io/badge/Selenium-43B02A?logo=selenium&logoColor=white" alt="Selenium"></li>
+    <li><img src="https://img.shields.io/badge/JUnit-25A162?logo=junit5&logoColor=white" alt="JUnit"></li>
+    <li><img src="https://img.shields.io/badge/Testing%20Library-E33332?logo=testinglibrary&logoColor=white" alt="Testing Library"></li>
+    <li><img src="https://img.shields.io/badge/Storybook-FF4785?logo=storybook&logoColor=white" alt="Storybook"></li>
+    <li><img src="https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white" alt="Postman"></li>
+    <li><img src="https://img.shields.io/badge/k6-7D64FF?logo=k6&logoColor=white" alt="k6"></li>
+    <li><img src="https://img.shields.io/badge/SonarQube-4E9BCD?logo=sonarqubeforide&logoColor=white" alt="SonarQube"></li>
+    <li><img src="https://img.shields.io/badge/Codecov-F01F7A?logo=codecov&logoColor=white" alt="Codecov"></li>
+    <li><img src="https://img.shields.io/badge/Snyk-4C4A73?logo=snyk&logoColor=white" alt="Snyk"></li>
 </ul>
 
 </details>
@@ -160,6 +177,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Java-red?logo=coffeescript&logoColor=white" alt="Java"></li>
     <li><img src="https://img.shields.io/badge/C++-blue?logo=cplusplus&logoColor=white" alt="C++"></li>
     <li><img src="https://img.shields.io/badge/C-gray?logo=c&logoColor=white" alt="C"></li>
+    <li><img src="https://img.shields.io/badge/C%23-239120?logo=sharp&logoColor=white" alt="C#"></li>
     <li><img src="https://img.shields.io/badge/Assembly-lightgrey?logo=assemblyscript&logoColor=white" alt="Assembly"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly%20(WASM)-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
     <li><img src="https://img.shields.io/badge/Python-blue?logo=python&logoColor=white" alt="Python"></li>
@@ -219,18 +237,17 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
     <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
-    <li><img src="https://img.shields.io/badge/Podman-000000?logo=podman&logoColor=white" alt="Podman"></li>
     <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
     <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
     <li><img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&logoColor=white" alt="Flux CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20Rollouts-456787?logo=argo&logoColor=white" alt="Argo Rollouts"></li>
-    <li><img src="https://img.shields.io/badge/Canary%20%26%20Blue--Green%20Deployments-16A34A" alt="Canary & Blue-Green Deployments"></li>
+    <li><img src="https://img.shields.io/badge/Canary%20%26%20Blue--Green%20Deployments-16A34A?logo=googleanalytics&logoColor=white" alt="Canary & Blue-Green Deployments"></li>
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
-    <li><img src="https://img.shields.io/badge/AWS-orange?logo=task&logoColor=white" alt="AWS"></li>
-    <li><img src="https://img.shields.io/badge/GCP-blue?logo=googlecloud&logoColor=white" alt="GCP"></li>
+    <li><img src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-orange?logo=task&logoColor=white" alt="Amazon Web Services (AWS)"></li>
+    <li><img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-blue?logo=googlecloud&logoColor=white" alt="Google Cloud Platform (GCP)"></li>
     <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=micropython&logoColor=white" alt="Microsoft Azure"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-C74634?logo=circle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)"></li>
     <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
@@ -268,7 +285,7 @@ Some of the professional projects that I have worked on, either during my previo
 
 - 📚 **LexisNexis's**:
   - _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
-  - _**Internal Agentic Tools**_ — built internal agentic AI tools that seamlessly integrate with Azure DevOps, Microsoft Teams, and GitHub to automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
+  - _**Internal Agentic Tools**_ — built internal agentic AI tools that automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — incorporated **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment with minimal human intervention.
@@ -352,7 +369,6 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🎯 <strong>Claude Code Agents Monitoring Dashboard:</strong> <a href="https://github.com/hoangsonww/Claude-Code-Agent-Monitor">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🛠️ <strong>GitIntel MCP Server:</strong> <a href="https://github.com/hoangsonww/GitIntel-MCP-Server">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🛠️ <strong>Daily AI News Briefing Workflow:</strong> <a href="https://github.com/hoangsonww/AI-News-Briefing">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 ### 📊 Data Analytics & Data Science Projects
@@ -433,7 +449,7 @@ Some projects of mine also include VS Code extensions. Here are some of them:
 - 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
 - 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
 
-More projects can be found in my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories).** You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
 
 </details>
 
