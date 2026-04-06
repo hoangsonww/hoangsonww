@@ -133,7 +133,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/LangGraph-purple?logo=langgraph&logoColor=white" alt="LangGraph"></li>
     <li><img src="https://img.shields.io/badge/LangSmith-111111?logo=langflow&logoColor=white" alt="LangSmith"></li>
     <li><img src="https://img.shields.io/badge/CrewAI-blue?logo=crewai&logoColor=white" alt="CrewAI"></li>
-    <li><img src="https://img.shields.io/badge/Fireworks%20AI-FF6B35" alt="Fireworks AI"></li>
+    <li><img src="https://img.shields.io/badge/Fireworks%20AI-FF6B35?logo=pinetwork&logoColor=white" alt="Fireworks AI"></li>
     <li><img src="https://img.shields.io/badge/FAISS-blue?logo=meta&logoColor=white" alt="FAISS"></li>
     <li><img src="https://img.shields.io/badge/Pinecone-orange?logo=googledataproc&logoColor=white" alt="Pinecone"></li>
     <li><img src="https://img.shields.io/badge/Optuna-purple?logo=openaigym&logoColor=white" alt="Optuna"></li>
@@ -227,7 +227,28 @@ A brief overview of the skills and knowledge that I have acquired over the years
 </details>
 
 <details>
-<summary><strong>🚀 DevOps & Tools</strong></summary>
+<summary><strong>☁️ Cloud & Infrastructure</strong></summary>
+
+<ul>
+    <li><img src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-orange?logo=task&logoColor=white" alt="Amazon Web Services (AWS)"></li>
+    <li><img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-blue?logo=googlecloud&logoColor=white" alt="Google Cloud Platform (GCP)"></li>
+    <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=micropython&logoColor=white" alt="Microsoft Azure"></li>
+    <li><img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-C74634?logo=circle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)"></li>
+    <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
+    <li><img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white" alt="Podman"></li>
+    <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
+    <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
+    <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
+    <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
+    <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
+    <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
+    <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
+</ul>
+
+</details>
+
+<details>
+<summary><strong>🚀 CI/CD, Observability & Tools</strong></summary>
 
 <ul>
     <li><img src="https://img.shields.io/badge/Git-orange?logo=git&logoColor=white" alt="Git"></li>
@@ -236,25 +257,15 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Travis%20CI-3EAAAF?logo=travisci&logoColor=white" alt="Travis CI"></li>
     <li><img src="https://img.shields.io/badge/Jenkins-blue?logo=jenkins&logoColor=white" alt="Jenkins"></li>
     <li><img src="https://img.shields.io/badge/Ansible-red?logo=ansible&logoColor=white" alt="Ansible"></li>
-    <li><img src="https://img.shields.io/badge/Docker-blue?logo=docker&logoColor=white" alt="Docker"></li>
-    <li><img src="https://img.shields.io/badge/Kubernetes%20(K8s)-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes (K8s)"></li>
-    <li><img src="https://img.shields.io/badge/Helm-0F1689?logo=helm&logoColor=white" alt="Helm"></li>
     <li><img src="https://img.shields.io/badge/Flux%20CD-5468FF?logo=flux&logoColor=white" alt="Flux CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20CD-EF7B4D?logo=argo&logoColor=white" alt="Argo CD"></li>
     <li><img src="https://img.shields.io/badge/Argo%20Rollouts-456787?logo=argo&logoColor=white" alt="Argo Rollouts"></li>
     <li><img src="https://img.shields.io/badge/Canary%20%26%20Blue--Green%20Deployments-16A34A?logo=googleanalytics&logoColor=white" alt="Canary & Blue-Green Deployments"></li>
-    <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
-    <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
-    <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
-    <li><img src="https://img.shields.io/badge/Amazon%20Web%20Services%20(AWS)-orange?logo=task&logoColor=white" alt="Amazon Web Services (AWS)"></li>
-    <li><img src="https://img.shields.io/badge/Google%20Cloud%20Platform%20(GCP)-blue?logo=googlecloud&logoColor=white" alt="Google Cloud Platform (GCP)"></li>
-    <li><img src="https://img.shields.io/badge/Microsoft%20Azure-blue?logo=micropython&logoColor=white" alt="Microsoft Azure"></li>
-    <li><img src="https://img.shields.io/badge/Oracle%20Cloud%20Infrastructure%20(OCI)-C74634?logo=circle&logoColor=white" alt="Oracle Cloud Infrastructure (OCI)"></li>
-    <li><img src="https://img.shields.io/badge/Terraform-623CE4?logo=terraform&logoColor=white" alt="Terraform"></li>
-    <li><img src="https://img.shields.io/badge/HashiCorp%20(Vault%2C%20Consul%2C%20Nomad)-999888?logo=hashicorp&logoColor=white" alt="HashiCorp (Vault, Consul, Nomad)"></li>
-    <li><img src="https://img.shields.io/badge/Podman-892CA0?logo=podman&logoColor=white" alt="Podman"></li>
     <li><img src="https://img.shields.io/badge/Prometheus-orange?logo=prometheus&logoColor=white" alt="Prometheus"></li>
     <li><img src="https://img.shields.io/badge/Grafana-F46800?logo=grafana&logoColor=white" alt="Grafana"></li>
+    <li><img src="https://img.shields.io/badge/Coralogix-5C4EE5?logo=diaspora&logoColor=white" alt="Coralogix"></li>
+    <li><img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk"></li>
+    <li><img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Datadog"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
     <li><img src="https://img.shields.io/badge/WSL-darkblue?logo=windsurf&logoColor=white" alt="WSL"></li>
     <li><img src="https://img.shields.io/badge/Jira%20&%20Confluence-blue?logo=jira&logoColor=white" alt="Jira & Confluence"></li>
