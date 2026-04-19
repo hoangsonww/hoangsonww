@@ -295,7 +295,6 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
 
 - 📚 **LexisNexis's**:
-  - _**Lexis+**_ — developed and maintained full-stack features for the legal research platform, including a RAG-powered chatbot with real-time document retrieval, a microservices-based architecture with secure APIs, and CI/CD pipelines for continuous delivery of new features and improvements.
   - _**Internal Agentic Tools**_ — built internal agentic AI tools that automate code generation, testing, and deployment workflows for the engineering teams, improving efficiency and reducing manual effort in the software development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — designed multi-agent workflows & agentic pipelines for code generation/evaluation with safety guardrails, telemetry, and CI/CD integration to ship reliable changes end-to-end.
