@@ -16,9 +16,13 @@
 
 ## Overview
 
-My name is **Son Nguyen**. I am a software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
+My name is **Son/David Nguyen**. I'm currently a full-time software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
-I previously worked as a **Software Engineer Intern** at **VNG Corporation (Summer 2023), FPT Corporation (Summer 2024), the Financial Risk Group | FRG (Summer 2025), and Toshiba (Fall 2025 - Spring 2026).** Currently, I'm engineering beautiful pieces of software _(especially Agentic AI)_ at **LexisNexis (since March 2026 - now).** 🚀
+**My Experiences:**
+
+- **Today** — **Software Engineer - Product** at **[Matroid, Inc.](https://www.matroid.com/)** _(since May 2026)_, I work on the company's core computer vision platform: full-stack product engineering plus AI/ML for detection, training, and deployment workflows. 🚀
+- **Recently** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
+- **Internships** — **Software Engineer Intern** roles at **[VNG Corporation](https://vng.com.vn)** (Summer 2023), **[FPT Corporation](https://www.fpt.com/)** (Summer 2024), **[Financial Risk Group (FRG)](https://www.frgrisk.com)** (Summer 2025), and **[Toshiba](https://commerce.toshiba.com)** (Fall 2025 – Spring 2026). 🎯
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
@@ -294,23 +298,26 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 <details id="professional-projects">
 <summary><strong>Professional Projects</strong></summary>
 
-Some of the professional projects that I have worked on, either during my previous internships or as a freelancer/contractor/research assistant:
+Some of the professional projects that I have worked on across full-time roles, internships, and freelance/contract/research work:
 
+- 🔬 **Matroid, Inc.'s**:
+  - _**Core Matroid Platform** – Flagship Computer Vision Product_ — working as a full-stack and AI/ML engineer on Matroid's core platform for building, training, and operating custom computer-vision detectors and related product workflows (current role, Product Engineering, since May 2026).
 - 📚 **LexisNexis's**:
   - _**Lexis+ AI** – Flagship AI-Powered Legal Research Platform_ — contributed full-stack features to Lexis+ AI (Angular + NgRx + Module Federation frontend with .NET/C# backend), working across the layered agent architecture spanning Ask Agent, Vault, Drafting, Legal Research, and Memory agents backed by Qdrant and DynamoDB.
   - _**SRE Production Guardian** – Autonomous Deployment & Incident Response Agent_ — built a LangGraph/CrewAI-based SRE agent that monitors blue-green and canary deployments on AWS ECS Fargate, auto-remediates or rolls back on failure, and escalates to human operators while maintaining SLI/SLO targets across Datadog, Splunk, and Coralogix.
   - _**Navigator** – Agentic Employee Onboarding Companion_ — designed an AI onboarding agent that proactively checks in with new hires, routes questions to the right person via a Graph RAG knowledge graph, and integrates with ServiceNow, Microsoft Graph, Confluence, Workday, and Teams.
   - _**Graph Context Knowledge System** – Org-Wide Knowledge Graph for Agents_ — built a Neo4j-backed organizational knowledge graph (people, teams, tools, processes, projects) with BM25 + semantic search to feed contextual grounding into Navigator, SRE Guardian, and other agentic initiatives across the company.
-  - _**Deployment Pipeline Orchestrator** – End-to-End MFE Onboarding & Deployment Agent_ — built a Claude Code plugin (37 MCP tools, 10 skills, 538 tests at 80% branch coverage) that takes a micro-frontend (MFE) from product request to production deployment. Replaces a fragmented 7-step, 4–6-tool manual workflow (GLITZ/ServiceNow, snikt CLI, Azure DevOps, Jenkins, AWS, GitHub) with a conversational intake + orchestrated API pipeline and human-in-loop checkpoints — cutting onboarding time from **~2 business days to ~3 minutes of active input + ~15–25 minutes of agent execution**.
+  - _**Deployment Pipeline Orchestrator** – End-to-End MFE Onboarding & Deployment Agent_ — built a Claude Code plugin (37 MCP tools, 10 skills) that takes a micro-frontend (MFE) from product request to production deployment. Replaces a fragmented 7-step, 4–6-tool manual workflow (GLITZ/ServiceNow, snikt CLI, Azure DevOps, Jenkins, AWS, GitHub) with a conversational intake + orchestrated API pipeline and human-in-loop checkpoints — cutting onboarding time from **~2 business days to ~3 minutes of active input + ~15–25 minutes of agent execution**.
+  - _**Tiger Engineering Plugin** – LexisNexis's First Internal Claude Code Marketplace Plugin_ — architected and shipped a 30-agent, 23-slash-command, 20-skill Claude Code plugin with a full MCP server that became the first plugin published to LexisNexis's internal Claude Code marketplace, along with the accompanying org-wide Plugin Distribution Strategy delivered to engineering leadership.
+  - _**Full SDLC Automation Chain** – Reg-Impact to CodeValidation Pipeline_ — built an end-to-end autonomous development pipeline spanning regulatory impact analysis, AzureBoard CLI integration, auto-implementation, and CodeValidation, eliminating the majority of manual engineering overhead across the development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — enhanced the internal agentic AI platform that now automates **~95% of the SDLC**, designing 4+ multi-agent workflows (Kafka, Redis, LangChain, Neo4j, Weaviate) for autonomous code generation, review, and evaluation with safety guardrails, telemetry, and CI/CD integration. Built a 6-task-type QA Agent (unit, integration, regression, smoke, API contract, E2E), a LangGraph + Weaviate RAG pipeline that improved retrieval accuracy by **30%**, a real-time admin stats dashboard with WebSocket monitoring, an AI cost analytics module for per-agent/per-model spend tracking, and multimodal LLM features (text + image + document).
   - _**ELERA® Commerce Platform** – Intelligent Retail Solutions Ecosystem_ — integrated the **Agentic Team's** autonomous agents into the SDLC of ELERA's microservices architecture, enabling automated feature development, testing, and deployment across retail/point-of-sale services with minimal human intervention.
 - 📊 **Financial Risk Group's** _**VOR (Visualization of Risk) Stream** Product_ — optimized the Angular/NgRx frontend and Django APIs of FRG's flagship risk-visualization platform (**20%** faster UI load times, **25%** more efficient queries via a custom Performance Analyzer), and built a RAG-powered, RLHF-tuned chatbot (FAISS + LangChain + LLaMA + Kafka) with real-time document streaming that improved answer accuracy by **20%**. Also shipped an AI Logs Explainer that cut incident analysis time by **70%** and strengthened quality with Playwright E2E tests integrated into an Ansible-driven CI/CD pipeline.
 - 🚀 **VNG Corporation's** _**vCloudcam** Camera Management System & Sale Websites_ — built multi-tenant management features and customer-facing sites with performant UIs, secure APIs, and analytics for device health and conversion tracking, and a low-latency camera streaming pipeline (with Red5, C++, and WebAssembly).
-- 📡 **FPT Corporation's** _**ICDP** Internal Communications Platform_ — implemented AI-powered chatbots, collaboration features, and real-time messaging with SSO, audit logging, and scalable backend services to support enterprise adoption.  
+- 📡 **FPT Corporation's** _**ICDP** Internal Communications Platform_ — implemented AI-powered chatbots, collaboration features, and real-time messaging with SSO, RBAC, audit logging, and scalable backend services to support enterprise adoption.  
 - 🏢 **UNC DHEP Lab's** _**AugMed**_ — full-stack React + Flask platform on AWS (ECR/ECS/ALB, RDS, S3) with PostgreSQL, Celery/Redis, and JWT for secure digital-health surveys and data workflows.  
 - 🦾 **UNC AIMING Lab’s** _**Foundation-Model Research**_ — trained LLMs/VLMs & diffusion models at scale, built multimodal RAG systems, improved robustness via adversarial training, and applied RL to robotics with measurable gains.  
-- 🌐 **Huong Hua Co., Ltd.'s** _**Company Website (English-version)**_ — delivered a fast, SEO-friendly marketing site with CMS-driven content, analytics, and accessibility best practices.
 - 🗂️ **Technical Consulting & Research (TCR)'s** _**Project & Client Tracker**_ — built a full-stack React + Flask platform with Auth0 RBAC, OAuth2/JWT auth, and CSRF/XSS protections, enabling staff to securely manage and track their projects and clients.
 
 </details>
@@ -380,11 +387,13 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🧠 Agentic AI Projects
 
 <ul>
+  <li>🧠 <strong>Forge - Agentic AI Coding Assistant:</strong> <a href="https://github.com/hoangsonww/Forge-Agentic-Coding-CLI">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🧠 <strong>Agentic RAG AI Platform:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>📊 <strong>Agentic RAG AI Platform:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🎯 <strong>Claude Code Agents Monitoring Dashboard:</strong> <a href="https://github.com/hoangsonww/Claude-Code-Agent-Monitor">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🛠️ <strong>GitIntel MCP Server:</strong> <a href="https://github.com/hoangsonww/GitIntel-MCP-Server">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>📰 <strong>Research Ops Agentic AI Pipeline:</strong> <a href="https://github.com/hoangsonww/AI-News-Briefing">Visit the <strong>GitHub repo</strong> here</a>.</li>
 </ul>
 
 ### 📊 Data Analytics & Data Science Projects
