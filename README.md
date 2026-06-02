@@ -395,7 +395,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
-  <li>🛡️ <strong>AegisVision - GPU-Native Computer Vision Platform:</strong> <a href="https://github.com/hoangsonww/AegisVision-Computer-Vision-System">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/AegisVision-Computer-Vision-System/">view the <strong>wiki</strong></a> — production-grade, forkable CV platform template (35 Go services, NVIDIA Triton, bounded-autonomy agents, Wilson-bound canary promotion, GitOps + air-gapped deploy).</li>
+  <li>🛡️ <strong>AegisVision - GPU-Native Computer Vision Platform:</strong> <a href="https://github.com/hoangsonww/AegisVision-Computer-Vision-System">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/AegisVision-Computer-Vision-System/">view the <strong>wiki </strong>here</a>.</li>
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
@@ -410,8 +410,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🧠 Agentic AI Projects
 
 <ul>
-  <li>🛡️ <strong>AegisVision - GPU-Native Computer Vision Platform:</strong> <a href="https://github.com/hoangsonww/AegisVision-Computer-Vision-System">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/AegisVision-Computer-Vision-System/">view the <strong>wiki</strong></a>.</li>
-  <li>🧠 <strong>Forge - Agentic AI Coding Assistant:</strong> <a href="https://github.com/hoangsonww/Forge-Agentic-Coding-CLI">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/">view the <strong>wiki</strong></a>.</li>
+  <li>🧠 <strong>Forge - Agentic AI Coding Assistant:</strong> <a href="https://github.com/hoangsonww/Forge-Agentic-Coding-CLI">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/">view the <strong>wiki</strong> here</a>.</li>
   <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📊 <strong>Agentic RAG AI Platform:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
