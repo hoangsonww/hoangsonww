@@ -91,6 +91,10 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Elasticsearch%20%26%20ELK--Stack-darkgreen?logo=elasticsearch&logoColor=white" alt="Elasticsearch & the ELK-Stack"></li>
     <li><img src="https://img.shields.io/badge/OpenAPI-blue?logo=openapiinitiative&logoColor=white" alt="OpenAPI"></li>
     <li><img src="https://img.shields.io/badge/Micro--Services%20Architecture-darkgreen?logo=stackedit&logoColor=white" alt="Micro-Services Architecture"></li>
+    <li><img src="https://img.shields.io/badge/NATS%20%26%20JetStream-27AAE1?logo=natsdotio&logoColor=white" alt="NATS & JetStream"></li>
+    <li><img src="https://img.shields.io/badge/Temporal-000000?logo=temporal&logoColor=white" alt="Temporal"></li>
+    <li><img src="https://img.shields.io/badge/WebRTC-333333?logo=webrtc&logoColor=white" alt="WebRTC"></li>
+    <li><img src="https://img.shields.io/badge/RTSP-555555?logo=protocolsdotio&logoColor=white" alt="RTSP"></li>
 </ul>
 
 </details>
@@ -149,6 +153,10 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/ONNX-005CED?logo=onnx&logoColor=white" alt="ONNX"></li>
     <li><img src="https://img.shields.io/badge/XGBoost-EC7A08?logo=arxiv&logoColor=white" alt="XGBoost"></li>
     <li><img src="https://img.shields.io/badge/Google%20Colab-blue?logo=googlecolab&logoColor=white" alt="Google Colab"></li>
+    <li><img src="https://img.shields.io/badge/NVIDIA%20Triton%20Inference%20Server-76B900?logo=nvidia&logoColor=white" alt="NVIDIA Triton Inference Server"></li>
+    <li><img src="https://img.shields.io/badge/NVIDIA%20DeepStream-76B900?logo=nvidia&logoColor=white" alt="NVIDIA DeepStream"></li>
+    <li><img src="https://img.shields.io/badge/TensorRT-76B900?logo=nvidia&logoColor=white" alt="TensorRT"></li>
+    <li><img src="https://img.shields.io/badge/vLLM-0F766E?logo=v&logoColor=white" alt="vLLM"></li>
 </ul>
 
 </details>
@@ -172,6 +180,8 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Redis-red?logo=redis&logoColor=white" alt="Redis"></li>
     <li><img src="https://img.shields.io/badge/Oracle%20Database-red?logo=circle&logoColor=white" alt="Oracle Database"></li>
     <li><img src="https://img.shields.io/badge/Amazon%20DynamoDB-darkblue?logo=databricks&logoColor=white" alt="Amazon DynamoDB"></li>
+    <li><img src="https://img.shields.io/badge/ClickHouse-FFCC01?logo=clickhouse&logoColor=black" alt="ClickHouse"></li>
+    <li><img src="https://img.shields.io/badge/pgvector-4169E1?logo=postgresql&logoColor=white" alt="pgvector"></li>
 </ul>
 
 </details>
@@ -194,8 +204,10 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Go-blue?logo=go&logoColor=white" alt="Go"></li>
     <li><img src="https://img.shields.io/badge/Kotlin-purple?logo=kotlin&logoColor=white" alt="Kotlin"></li>
     <li><img src="https://img.shields.io/badge/Swift-orange?logo=swift&logoColor=white" alt="Swift"></li>
+    <li><img src="https://img.shields.io/badge/SQL-4479A1?logo=postgresql&logoColor=white" alt="SQL"></li>
     <li><img src="https://img.shields.io/badge/Shell-black?logo=gnu-bash&logoColor=white" alt="Shell"></li>
     <li><img src="https://img.shields.io/badge/Makefile-darkblue?logo=gnu&logoColor=white" alt="Makefile"></li>
+    <li><img src="https://img.shields.io/badge/Objective--C-blue?logo=apple&logoColor=white" alt="Objective-C"></li>
 </ul>
 
 </details>
@@ -249,6 +261,11 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
+    <li><img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white" alt="Istio"></li>
+    <li><img src="https://img.shields.io/badge/k3s-FFC61C?logo=k3s&logoColor=black" alt="k3s"></li>
+    <li><img src="https://img.shields.io/badge/KEDA-FF6B35?logo=kubernetes&logoColor=white" alt="KEDA"></li>
+    <li><img src="https://img.shields.io/badge/OPA%20(Open%20Policy%20Agent)-00CEC4?logo=open3d&logoColor=white" alt="OPA (Open Policy Agent)"></li>
+    <li><img src="https://img.shields.io/badge/Kyverno-326CE5?logo=kubernetes&logoColor=white" alt="Kyverno"></li>
 </ul>
 
 </details>
@@ -272,6 +289,11 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Coralogix-5C4EE5?logo=diaspora&logoColor=white" alt="Coralogix"></li>
     <li><img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk"></li>
     <li><img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Datadog"></li>
+    <li><img src="https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white" alt="OpenTelemetry"></li>
+    <li><img src="https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white" alt="Loki"></li>
+    <li><img src="https://img.shields.io/badge/Tempo-F46800?logo=grafana&logoColor=white" alt="Tempo"></li>
+    <li><img src="https://img.shields.io/badge/Buf-231F20?logo=buffer&logoColor=white" alt="Buf"></li>
+    <li><img src="https://img.shields.io/badge/Cosign%20%26%20Sigstore-4285F4?logo=persistent&logoColor=white" alt="Cosign & Sigstore"></li>
     <li><img src="https://img.shields.io/badge/Linux-black?logo=linux&logoColor=white" alt="Linux"></li>
     <li><img src="https://img.shields.io/badge/WSL-darkblue?logo=windsurf&logoColor=white" alt="WSL"></li>
     <li><img src="https://img.shields.io/badge/Jira%20&%20Confluence-blue?logo=jira&logoColor=white" alt="Jira & Confluence"></li>
@@ -373,6 +395,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 
 ### 🤖 AI/ML Projects
 <ul>
+  <li>🛡️ <strong>AegisVision - GPU-Native Computer Vision Platform:</strong> <a href="https://github.com/hoangsonww/AegisVision-Computer-Vision-System">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/AegisVision-Computer-Vision-System/">view the <strong>wiki </strong>here</a>.</li>
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
@@ -387,7 +410,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
 ### 🧠 Agentic AI Projects
 
 <ul>
-  <li>🧠 <strong>Forge - Agentic AI Coding Assistant:</strong> <a href="https://github.com/hoangsonww/Forge-Agentic-Coding-CLI">Visit the <strong>GitHub repo</strong> here</a>.</li>
+  <li>🧠 <strong>Forge - Agentic AI Coding Assistant:</strong> <a href="https://github.com/hoangsonww/Forge-Agentic-Coding-CLI">Visit the <strong>GitHub repo</strong> here</a> or <a href="https://hoangsonww.github.io/Forge-Agentic-Coding-CLI/">view the <strong>wiki</strong> here</a>.</li>
   <li>🤖 <strong>Research Outreach Agentic AI:</strong> <a href="https://github.com/hoangsonww/Agentic-AI-Pipeline">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📊 <strong>Agentic RAG AI Platform:</strong> <a href="https://github.com/hoangsonww/RAG-LangChain-AI-System">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🚀 <strong>AI Coding Agents Orchestrator:</strong> <a href="https://github.com/hoangsonww/AI-Agents-Orchestrator">Visit the <strong>GitHub repo</strong> here</a>.</li>
