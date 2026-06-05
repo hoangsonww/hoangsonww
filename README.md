@@ -376,13 +376,13 @@ These are some of the web development projects that I have worked on over the ye
   - 🪐 **DevVerse SWE Next.js Blog**: [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/DevVerse-SWE-Blog) or [visit the **live** **website** here](https://devverse-swe.vercel.app/).
   - 🐱 **The Pokedex Database:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Pokedex-Database) or [visit the **live** **website** here](https://pokedex-db.vercel.app/).
   - 👯‍♂️ **Meadows Gen-Z Social Media:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Meadows-Social-Media) or [visit the **live** **website** here](https://meadows.vercel.app/).
+  - 🏰 **The Maze Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game) or [play the **live** **game** here](https://the-maze-game.onrender.com/).
   - 🎯 **PuzzleForge Game Hub:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/PuzzleForge-Game-Hub) or [visit the **live** **website** here](https://puzzlesforge.vercel.app/).
-  - 🧮 **NuCalc Calculator App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App) or [visit the **live** **website** here](https://nucalc-app.vercel.app/).
   - 🍲 **PantryPal Streamlit App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/PantryPal-Streamlit-App) or [visit the **live** **website** here](https://pantrypal-app.streamlit.app).
   - 📝 **The StickyNotes App:** [Visit the **live** **website** here](https://stickynotes-app.onrender.com/).
   - ☔ **The WeatherMate App:** [Visit the **live** **website** here](https://the-weathermate-app.vercel.app/).
   - 🧑‍🍳 **The RecipeGenie App:** [Visit the **live** **website** here](https://recipe-genie.netlify.app/).
-  - 🏰 **The Maze Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-Maze-Game) or [visit the **live** **website** here](https://the-maze-game.onrender.com/).
+  - 🧮 **NuCalc Calculator App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/NuCalc-Calculator-App) or [visit the **live** **website** here](https://nucalc-app.vercel.app/).
   - 🎨 **Image & Video Tools:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Image-Video-Tools/) or [visit the **live** **website** here](https://image-video-tools.onrender.com/).
   - 🧑‍💻 **The GitPeek App:** [Visit the **live** **website** here](https://gitpeek-app.netlify.app/).
 
