@@ -370,6 +370,7 @@ These are some of the web development projects that I have worked on over the ye
   - 🎯 **Flowlist - Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack) or [visit the **live** **website** here](https://flowlist-app.vercel.app).
   - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App) or [visit the **live** **website** here](https://study-sync-app.vercel.app).
   - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) or [visit the **live** **website** here](https://fusion-ecommerce-app.vercel.app/).
+  - 🧑‍💻 **Lumina RAG-Powered AI Chatbot:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot) or [visit the **live** **website** here](https://lumina-david.vercel.app).
   - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit the **live** **website** here](https://mermaidgenie.vercel.app).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit the **live** **website** here](https://learning-manangement-system.vercel.app).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
@@ -403,7 +404,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a>.</li>
+  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://lumina-david.vercel.app">visit the <strong>live website</strong> here</a>.</li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a>.</li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
