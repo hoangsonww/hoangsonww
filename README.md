@@ -43,6 +43,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white" alt="Vue.js"></li>
     <li><img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt"></li>
     <li><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></li>
+    <li><img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js"></li>
+    <li><img src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?logo=reactos&logoColor=61DAFB" alt="React Three Fiber"></li>
+    <li><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" alt="WebGL"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
@@ -50,6 +53,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white" alt="PostCSS"></li>
     <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
     <li><img src="https://img.shields.io/badge/MaterialUI%20%26%20JoyUI-blueviolet?logo=mui&logoColor=white" alt="MUI and JoyUI Badge"></li>
+    <li><img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white" alt="Ant Design"></li>
     <li><img src="https://img.shields.io/badge/Shadcn%20UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI"></li>
     <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
