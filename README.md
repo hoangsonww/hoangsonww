@@ -43,6 +43,9 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vue.js-darkgreen?logo=vue.js&logoColor=white" alt="Vue.js"></li>
     <li><img src="https://img.shields.io/badge/Nuxt-00DC82?logo=nuxt&logoColor=white" alt="Nuxt"></li>
     <li><img src="https://img.shields.io/badge/Next.js-black?logo=next.js&logoColor=white" alt="Next.js"></li>
+    <li><img src="https://img.shields.io/badge/Three.js-000000?logo=threedotjs&logoColor=white" alt="Three.js"></li>
+    <li><img src="https://img.shields.io/badge/React%20Three%20Fiber-20232A?logo=reactos&logoColor=61DAFB" alt="React Three Fiber"></li>
+    <li><img src="https://img.shields.io/badge/WebGL-990000?logo=webgl&logoColor=white" alt="WebGL"></li>
     <li><img src="https://img.shields.io/badge/WebAssembly-purple?logo=webassembly&logoColor=white" alt="WebAssembly"></li>
     <li><img src="https://img.shields.io/badge/Bootstrap-blueviolet?logo=bootstrap&logoColor=white" alt="Bootstrap"></li>
     <li><img src="https://img.shields.io/badge/jQuery-blue?logo=jquery&logoColor=white" alt="jQuery"></li>
@@ -50,6 +53,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/PostCSS-DD3A0A?logo=postcss&logoColor=white" alt="PostCSS"></li>
     <li><img src="https://img.shields.io/badge/Streamlit-orange?logo=streamlit&logoColor=white" alt="Streamlit"></li>
     <li><img src="https://img.shields.io/badge/MaterialUI%20%26%20JoyUI-blueviolet?logo=mui&logoColor=white" alt="MUI and JoyUI Badge"></li>
+    <li><img src="https://img.shields.io/badge/Ant%20Design-0170FE?logo=antdesign&logoColor=white" alt="Ant Design"></li>
     <li><img src="https://img.shields.io/badge/Shadcn%20UI-black?logo=shadcnui&logoColor=white" alt="Shadcn UI"></li>
     <li><img src="https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white" alt="Electron"></li>
     <li><img src="https://img.shields.io/badge/Webpack-skyblue?logo=webpack&logoColor=white" alt="Webpack"></li>
@@ -366,6 +370,7 @@ These are some of the web development projects that I have worked on over the ye
   - 🎯 **Flowlist - Next.js Full-Stack ToDo List App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/ToDo-App-NextJS-Fullstack) or [visit the **live** **website** here](https://flowlist-app.vercel.app).
   - 🎓 **StudySync Vue-Express Study Buddy:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/StudySync-Study-Buddy-App) or [visit the **live** **website** here](https://study-sync-app.vercel.app).
   - 🛒 **MERN-Stack E-commerce Application:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MERN-Stack-Ecommerce-App) or [visit the **live** **website** here](https://fusion-ecommerce-app.vercel.app/).
+  - 🧑‍💻 **Lumina RAG-Powered AI Chatbot:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot) or [visit the **live** **website** here](https://lumina-david.vercel.app).
   - 🗺️ **MermaidGenie AI-Powered Diagram Generator:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MermaidGenie-UML-Diagram-App) or [visit the **live** **website** here](https://mermaidgenie.vercel.app).
   - 📚 **Learning Management System (LMS) Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Learning-Management-System-Fullstack) or [visit the **live** **website** here](https://learning-manangement-system.vercel.app).
   - 🗒️ **CollabNote Supabase, Next.js & NestJS Full-Stack App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/CollabNote-Fullstack-App).
@@ -399,7 +404,7 @@ Data Science and AI/ML are also an important part of my skillset! Here are some 
   <li>🦾 <strong>Spot the Scam - AI-Powered Job Scam Detection:</strong> <a href="https://github.com/hoangsonww/Spot-the-Scam-AI-Job-Fraud">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>📹 <strong>YouTube Success Predictor ML Platform:</strong> <a href="https://github.com/hoangsonww/YouTube-Success-Prediction-ML">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>🌆 <strong>AI/ML Classifiers:</strong> <a href="https://github.com/hoangsonww/AI-ML-Classifiers">Visit the <strong>GitHub repo</strong> here</a>.</li>
-  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://lumina-david.vercel.app">Visit the <strong>live website</strong> here</a>.</li>
+  <li>🧑‍💻 <strong>Lumina RAG-Powered AI Chatbot:</strong> <a href="https://github.com/hoangsonww/AI-RAG-Assistant-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://lumina-david.vercel.app">visit the <strong>live website</strong> here</a>.</li>
   <li>🏠 <strong>EstateWise Real Estate Chatbot:</strong> <a href="https://github.com/hoangsonww/EstateWise-Chapel-Hill-Chatbot">Visit its <strong>GitHub repo</strong> here</a> or <a href="https://estatewise.vercel.app">visit the <strong>live website</strong> here</a>.</li>
   <li>💨 <strong>Customizable AI Chatbot:</strong> <a href="https://github.com/hoangsonww/Customizable-AI-Chatbot">Visit the <strong>GitHub repo</strong> here</a>.</li>
   <li>💸 <strong>FRED Economics Data Analysis:</strong> <a href="https://github.com/hoangsonww/FRED-Banking-Data-Analysis">Visit the <strong>GitHub repo</strong> here</a>.</li>
@@ -579,7 +584,7 @@ More details can be found on my **[LinkedIn profile](https://www.linkedin.com/in
 
 ## My GitHub Stats
 
-My GitHub stats showcase my enthusiasm for coding, along with my dedication to continuous learning and contributing to the open-source community. Here are some of the highlights:
+Showcases my enthusiasm for coding, along with my dedication to continuous learning and contributing to the open-source community 🌟
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
@@ -613,7 +618,6 @@ My GitHub stats showcase my enthusiasm for coding, along with my dedication to c
 
 <ul>
   <li><a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">Portfolio Website - sonnguyenhoang.com</a></li>
-  <li><a href="https://lumina-david.vercel.app" target="_blank" rel="noopener noreferrer">Lumina AI Personal Assistant</a></li>
   <li><a href="https://www.linkedin.com/in/hoangsonw/" target="_blank" rel="noopener noreferrer">LinkedIn</a></li>
   <li><a href="mailto:hoangson091104@gmail.com">Email</a></li>
   <li><a href="https://www.researchgate.net/profile/Son-Nguyen-386" target="_blank" rel="noopener noreferrer">ResearchGate</a></li>
