@@ -583,7 +583,7 @@ More details can be found on my **[LinkedIn profile](https://www.linkedin.com/in
 
 ## My GitHub Stats
 
-My GitHub stats showcase my enthusiasm for coding, along with my dedication to continuous learning and contributing to the open-source community. Here are some of the highlights:
+Showcases my enthusiasm for coding, along with my dedication to continuous learning and contributing to the open-source community 🌟
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
