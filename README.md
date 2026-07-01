@@ -587,26 +587,38 @@ Showcases my enthusiasm for coding, along with my dedication to continuous learn
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=hoangsonww&theme=radical" alt="Son Nguyen's GitHub Streak" />
+    <img src="https://streak-stats.demolab.com/?user=hoangsonww&theme=radical" alt="Son Nguyen's GitHub Streak" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-profile-trophy.vercel.app/?username=hoangsonww&theme=radical&column=3&row=2&margin-w=15&margin-h=15" alt="Son Nguyen's GitHub Trophies" />
+    <img src="https://github-profile-trophy-eight.vercel.app/?username=hoangsonww&theme=radical&column=4&row=2&margin-w=15&margin-h=15" alt="Son Nguyen's GitHub Trophies" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hoangsonww&layout=compact&theme=radical&langs_count=20" alt="Son Nguyen's Most Used Languages" />
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hoangsonww&theme=radical&langs_count=12" alt="Son Nguyen's Most Used Languages" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://sonnguyenhoang.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Son Nguyen's GitHub Stats" />
+    <img src="https://github-contribution-stats.vercel.app/api/?username=hoangsonww&theme=radical&layout=compact" alt="Son Nguyen's GitHub Contributions" />
   </a>
+</p>
+
+<p align="center">
+  <sub>
+    <details>
+      <summary>ℹ️ &nbsp;A card above not loading?</summary>
+      <br />
+      These stat cards are rendered on demand by free, third-party services. When one of them is
+      rate-limited or temporarily down, its image may fail to load — that's on the upstream service,
+      not this profile. A refresh usually brings it back. 🙂
+    </details>
+  </sub>
 </p>
 
 
