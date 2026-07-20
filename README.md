@@ -293,6 +293,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Coralogix-5C4EE5?logo=diaspora&logoColor=white" alt="Coralogix"></li>
     <li><img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white" alt="Splunk"></li>
     <li><img src="https://img.shields.io/badge/Datadog-632CA6?logo=datadog&logoColor=white" alt="Datadog"></li>
+    <li><img src="https://img.shields.io/badge/Sentry-362D59?logo=sentry&logoColor=white" alt="Sentry"></li>
     <li><img src="https://img.shields.io/badge/OpenTelemetry-000000?logo=opentelemetry&logoColor=white" alt="OpenTelemetry"></li>
     <li><img src="https://img.shields.io/badge/Loki-F46800?logo=grafana&logoColor=white" alt="Loki"></li>
     <li><img src="https://img.shields.io/badge/Tempo-F46800?logo=grafana&logoColor=white" alt="Tempo"></li>
