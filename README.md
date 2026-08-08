@@ -16,12 +16,13 @@
 
 ## Overview
 
-My name is **Son/David Nguyen**. I'm currently a full-time software engineer and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
+My name is **Son/David Nguyen**. I'm currently a full-time **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** in San Jose, CA, and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
 **My Experiences:**
 
-- **Today** — **Software Engineer - Product** at **[Matroid, Inc.](https://www.matroid.com/)** _(since May 2026)_, I work on the company's core computer vision platform: full-stack product engineering plus AI/ML for detection, training, and deployment workflows. 🚀
-- **Recently** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
+- **Today** — **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** _(since July 2026)_, San Jose, CA — building and operating large-scale infrastructure and reliability systems for production services. 🚀
+- **Recently** — **Software Engineer - Product** at **[Matroid, Inc.](https://www.matroid.com/)** _(Summer 2026)_, shipping computer-vision product features, agentic AI workflows, vision-language detectors, and platform integrations on Matroid's flagship CV platform. 👁️
+- **Previously** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
 - **Internships** — **Software Engineer Intern** roles at **[VNG Corporation](https://vng.com.vn)** (Summer 2023), **[FPT Corporation](https://www.fpt.com/)** (Summer 2024), **[Financial Risk Group (FRG)](https://www.frgrisk.com)** (Summer 2025), and **[Toshiba](https://commerce.toshiba.com)** (Fall 2025 – Spring 2026). 🎯
 
 I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
@@ -81,9 +82,13 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/GraphQL-magenta?logo=graphql&logoColor=white" alt="GraphQL"></li>
     <li><img src="https://img.shields.io/badge/tRPC-2596BE?logo=trpc&logoColor=white" alt="tRPC"></li>
     <li><img src="https://img.shields.io/badge/gRPC%20%26%20Protocol%20Buffers-4285F4?logo=grocy&logoColor=white" alt="gRPC & Protocol Buffers"></li>
+    <li><img src="https://img.shields.io/badge/Kitex-00ADD8?logo=kimi&logoColor=white" alt="Kitex"></li>
+    <li><img src="https://img.shields.io/badge/Apache%20Thrift-D22128?logo=ethereum&logoColor=white" alt="Apache Thrift"></li>
+    <li><img src="https://img.shields.io/badge/Hertz-0D9488?logo=hetzner&logoColor=white" alt="Hertz"></li>
     <li><img src="https://img.shields.io/badge/WebSockets-yellow?logo=socketdotio&logoColor=white" alt="WebSockets"></li>
     <li><img src="https://img.shields.io/badge/Server--Sent%20Events%20(SSE)-0EA5E9?logo=serverless&logoColor=white" alt="Server-Sent Events (SSE)"></li>
     <li><img src="https://img.shields.io/badge/RabbitMQ-orange?logo=rabbitmq&logoColor=white" alt="RabbitMQ"></li>
+    <li><img src="https://img.shields.io/badge/BullMQ-D32F2F?logo=apacherocketmq&logoColor=white" alt="BullMQ"></li>
     <li><img src="https://img.shields.io/badge/Nginx-darkgreen?logo=nginx&logoColor=white" alt="Nginx"></li>
     <li><img src="https://img.shields.io/badge/Hibernate-purple?logo=hibernate&logoColor=white" alt="Hibernate"></li>
     <li><img src="https://img.shields.io/badge/TypeORM-blue?logo=typeorm&logoColor=white" alt="TypeORM"></li>
@@ -326,8 +331,10 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on across full-time roles, internships, and freelance/contract/research work:
 
+- 🎵 **TikTok's**:
+  - _**Infrastructure & Reliability** – TikTok/ByteDance Video and Edge Global Infrastructure_ — currently building and operating large-scale infrastructure and reliability systems that keep TikTok and ByteDance's production services healthy, observable, and resilient.
 - 🔬 **Matroid, Inc.'s**:
-  - _**Core Matroid Platform** – Flagship Computer Vision Product_ — working as a full-stack and AI/ML engineer on Matroid's core platform for building, training, and operating custom computer-vision detectors and related product workflows (current role, Product Engineering, since May 2026).
+  - _**Core Matroid Platform** – Flagship Computer Vision Product_ — shipped full-stack product features on Matroid's platform for building, training, and deploying custom computer-vision detectors, including agentic AI workflows, vision-language detectors, automated annotation, video search/try-out experiences, and an MCP server for AI-assistant integrations.
 - 📚 **LexisNexis's**:
   - _**Lexis+ AI** – Flagship AI-Powered Legal Research Platform_ — contributed full-stack features to Lexis+ AI (Angular + NgRx + Module Federation frontend with .NET/C# backend), working across the layered agent architecture spanning Ask Agent, Vault, Drafting, Legal Research, and Memory agents backed by Qdrant and DynamoDB.
   - _**SRE Production Guardian** – Autonomous Deployment & Incident Response Agent_ — built a LangGraph/CrewAI-based SRE agent that monitors blue-green and canary deployments on AWS ECS Fargate, auto-remediates or rolls back on failure, and escalates to human operators while maintaining SLI/SLO targets across Datadog, Splunk, and Coralogix.
