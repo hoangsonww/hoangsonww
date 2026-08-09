@@ -370,6 +370,7 @@ These are some of the web development projects that I have worked on over the ye
   - 💊 **SymptomSync Health Manager:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/SymptomSync-Health-App) or [visit the **live** **website** here](https://symptomsync.vercel.app).
   - 💸 **WealthWise Personal Finance App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/WealthWise-Finance-Tracker) or [visit the **live** **website** here](https://wealthwisefinancial.vercel.app).
   - 🧰 **Collabify Project Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Collabify-Project-Manager) or [visit the **live** **website** here](https://collabify-pm.vercel.app).
+  - 🧵 **Threadline Real-Time Collaboration Workspace:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Threadline-RealTime-Collab) or [visit the **live** **website** here](https://threadline-rtc.vercel.app).
   - 🍿 **The MovieVerse Database:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/The-MovieVerse-Database) or [visit the **live** **website** here](https://movie-verse.com).
   - 🥁 **MetaWave MP3 Editor & Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/MetaWave-MP3-App) or [visit the **live** **website** here](https://metawave.vercel.app).
   - 📦 **Boxed Inventory Management App:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Boxed-Inventory-App) or [visit the **live** **website** here](https://boxed-app.vercel.app).
@@ -481,13 +482,14 @@ Not quite my main focus, but I have also worked on a number of mobile applicatio
 
 Some other cool projects that I have worked on over the years. These include JavaFX games, C shell implementations, and software design patterns:
 
+- 📡 **Post Analyzer Webserver - Enterprise-Grade Go Microservices Platform:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🗂️ **LatticeDB - A Next-Gen Database Management System (DBMS):** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/LatticeDB-NextGen-DBMS).
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
+- 📚 **Library Management Backend - Layered Go REST API:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Library-Management-Backend).
 - 🚀 **Budget Management Comprehensive Backend API:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Budget-Management-Backend-API). 
 - ⚙️ **ReproVM Virtual Machine:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ReproVM-Virtual-Machine).
 - 🔐 **ShadowVault Decentralized Backup Agent:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/ShadowVault-Decentralized-Backup-Agent).
 - 🚔 **Passwordless Authentication Server:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Passwordless-Auth-Rust).
-- 📡 **Golang Post Analyzer Webserver:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🎮 **JavaFX 2048 Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Game-2048-JavaFX).
 - 🧩 **JavaFX Akari Puzzle Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Akari-Puzzle-Game-JavaFX).
 - 👾 **JavaFX Space Invaders Game:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Space-Invader-Game-JavaFX).
