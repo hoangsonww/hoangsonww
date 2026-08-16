@@ -20,7 +20,7 @@ My name is **Son/David Nguyen**. I'm currently a full-time **Software Engineer -
 
 **My Experiences:**
 
-- **Today** — **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** _(since July 2026)_, San Jose, CA — building and operating large-scale infrastructure and reliability systems for production services. 🚀
+- **Today** — **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** _(since July 2026)_, building and operating large-scale infrastructure and reliability/compliance systems for TikTok/ByteDance's production services. 🚀
 - **Recently** — **Software Engineer - Product** at **[Matroid, Inc.](https://www.matroid.com/)** _(Summer 2026)_, shipping computer-vision product features, agentic AI workflows, vision-language detectors, and platform integrations on Matroid's flagship CV platform. 👁️
 - **Previously** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
 - **Internships** — **Software Engineer Intern** roles at **[VNG Corporation](https://vng.com.vn)** (Summer 2023), **[FPT Corporation](https://www.fpt.com/)** (Summer 2024), **[Financial Risk Group (FRG)](https://www.frgrisk.com)** (Summer 2025), and **[Toshiba](https://commerce.toshiba.com)** (Fall 2025 – Spring 2026). 🎯
@@ -483,6 +483,7 @@ Not quite my main focus, but I have also worked on a number of mobile applicatio
 Some other cool projects that I have worked on over the years. These include JavaFX games, C shell implementations, and software design patterns:
 
 - 📡 **Post Analyzer Webserver - Enterprise-Grade Go Microservices Platform:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
+- 🛡️ **AegisVision - GPU-Native Computer Vision Platform:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AegisVision-Computer-Vision-System) or [view the **wiki** here](https://hoangsonww.github.io/AegisVision-Computer-Vision-System/).
 - 🗂️ **LatticeDB - A Next-Gen Database Management System (DBMS):** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/LatticeDB-NextGen-DBMS).
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
 - 📚 **Library Management Backend - Layered Go REST API:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Library-Management-Backend).
