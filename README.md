@@ -512,7 +512,7 @@ Some projects of mine also include VS Code extensions. Here are some of them:
 - 📕 **DocuThinker VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.docuthinker-viewer).
 - 🤖 **EstateWise VS Code Extension:** [VS Code Marketplace](https://marketplace.visualstudio.com/items?itemName=hoangsonw.estatewise-chat).
 
-More projects can be found in my [GitHub repositories](https://github.com/hoangsonww?tab=repositories). You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills.
+More projects can be found in my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories)**. You can also check out my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)** for more information about my projects and skills. Aside from the projects, I also have a number of research papers and publications that I have worked on over the years, which you can find on my **[ResearchGate profile](https://www.researchgate.net/profile/Son-Nguyen-386)**. 📖
 
 </details>
 
@@ -590,7 +590,7 @@ Here are some of the professional certificates that I have earned over the years
 - **Leadership and Communication** - Harvard University
 </details>
 
-More details can be found on my **[LinkedIn profile](https://www.linkedin.com/in/hoangsonw/)**!
+More details can be found on my **[LinkedIn profile](https://www.linkedin.com/in/hoangsonw/)** and my **[portfolio website](https://sonnguyenhoang.com)**.
 
 ## My GitHub Stats
 
