@@ -16,7 +16,7 @@
 
 ## Overview
 
-My name is **Son/David Nguyen**. I'm currently a full-time **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** in San Jose, CA, and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
+My name is **Son (David) Nguyen**. I'm currently a full-time **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** in San Jose, CA, and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
 **My Experiences:**
 
