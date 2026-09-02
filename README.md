@@ -471,9 +471,9 @@ I have also worked on a number of open-source libraries and packages that are av
 Not quite my main focus, but I have also worked on a number of mobile applications over the years. Here are some of them:
 
 - 🔍 **Diffuse - Local-First Device History:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Diffuse-Native-Apps) or [view the **wiki** here](https://hoangsonww.github.io/Diffuse-Native-Apps/). Five native apps — macOS, iOS, iPadOS, watchOS, and Android.
+- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **web** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 - 📱 **React Native TaskNexus Task Manager App:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Task-Manager-ReactNative).
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
-- 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **web** version of this game, which you can visit [here](https://the-2048.netlify.app/).
 
 > Many other web development projects that I have worked on also feature mobile versions built with Apache Cordova or React Native, such as [The MovieVerse Mobile](https://github.com/hoangsonww/The-MovieVerse-Database/tree/main/MovieVerse-Mobile), [RecipeGenie Mobile](https://github.com/hoangsonww/RecipeGenie-App/tree/main/RecipeGenie-Mobile), and [Moodify Mobile](https://github.com/hoangsonww/Moodify-Emotion-Music-App/tree/master/mobile). Feel free to check them out! 📱
 
