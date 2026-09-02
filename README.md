@@ -486,6 +486,7 @@ Some other cool projects that I have worked on over the years. These include Jav
 
 - 📡 **Post Analyzer Webserver - Enterprise-Grade Go Microservices Platform:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Post-Analyzer-Webserver).
 - 🛡️ **AegisVision - GPU-Native Computer Vision Platform:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/AegisVision-Computer-Vision-System) or [view the **wiki** here](https://hoangsonww.github.io/AegisVision-Computer-Vision-System/).
+- 🔍 **Diffuse - Local-First Device History:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Diffuse-Native-Apps) or [view the **wiki** here](https://hoangsonww.github.io/Diffuse-Native-Apps/). Five native apps — macOS, iOS, iPadOS, watchOS, and Android.
 - 🗂️ **LatticeDB - A Next-Gen Database Management System (DBMS):** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/LatticeDB-NextGen-DBMS).
 - 🎨 **Software Design Patterns:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Software-Design-Patterns).
 - 📚 **Library Management Backend - Layered Go REST API:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Library-Management-Backend).
