@@ -270,6 +270,7 @@ A brief overview of the skills and knowledge that I have acquired over the years
     <li><img src="https://img.shields.io/badge/Vercel-black?logo=vercel&logoColor=white" alt="Vercel"></li>
     <li><img src="https://img.shields.io/badge/Heroku-purple?logo=hermes&logoColor=white" alt="Heroku"></li>
     <li><img src="https://img.shields.io/badge/Netlify-darkgreen?logo=netlify&logoColor=white" alt="Netlify"></li>
+    <li><img src="https://img.shields.io/badge/Cloudflare-F38020?logo=cloudflare&logoColor=white" alt="Cloudflare"></li>
     <li><img src="https://img.shields.io/badge/Istio-466BB0?logo=istio&logoColor=white" alt="Istio"></li>
     <li><img src="https://img.shields.io/badge/k3s-FFC61C?logo=k3s&logoColor=black" alt="k3s"></li>
     <li><img src="https://img.shields.io/badge/KEDA-FF6B35?logo=kubernetes&logoColor=white" alt="KEDA"></li>
@@ -469,6 +470,7 @@ I have also worked on a number of open-source libraries and packages that are av
 
 Not quite my main focus, but I have also worked on a number of mobile applications over the years. Here are some of them:
 
+- 🔍 **Diffuse - Local-First Device History:** [Visit its **GitHub** **repo** here](https://github.com/hoangsonww/Diffuse-Native-Apps) or [view the **wiki** here](https://hoangsonww.github.io/Diffuse-Native-Apps/). Five native apps — macOS, iOS, iPadOS, watchOS, and Android.
 - 📱 **React Native TaskNexus Task Manager App:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Task-Manager-ReactNative).
 - 🐦 **Flappy Bird Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/Flappy-Bird-Game).
 - 🎮 **The 2048 Game:** [Visit the **GitHub** **repo** here](https://github.com/hoangsonww/2048-Game). There is also a **live** **web** version of this game, which you can visit [here](https://the-2048.netlify.app/).
