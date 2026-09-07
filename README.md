@@ -20,7 +20,7 @@ My name is **Son (David) Nguyen**. I'm currently a full-time **Software Engineer
 
 **My Experiences:**
 
-- **Today** — **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** _(since July 2026)_, building and operating large-scale infrastructure and reliability/compliance systems for TikTok/ByteDance's production services. 🚀
+- **Today** — **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** _(since late July 2026)_, building and operating large-scale infrastructure and reliability/compliance systems for TikTok/ByteDance's production services. 🚀
 - **Recently** — **Software Engineer - Product** at **[Matroid, Inc.](https://www.matroid.com/)** _(Summer 2026)_, shipping computer-vision product features, agentic AI workflows, vision-language detectors, and platform integrations on Matroid's flagship CV platform. 👁️
 - **Previously** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
 - **Internships** — **Software Engineer Intern** roles at **[VNG Corporation](https://vng.com.vn)** (Summer 2023), **[FPT Corporation](https://www.fpt.com/)** (Summer 2024), **[Financial Risk Group (FRG)](https://www.frgrisk.com)** (Summer 2025), and **[Toshiba](https://commerce.toshiba.com)** (Fall 2025 – Spring 2026). 🎯
