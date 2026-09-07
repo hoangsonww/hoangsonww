@@ -16,7 +16,7 @@
 
 ## Overview
 
-My name is **Son (David) Nguyen**. I'm currently a full-time **Software Engineer - Infra** at **[TikTok](https://www.tiktok.com/)** in San Jose, CA, and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
+My name is **Son (David) Nguyen**. I'm currently a full-time **Software Engineer** at **[TikTok](https://www.tiktok.com/)** in San Jose, CA, and a graduate from **The University of North Carolina at Chapel Hill**, where I obtained a _B.S. in Computer Science, a B.A. in Economics, and a minor in Data Science_ in December 2025. 👨🏼‍💻
 
 **My Experiences:**
 
@@ -333,7 +333,7 @@ Here are some of the most notable projects I’ve worked on. You can explore eve
 
 Some of the professional projects that I have worked on across full-time roles, internships, and freelance/contract/research work:
 
-- 🎵 **TikTok's**:
+- 🎶 **TikTok's**:
   - _**Infrastructure & Reliability** – TikTok/ByteDance Video and Edge Global Infrastructure_ — currently building and operating large-scale infrastructure and reliability systems that keep TikTok and ByteDance's production services healthy, observable, and resilient.
 - 🔬 **Matroid, Inc.'s**:
   - _**Core Matroid Platform** – Flagship Computer Vision Product_ — shipped full-stack product features on Matroid's platform for building, training, and deploying custom computer-vision detectors, including agentic AI workflows, vision-language detectors, automated annotation, video search/try-out experiences, and an MCP server for AI-assistant integrations.
@@ -343,7 +343,6 @@ Some of the professional projects that I have worked on across full-time roles, 
   - _**Navigator** – Agentic Employee Onboarding Companion_ — designed an AI onboarding agent that proactively checks in with new hires, routes questions to the right person via a Graph RAG knowledge graph, and integrates with ServiceNow, Microsoft Graph, Confluence, Workday, and Teams.
   - _**Graph Context Knowledge System** – Org-Wide Knowledge Graph for Agents_ — built a Neo4j-backed organizational knowledge graph (people, teams, tools, processes, projects) with BM25 + semantic search to feed contextual grounding into Navigator, SRE Guardian, and other agentic initiatives across the company.
   - _**Deployment Pipeline Orchestrator** – End-to-End MFE Onboarding & Deployment Agent_ — built a Claude Code plugin (37 MCP tools, 10 skills) that takes a micro-frontend (MFE) from product request to production deployment. Replaces a fragmented 7-step, 4–6-tool manual workflow (GLITZ/ServiceNow, snikt CLI, Azure DevOps, Jenkins, AWS, GitHub) with a conversational intake + orchestrated API pipeline and human-in-loop checkpoints — cutting onboarding time from **~2 business days to ~3 minutes of active input + ~15–25 minutes of agent execution**.
-  - _**Tiger Engineering Plugin** – LexisNexis's First Internal Claude Code Marketplace Plugin_ — architected and shipped a 30-agent, 23-slash-command, 20-skill Claude Code plugin with a full MCP server that became the first plugin published to LexisNexis's internal Claude Code marketplace, along with the accompanying org-wide Plugin Distribution Strategy delivered to engineering leadership.
   - _**Full SDLC Automation Chain** – Reg-Impact to CodeValidation Pipeline_ — built an end-to-end autonomous development pipeline spanning regulatory impact analysis, AzureBoard CLI integration, auto-implementation, and CodeValidation, eliminating the majority of manual engineering overhead across the development lifecycle.
 - 🤖 **Toshiba's**:
   - _**Agentic Team** – AI-Powered, Fully-Autonomous Software Development Platform_ — enhanced the internal agentic AI platform that now automates **~95% of the SDLC**, designing 4+ multi-agent workflows (Kafka, Redis, LangChain, Neo4j, Weaviate) for autonomous code generation, review, and evaluation with safety guardrails, telemetry, and CI/CD integration. Built a 6-task-type QA Agent (unit, integration, regression, smoke, API contract, E2E), a LangGraph + Weaviate RAG pipeline that improved retrieval accuracy by **30%**, a real-time admin stats dashboard with WebSocket monitoring, an AI cost analytics module for per-agent/per-model spend tracking, and multimodal LLM features (text + image + document).
