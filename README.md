@@ -25,7 +25,7 @@ My name is **Son (David) Nguyen**. I'm currently a full-time **Software Engineer
 - **Previously** — **Software Engineer III** at **[LexisNexis](https://www.lexisnexis.com/en-us)** _(Spring 2026)_, building full-stack and AI-forward features on large-scale legal-tech products. 🧠
 - **Internships** — **Software Engineer Intern** roles at **[VNG Corporation](https://vng.com.vn)** (Summer 2023), **[FPT Corporation](https://www.fpt.com/)** (Summer 2024), **[Financial Risk Group (FRG)](https://www.frgrisk.com)** (Summer 2025), and **[Toshiba](https://commerce.toshiba.com)** (Fall 2025 – Spring 2026). 🎯
 
-I am _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
+I'm _very_ passionate about software engineering, web development, data analytics, and AI/ML technologies. I also enjoy building full-stack applications, exploring new tools, and contributing to the open-source community. ✨
 
 > [!IMPORTANT]
 > For more information about me and my projects, please continue reading this README, take a look at my **[GitHub repositories](https://github.com/hoangsonww?tab=repositories)**, and feel free to visit my portfolio website at **[sonnguyenhoang.com](https://sonnguyenhoang.com)**!
